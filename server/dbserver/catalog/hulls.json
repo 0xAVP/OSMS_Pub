@@ -1,0 +1,13 @@
+{
+  "hull_celestial": {
+    "name": "Celestial Class Hull",
+    "description": "A pre-fabricated structural frame for a Celestial-class frigate. Ready for blockchain registration to become a fully functional ship.",
+    "rarity": "epic",
+    "category": "hulls",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    },
+    "exchangeForShipTypeId": 7
+  }
+}

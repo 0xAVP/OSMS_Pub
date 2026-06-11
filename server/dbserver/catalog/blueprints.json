@@ -1,0 +1,934 @@
+{
+  "components": [
+    {
+      "key": "bp_energy_matrix",
+      "name": "Blueprint: Energy Matrix",
+      "description": "Used to produce 'Energy Matrix'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "voltaic_cell": {
+          "category": "resources",
+          "quantity": 32
+        },
+        "auracite": {
+          "category": "resources",
+          "quantity": 24
+        },
+        "ferrite_cluster": {
+          "category": "resources",
+          "quantity": 24
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "energy_matrix": {
+          "category": "components",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "key": "bp_kinetic_amplifier",
+      "name": "Blueprint: Kinetic Amplifier",
+      "description": "Used to produce 'Kinetic Amplifier'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "onyx_blade": {
+          "category": "resources",
+          "quantity": 32
+        },
+        "onyther_rock": {
+          "category": "resources",
+          "quantity": 24
+        },
+        "ferrite_cluster": {
+          "category": "resources",
+          "quantity": 24
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "kinetic_amplifier": {
+          "category": "components",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "key": "bp_pulse_emitter",
+      "name": "Blueprint: Pulse Emitter",
+      "description": "Used to produce 'Pulse Emitter'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "voltaic_cell": {
+          "category": "resources",
+          "quantity": 32
+        },
+        "onyx_blade": {
+          "category": "resources",
+          "quantity": 24
+        },
+        "auracite": {
+          "category": "resources",
+          "quantity": 24
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "pulse_emitter": {
+          "category": "components",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "key": "bp_shield_capacitor",
+      "name": "Blueprint: Shield Capacitor",
+      "description": "Used to produce 'Shield Capacitor'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "crylonite": {
+          "category": "resources",
+          "quantity": 32
+        },
+        "voltaic_cell": {
+          "category": "resources",
+          "quantity": 24
+        },
+        "auracite": {
+          "category": "resources",
+          "quantity": 24
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "shield_capacitor": {
+          "category": "components",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "key": "bp_energy_barrier",
+      "name": "Blueprint: Energy Barrier",
+      "description": "Used to produce 'Energy Barrier'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "hydronite_gem": {
+          "category": "resources",
+          "quantity": 32
+        },
+        "crylonite": {
+          "category": "resources",
+          "quantity": 24
+        },
+        "voltaic_cell": {
+          "category": "resources",
+          "quantity": 24
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "energy_barrier": {
+          "category": "components",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "key": "bp_radiation_shielding",
+      "name": "Blueprint: Radiation Shielding",
+      "description": "Used to produce 'Radiation Shielding'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "verdanite_shard": {
+          "category": "resources",
+          "quantity": 32
+        },
+        "hydronite_gem": {
+          "category": "resources",
+          "quantity": 24
+        },
+        "ferrite_cluster": {
+          "category": "resources",
+          "quantity": 24
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "radiation_shielding": {
+          "category": "components",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "key": "bp_armor_plating",
+      "name": "Blueprint: Armor Plating",
+      "description": "Used to produce 'Armor Plating'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "ferrite_cluster": {
+          "category": "resources",
+          "quantity": 32
+        },
+        "onyther_rock": {
+          "category": "resources",
+          "quantity": 24
+        },
+        "verdanite_shard": {
+          "category": "resources",
+          "quantity": 24
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "armor_plating": {
+          "category": "components",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "key": "bp_reinforced_alloy",
+      "name": "Blueprint: Reinforced Alloy",
+      "description": "Used to produce 'Reinforced Alloy'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "onyther_rock": {
+          "category": "resources",
+          "quantity": 32
+        },
+        "ferrite_cluster": {
+          "category": "resources",
+          "quantity": 24
+        },
+        "onyx_blade": {
+          "category": "resources",
+          "quantity": 24
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "reinforced_alloy": {
+          "category": "components",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "key": "bp_kinetic_dampener",
+      "name": "Blueprint: Kinetic Dampener",
+      "description": "Used to produce 'Kinetic Dampener'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "crylonite": {
+          "category": "resources",
+          "quantity": 32
+        },
+        "onyther_rock": {
+          "category": "resources",
+          "quantity": 24
+        },
+        "hydronite_gem": {
+          "category": "resources",
+          "quantity": 24
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "kinetic_dampener": {
+          "category": "components",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "key": "bp_thruster_core",
+      "name": "Blueprint: Thruster Core",
+      "description": "Used to produce 'Thruster Core'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "voltaic_cell": {
+          "category": "resources",
+          "quantity": 32
+        },
+        "ferrite_cluster": {
+          "category": "resources",
+          "quantity": 24
+        },
+        "onyx_blade": {
+          "category": "resources",
+          "quantity": 24
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "thruster_core": {
+          "category": "components",
+          "quantity": 1
+        }
+      }
+    },
+    {
+      "key": "bp_propulsion_booster",
+      "name": "Blueprint: Propulsion Booster",
+      "description": "Used to produce 'Propulsion Booster'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "auracite": {
+          "category": "resources",
+          "quantity": 32
+        },
+        "verdanite_shard": {
+          "category": "resources",
+          "quantity": 24
+        },
+        "voltaic_cell": {
+          "category": "resources",
+          "quantity": 24
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "propulsion_booster": {
+          "category": "components",
+          "quantity": 1
+        }
+      }
+    }
+  ],
+  "modules": [
+    {
+      "key": "bp_pulse_blaster_mk1",
+      "name": "Blueprint: Pulse Blaster Mk I",
+      "description": "Used to produce 'Pulse Blaster Mk I'",
+      "rarity": "common",
+      "category": "blueprints",
+      "attributes": {
+        "isTradable": true,
+        "isUsable": false
+      },
+      "requiredResources": {
+        "bp_pulse_blaster_mk1": {
+          "category": "blueprints",
+          "quantity": 1
+        },
+        "energy_matrix": {
+          "category": "components",
+          "quantity": 20
+        },
+        "pulse_emitter": {
+          "category": "components",
+          "quantity": 10
+        },
+        "radiation_shielding": {
+          "category": "components",
+          "quantity": 5
+        }
+      },
+      "timetocraft": 600,
+      "itemCrafted": {
+        "pulse_blaster_mk1": {
+          "quantity": 1,
+          "category": "modules",
+          "craftParams": {
+            "energyCost": [
+              2,
+              3
+            ],
+            "damage": {
+              "min": [
+                8,
+                12
+              ],
+              "max": [
+                15,
+                20
+              ]
+            },
+            "fireRate": [
+              112,
+              150
+            ],
+            "critical": {
+              "chance": [
+                1,
+                2
+              ],
+              "modifier": [
+                200,
+                300
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "key": "bp_pulse_shotgun_mk1",
+      "name": "Blueprint: Pulse Shotgun Mk I",
+      "description": "Used to produce 'Pulse Shotgun Mk I'",
+      "rarity": "common",
+      "category": "blueprints",
+      "attributes": {
+        "isTradable": true,
+        "isUsable": false
+      },
+      "requiredResources": {
+        "bp_pulse_shotgun_mk1": {
+          "category": "blueprints",
+          "quantity": 1
+        },
+        "kinetic_amplifier": {
+          "category": "components",
+          "quantity": 20
+        },
+        "energy_matrix": {
+          "category": "components",
+          "quantity": 10
+        },
+        "pulse_emitter": {
+          "category": "components",
+          "quantity": 5
+        }
+      },
+      "timetocraft": 600,
+      "itemCrafted": {
+        "pulse_shotgun_mk1": {
+          "quantity": 1,
+          "category": "modules",
+          "craftParams": {
+            "energyCost": [
+              6,
+              8
+            ],
+            "damage": {
+              "min": [
+                4,
+                6
+              ],
+              "max": [
+                7,
+                9
+              ]
+            },
+            "fireRate": [
+              300,
+              500
+            ],
+            "critical": {
+              "chance": [
+                2,
+                5
+              ],
+              "modifier": [
+                150,
+                180
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "key": "bp_pulse_piercer_mk1",
+      "name": "Blueprint: Pulse Piercer Mk I",
+      "description": "Used to produce 'Pulse Piercer Mk I'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "bp_pulse_piercer_mk1": {
+          "category": "blueprints",
+          "quantity": 1
+        },
+        "pulse_emitter": {
+          "category": "components",
+          "quantity": 20
+        },
+        "kinetic_amplifier": {
+          "category": "components",
+          "quantity": 10
+        },
+        "energy_matrix": {
+          "category": "components",
+          "quantity": 5
+        }
+      },
+      "timetocraft": 600,
+      "itemCrafted": {
+        "pulse_piercer_mk1": {
+          "quantity": 1,
+          "category": "modules",
+          "craftParams": {
+            "energyCost": [
+              9,
+              13
+            ],
+            "damage": {
+              "min": [
+                25,
+                35
+              ],
+              "max": [
+                40,
+                50
+              ]
+            },
+            "fireRate": [
+              800,
+              1000
+            ],
+            "critical": {
+              "chance": [
+                3,
+                6
+              ],
+              "modifier": [
+                160,
+                200
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "key": "bp_energy_shield_mk1",
+      "name": "Blueprint: Energy Shield Mk1",
+      "description": "Used to produce 'Energy Shield Mk1'",
+      "rarity": "common",
+      "category": "blueprints",
+      "attributes": {
+        "isTradable": true,
+        "isUsable": false
+      },
+      "requiredResources": {
+        "bp_energy_shield_mk1": {
+          "category": "blueprints",
+          "quantity": 1
+        },
+        "shield_capacitor": {
+          "category": "components",
+          "quantity": 18
+        },
+        "energy_barrier": {
+          "category": "components",
+          "quantity": 9
+        },
+        "radiation_shielding": {
+          "category": "components",
+          "quantity": 4
+        }
+      },
+      "timetocraft": 600,
+      "itemCrafted": {
+        "energy_shield_mk1": {
+          "quantity": 1,
+          "category": "modules",
+          "craftParams": {
+            "shield": {
+              "capacity": [
+                150,
+                250
+              ],
+              "regen": [
+                10,
+                15
+              ],
+              "delay": [
+                1000,
+                1400
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "key": "bp_flux_shield_mk1",
+      "name": "Blueprint: Flux Shield Mk1",
+      "description": "Used to produce 'Flux Shield Mk1'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "bp_flux_shield_mk1": {
+          "category": "blueprints",
+          "quantity": 1
+        },
+        "energy_barrier": {
+          "category": "components",
+          "quantity": 18
+        },
+        "shield_capacitor": {
+          "category": "components",
+          "quantity": 9
+        },
+        "radiation_shielding": {
+          "category": "components",
+          "quantity": 4
+        }
+      },
+      "timetocraft": 600,
+      "itemCrafted": {
+        "flux_shield_mk1": {
+          "quantity": 1,
+          "category": "modules",
+          "craftParams": {
+            "shield": {
+              "capacity": [
+                100,
+                180
+              ],
+              "regen": [
+                20,
+                30
+              ],
+              "delay": [
+                600,
+                1000
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "key": "bp_aegis_shield_mk1",
+      "name": "Blueprint: Aegis Shield Mk1",
+      "description": "Used to produce 'Aegis Shield Mk1'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {
+        "bp_aegis_shield_mk1": {
+          "category": "blueprints",
+          "quantity": 1
+        },
+        "radiation_shielding": {
+          "category": "components",
+          "quantity": 18
+        },
+        "shield_capacitor": {
+          "category": "components",
+          "quantity": 9
+        },
+        "energy_barrier": {
+          "category": "components",
+          "quantity": 4
+        }
+      },
+      "timetocraft": 600,
+      "itemCrafted": {
+        "aegis_shield_mk1": {
+          "quantity": 1,
+          "category": "modules",
+          "craftParams": {
+            "shield": {
+              "capacity": [
+                300,
+                500
+              ],
+              "regen": [
+                5,
+                8
+              ],
+              "delay": [
+                1800,
+                2200
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "key": "bp_kinetic_armor_mk1",
+      "name": "Blueprint: Kinetic Armor Mk I",
+      "description": "Used to produce 'Kinetic Armor Mk I'",
+      "rarity": "common",
+      "category": "blueprints",
+      "attributes": {
+        "isTradable": true,
+        "isUsable": false
+      },
+      "requiredResources": {
+        "bp_kinetic_armor_mk1": {
+          "category": "blueprints",
+          "quantity": 1
+        },
+        "armor_plating": {
+          "category": "components",
+          "quantity": 22
+        },
+        "kinetic_dampener": {
+          "category": "components",
+          "quantity": 11
+        },
+        "reinforced_alloy": {
+          "category": "components",
+          "quantity": 6
+        }
+      },
+      "timetocraft": 600,
+      "itemCrafted": {
+        "kinetic_armor_mk1": {
+          "quantity": 1,
+          "category": "modules",
+          "craftParams": {
+            "armor": {
+              "capacity": [
+                120,
+                200
+              ]
+            },
+            "absorption": {
+              "chance": [
+                4,
+                8
+              ],
+              "absorb": [
+                50,
+                80
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "key": "bp_ablative_armor_mk1",
+      "name": "Blueprint: Ablative Armor Mk I",
+      "description": "Used to produce 'Ablative Armor Mk I'",
+      "rarity": "common",
+      "category": "blueprints",
+      "attributes": {
+        "isTradable": true,
+        "isUsable": false
+      },
+      "requiredResources": {
+        "bp_ablative_armor_mk1": {
+          "category": "blueprints",
+          "quantity": 1
+        },
+        "reinforced_alloy": {
+          "category": "components",
+          "quantity": 22
+        },
+        "armor_plating": {
+          "category": "components",
+          "quantity": 11
+        },
+        "kinetic_dampener": {
+          "category": "components",
+          "quantity": 6
+        }
+      },
+      "timetocraft": 600,
+      "itemCrafted": {
+        "ablative_armor_mk1": {
+          "quantity": 1,
+          "category": "modules",
+          "craftParams": {
+            "armor": {
+              "capacity": [
+                220,
+                300
+              ]
+            },
+            "absorption": {
+              "chance": [
+                1,
+                3
+              ],
+              "absorb": [
+                150,
+                200
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "key": "bp_reactive_armor_mk1",
+      "name": "Blueprint: Reactive Armor Mk I",
+      "description": "Used to produce 'Reactive Armor Mk I'",
+      "rarity": "common",
+      "category": "blueprints",
+      "attributes": {
+        "isTradable": true,
+        "isUsable": false
+      },
+      "requiredResources": {
+        "bp_reactive_armor_mk1": {
+          "category": "blueprints",
+          "quantity": 1
+        },
+        "kinetic_dampener": {
+          "category": "components",
+          "quantity": 22
+        },
+        "reinforced_alloy": {
+          "category": "components",
+          "quantity": 11
+        },
+        "armor_plating": {
+          "category": "components",
+          "quantity": 6
+        }
+      },
+      "timetocraft": 600,
+      "itemCrafted": {
+        "reactive_armor_mk1": {
+          "quantity": 1,
+          "category": "modules",
+          "craftParams": {
+            "armor": {
+              "capacity": [
+                80,
+                120
+              ]
+            },
+            "absorption": {
+              "chance": [
+                15,
+                25
+              ],
+              "absorb": [
+                40,
+                60
+              ]
+            }
+          }
+        }
+      }
+    },
+    {
+      "key": "bp_ion_thruster_mk1",
+      "name": "Blueprint: Ion Thruster Mk I",
+      "description": "Used to produce 'Ion Thruster Mk I'",
+      "rarity": "common",
+      "category": "blueprints",
+      "attributes": {
+        "isTradable": true,
+        "isUsable": false
+      },
+      "requiredResources": {
+        "bp_ion_thruster_mk1": {
+          "category": "blueprints",
+          "quantity": 1
+        },
+        "thruster_core": {
+          "category": "components",
+          "quantity": 18
+        },
+        "propulsion_booster": {
+          "category": "components",
+          "quantity": 9
+        },
+        "energy_matrix": {
+          "category": "components",
+          "quantity": 4
+        }
+      },
+      "timetocraft": 600,
+      "itemCrafted": {
+        "ion_thruster_mk1": {
+          "quantity": 1,
+          "category": "modules",
+          "craftParams": {
+            "speed": 400,
+            "energy": {
+              "capacity": [
+                100,
+                150
+              ],
+              "regen": [
+                10,
+                15
+              ]
+            },
+            "evasion": [
+              5,
+              10
+            ]
+          }
+        }
+      }
+    }
+  ],
+  "other": [
+    {
+      "key": "bp_fuel",
+      "name": "Blueprint: Fuel",
+      "description": "Used to produce 'Fuel'",
+      "rarity": "common",
+      "category": "blueprints",
+      "requiredResources": {},
+      "timetocraft": 800,
+      "itemCrafted": {
+        "fuel": {
+          "category": "other",
+          "quantity": 10
+        }
+      }
+    },
+    {
+      "key": "bp_osms_coin",
+      "name": "Blueprint: OSMS Coin",
+      "description": "Used to produce 'OSMS Coin'",
+      "rarity": "legendary",
+      "category": "blueprints",
+      "requiredResources": {
+        "fuel": {
+          "category": "other",
+          "quantity": 1
+        },
+        "osms_coin_part": {
+          "category": "resources",
+          "quantity": 10
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "osms_coin": {
+          "category": "other",
+          "quantity": 1
+        }
+      }
+    }
+  ],
+  "hulls": [
+    {
+      "key": "bp_hull_celestial",
+      "name": "Blueprint: Celestial Hull",
+      "description": "A blueprint to construct a Celestial-class ship hull.",
+      "rarity": "epic",
+      "category": "blueprints",
+      "requiredResources": {
+        "ferrite_cluster": {
+          "category": "resources",
+          "quantity": 1
+        }
+      },
+      "timetocraft": 60,
+      "itemCrafted": {
+        "hull_celestial": {
+          "category": "hulls",
+          "quantity": 1
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "fuel": {
+    "name": "Fuel",
+    "description": "A highly refined, stable form of hyper-condensed energy. Essential for activating advanced combat abilities and pushing ship systems beyond their standard limits. Due to its extreme density and vital importance for survival, it is a highly sought-after commodity throughout the galaxy.",
+    "rarity": "default",
+    "category": "other",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "osms_coin": {
+    "name": "OSMS Coin",
+    "description": "Ancient coin. ",
+    "rarity": "legendary",
+    "category": "other",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  }
+}

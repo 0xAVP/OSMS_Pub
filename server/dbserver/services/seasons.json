@@ -1,0 +1,28 @@
+[
+  {
+    "seasonNumber": 1,
+    "startDate": "2025-12-02T11:00:00.000Z",
+    "endDate": "2025-12-20T11:00:00.000Z",
+    "description": "Season One: The Genesis",
+    "rewards": {
+      "1": "#1: Unique Echo 'Kappa' NFT",
+      "2": "#2: Legendary Echo 'Iota' NFT",
+      "3": "#3: Epic Echo 'Eta' NFT",
+      "4": "#4: 20 USDT",
+      "5": "#5 - #20: Common Echo 'Alpha' NFT"
+    }
+  },
+  {
+    "seasonNumber": 2,
+    "startDate": "2025-12-25T11:00:00.000Z",
+    "endDate": "2026-01-25T11:00:00.000Z",
+    "description": "Season Two: Blitz Week",
+    "rewards": {
+      "1": "#1: Unique Echo 'Kappa-s1' NFT",
+      "2": "#2: Epic Echo 'Eta' NFT",
+      "3": "#3: Rare Echo 'Epsilon' NFT",
+      "4": "#4: 20 USDT",
+      "5": "#5 - #20: Common Echo 'Alpha' NFT"
+    }
+  }
+]

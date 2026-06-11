@@ -1,0 +1,13 @@
+{
+  "exp_booster_x2_1h": {
+    "name": "XP Booster (x2, 1h)",
+    "description": "...",
+    "category": "boosters",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": true
+    },
+    "textureKey": "exp_booster_icon",
+    "activatesBuff": "exp_booster_x2"
+  }
+}

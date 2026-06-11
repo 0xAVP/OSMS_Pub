@@ -1,0 +1,1081 @@
+/* Импорт шрифта должен быть в самом верху файла */
+
+
+/* === АНИМАЦИЯ ДРЕЙФА === */
+@keyframes driftAnimation {
+    from {
+        transform: translate(0, 0);
+    }
+    to {
+        transform: translate(-30px, -10px);
+    }
+}
+
+@keyframes levitateAnimation {
+    from {
+        transform: translateY(0);
+    }
+    to {
+        transform: translateY(-20px); /* Поднимаем на 20px вверх */
+    }
+}
+
+body {
+    margin: 0;
+    font-family: 'Orbitron', sans-serif;
+    /* Это правило не рекомендуется, но оставлено по вашей просьбе.
+       Может вызывать конфликты в будущем. */
+    overflow: auto !important;
+}
+
+/* --- ОБЩИЕ СТИЛИ ДЛЯ ВСЕХ СЕКЦИЙ --- */
+.firstSection, .secondSection, .thirdSection, .fourthSection, .faqSection {
+    position: relative;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    /* Адаптивный padding */
+    padding: clamp(1rem, 2.08vw, 4rem); /* 32px @ 1920px */
+    overflow: hidden;
+}
+
+.networkHint {
+    margin-top: 12px;
+    font-family: 'Tektur', sans-serif;
+    font-size: 12px;
+    color: #888888;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    text-align: center;
+    animation: fadeIn 0.5s ease-out;
+}
+
+.networkHint span {
+    color: #FEBA00; /* Золотой по умолчанию (для Required) */
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+/* НОВЫЙ КЛАСС: Зеленый цвет для успешного подключения */
+.networkHint.success span {
+    color: #42DA9D;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-5px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* --- УНИКАЛЬНЫЕ СТИЛИ СЕКЦИЙ --- */
+.firstSection {
+    height: 100vh;
+    color: #FFFFFF;
+    background: url('/assets/images/pages/startpage/bg.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.secondSection {
+    /* Адаптивный padding */
+    padding-top: clamp(50px, 5.21vw, 200px); /* 100px @ 1920px */
+    padding-bottom: clamp(50px, 5.21vw, 200px);
+    background-color: #EBEBEB;
+    color: #1B012A;
+    background: url('/assets/images/pages/startpage/bg4.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.thirdSection {
+
+    /* Адаптивный padding */
+    padding-top: clamp(50px, 5.21vw, 200px);
+    padding-bottom: clamp(50px, 5.21vw, 200px);
+    background: url('/assets/images/pages/startpage/bg2.jpg') no-repeat center center;
+    background-size: cover;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.fourthSection {
+
+    /* Адаптивный padding */
+    padding-top: clamp(50px, 5.21vw, 200px);
+    padding-bottom: clamp(50px, 5.21vw, 200px);
+    background: url('/assets/images/pages/startpage/bg3.jpg') no-repeat center center;
+    background-size: cover;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.faqSection {
+    /* Адаптивный padding */
+    padding-top: clamp(50px, 5.21vw, 200px);
+    padding-bottom: clamp(50px, 5.21vw, 200px);
+    color: #1B012A;
+    background: url('/assets/images/pages/startpage/bg5.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+
+/* === КОНТЕНТ ПЕРВОГО БЛОКА === */
+.shipImage {
+    position: absolute;
+    /* Адаптивная ширина */
+    width: clamp(301px, 31.35vw, 1204px); /* 602px @ 1920px */
+    top: -2.2vw;
+    right: -2.2vw;
+    z-index: 0;
+}
+
+.planetImage {
+    position: absolute;
+    /* Уже используется clamp */
+    width: clamp(200px, 28.1vw, 1080px);
+    height: clamp(200px, 28.1vw, 1080px);
+    bottom: -5vw;
+    left: -5vw;
+    z-index: 0;
+    background-image: url('/assets/images/pages/startpage/planet1.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.logoContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2rem;
+    z-index: 1;
+}
+
+.logoLineOne {
+    /* Адаптивный шрифт */
+    font-size: clamp(55px, 5.73vw, 220px); /* 110px @ 1920px */
+    font-weight: 400;
+    color: #00ffff;
+    letter-spacing: 0.05em;
+    white-space: nowrap;
+    line-height: 1;
+}
+
+.logoLineTwo {
+    display: flex;
+    letter-spacing: 0.051em;
+    width: 100%;
+    /* Адаптивный шрифт */
+    font-size: clamp(45.5px, 4.74vw, 182px); /* 91px @ 1920px */
+    font-weight: 400;
+    color: #00ffff;
+    line-height: 1;
+}
+
+.lWithDot {
+    position: relative;
+    display: inline-block;
+}
+
+.lWithDot::after {
+    content: '';
+    position: absolute;
+    /* Уже используется clamp */
+    width: clamp(18px, 1.875vw, 72px);
+    height: clamp(18px, 1.875vw, 72px);
+    background-color: currentColor;
+    border-radius: 50%;
+    top: 0.1em;
+    right: 0;
+}
+
+.title {
+    /* Адаптивный шрифт */
+    font-size: clamp(20px, 2.08vw, 80px); /* 40px @ 1920px */
+    font-weight: 400;
+    margin-bottom: 7rem;
+    color: white;
+    z-index: 1;
+    text-align: center;
+    font-family: 'Tektur', sans-serif;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: column;
+    max-width: 90%;
+    z-index: 1;
+    align-items: center;
+}
+
+.playButton {
+    /* Адаптивная ширина */
+    width: clamp(110px, 11.46vw, 440px); /* 220px @ 1920px */
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.2s;
+    background: none;
+    border: none;
+    padding: 0;
+}
+
+.playButton:hover {
+    transform: scale(1.05);
+}
+
+.walletContainer {
+    position: absolute;
+    top: 2em;
+    left: 3em;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    z-index: 2;
+}
+
+.connectWallet, .disconnectWallet {
+    /* Адаптивные размеры */
+    font-size: clamp(10px, 0.94vw, 36px); /* 18px @ 1920px */
+    width: clamp(125px, 13.02vw, 500px); /* 250px @ 1920px */
+    height: clamp(30px, 3.125vw, 120px); /* 60px @ 1920px */
+    border-radius: 0.5em;
+    cursor: pointer;
+    transition: all 0.2s;
+    font-family: 'Orbitron', sans-serif;
+    letter-spacing: 0.05em;
+}
+
+.connectWallet {
+    background: rgba(58, 125, 153, 0.2);
+    color: #FFFFFF;
+    border: 1px solid #00FFFF;
+}
+
+.connectWallet:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 10px rgba(0, 255, 255, 0.7);
+}
+
+.disconnectWallet {
+    background: rgba(58, 125, 153, 0.2);
+    color: #FFFFFF;
+    border: 1px solid #00FFFF;
+}
+
+.disconnectWallet:hover {
+    background-color: #993A8E;
+}
+
+.walletStatus {
+    /* Уже используется clamp */
+    font-size: clamp(0.875rem, 1vw, 2rem);
+    letter-spacing: 0.0625rem;
+    text-shadow: 0 0 5px rgba(0, 255, 255, 0.5);
+    margin: 0;
+}
+
+.socialLinks {
+    position: absolute;
+    bottom: 1.25rem;
+    left: 50%;
+    transform: translateX(-50%);
+    display: flex;
+    gap: 1.25rem;
+    max-width: 90%;
+    flex-wrap: wrap;
+    justify-content: center;
+    z-index: 1;
+}
+
+.discordIcon, .bookIcon, .twitterIcon {
+    /* Уже используется clamp */
+    width: clamp(35px, 2.34vw, 90px);
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+.discordIcon:hover, .bookIcon:hover, .twitterIcon:hover {
+    transform: scale(1.1);
+}
+
+.body1secImage {
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    /* Адаптивная ширина */
+    width: clamp(100px, 10.42vw, 400px); /* 200px @ 1920px */
+    height: auto;
+    z-index: 0;
+    pointer-events: none;
+    animation: driftAnimation 4s ease-in-out infinite alternate;
+}
+
+.soonText {
+    /* Адаптивный шрифт */
+    font-size: clamp(14px, 0.94vw, 36px); /* 18px @ 1920px */
+    font-family: "Orbitron", sans-serif;
+    letter-spacing: 0.05em;
+}
+
+/* === КОНТЕНТ ВТОРОГО БЛОКА === */
+.planetTopSlice {
+    position: absolute;
+    top: -23.1vw;
+    left: -5vw;
+    /* Уже используется clamp */
+    width: clamp(200px, 28.1vw, 1080px);
+    height: clamp(200px, 28.1vw, 1080px);
+    z-index: 0;
+    background-image: url('/assets/images/pages/startpage/planet1.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+.echoLeft {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    /* Адаптивная ширина */
+    width: clamp(240px, 25vw, 960px); /* 480px @ 1920px */
+    z-index: 1;
+}
+
+.echoRight {
+    top: 0;
+    right: 0;
+    position: absolute;
+    /* Адаптивная ширина */
+    width: clamp(185px, 19.27vw, 740px); /* 370px @ 1920px */
+    z-index: 1;
+}
+
+.echoesHeader {
+    text-align: center;
+    margin-bottom: 2rem;
+    z-index: 2;
+}
+
+.textColored {
+    color: #bb53a9;
+}
+
+.echoesTitle {
+    /* Адаптивный шрифт */
+    font-size: clamp(45.5px, 4.74vw, 182px); /* 91px @ 1920px */
+    font-family: "Orbitron", sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    color: #1B012A;
+    margin: 0;
+    line-height: 1;
+}
+
+.echoesSubtitle {
+    /* Адаптивный шрифт */
+    font-size: clamp(20px, 2.08vw, 80px); /* 40px @ 1920px */
+    font-family: "Orbitron", sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    color: #1B012A;
+    margin: 0;
+}
+
+.echoesMainContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+    width: 100%;
+    /* Адаптивная ширина */
+    max-width: clamp(700px, 72.92vw, 2800px); /* 1400px @ 1920px */
+    padding: 3rem 0;
+    z-index: 2;
+}
+
+.infoColumnLeft, .infoColumnRight {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.infoColumnLeft {
+    align-items: flex-start;
+}
+
+.infoColumnRight {
+    align-items: flex-end;
+}
+
+.mintColumn {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.infoText {
+    /* Адаптивный шрифт */
+    font-size: clamp(16px, 1.46vw, 56px); /* 28px @ 1920px */
+    font-weight: 400;
+    font-family: "Tektur", sans-serif;
+    margin: 0;
+}
+
+.infoColumnRight .infoText {
+    text-align: right;
+}
+
+.cardContainer {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.pilotCard {
+    /* Адаптивная ширина */
+    width: clamp(324px, 33.75vw, 1296px); /* 648px @ 1920px */
+}
+
+.mintImageButton {
+    /* Адаптивная ширина */
+    width: clamp(110px, 11.46vw, 440px); /* 220px @ 1920px */
+    height: auto;
+    cursor: pointer;
+    transition: transform 0.2s;
+    margin-top: 2rem;
+}
+
+.mintImageButton:hover {
+    transform: scale(1.05);
+}
+
+.echoesFooter {
+    margin-top: 2rem;
+    /* Адаптивная ширина */
+    max-width: clamp(600px, 62.5vw, 2400px); /* 1200px @ 1920px */
+    text-align: center;
+    z-index: 2;
+}
+
+.echoesDescription {
+    /* Адаптивный шрифт */
+    font-size: clamp(16px, 1.46vw, 56px); /* 28px @ 1920px */
+    font-weight: 400;
+    font-family: "Tektur", sans-serif;
+    text-align: left;
+    color: #1B012A;
+}
+
+
+/* === КОНТЕНТ ТРЕТЬЕГО БЛОКА === */
+
+.thirdHeader {
+    text-align: center;
+    margin-bottom: 4rem;
+    z-index: 1;
+}
+
+.preTitle {
+    /* Адаптивный шрифт */
+    font-size: clamp(20px, 2.08vw, 80px); /* 40px @ 1920px */
+    font-family: "Orbitron", sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    margin: 0;
+    color: #ffffff;
+}
+
+.mainTitle {
+    /* Адаптивный шрифт */
+    font-size: clamp(45.5px, 4.74vw, 182px); /* 91px @ 1920px */
+    font-family: "Orbitron", sans-serif;
+    font-weight: 400;
+    margin: 0;
+    line-height: 1;
+    color: #ffffff;
+    letter-spacing: 0.05em;
+}
+
+.subTitle {
+    /* Адаптивный шрифт */
+    font-size: clamp(22px, 2.08vw, 80px); /* 40px @ 1920px */
+    font-family: "Tektur", sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+/* Основной Flexbox-контейнер для колонок с кораблем и особенностями */
+.thirdSectionContent {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    /* Адаптивная ширина */
+    max-width: clamp(700px, 72.92vw, 2800px); /* 1400px @ 1920px */
+    gap: 5rem;
+    margin-bottom: 4rem;
+}
+
+/* Левая колонка, содержащая корабль и его тень */
+.shipContainer {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/*
+  Обертка для корабля и тени.
+  `position: relative` - это ключ к правильному позиционированию тени.
+*/
+.shipAndShadowWrapper {
+    position: relative;
+}
+
+.levitating {
+    animation: levitateAnimation 3s ease-in-out infinite alternate;
+}
+
+/*
+  Изображение самого корабля.
+  `z-index: 2` чтобы быть НАД тенью.
+*/
+.ship2Image {
+    width: 100%;
+    max-width: 700px;
+    height: auto;
+    position: relative; /* Добавляем, чтобы z-index сработал корректно */
+    z-index: 2;
+}
+
+/*
+  Изображение тени. Позиционируется абсолютно ОТНОСИТЕЛЬНО .shipAndShadowWrapper.
+*/
+.shipShadowImage {
+    position: absolute;
+    /* Адаптивное позиционирование */
+    bottom: clamp(-50px, -5.21vw, -200px); /* -100px @ 1920px */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 90%;
+    height: auto;
+    z-index: 1;
+}
+
+/* Правая колонка, содержащая список особенностей */
+.featuresContainer {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start; /* Выравниваем содержимое по левому краю */
+}
+
+/* Сетка (в данном случае список) с особенностями */
+.featuresGrid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    /* Адаптивная ширина */
+    max-width: clamp(300px, 31.25vw, 1200px); /* 600px @ 1920px */
+    width: 100%;
+    z-index: 1;
+}
+
+/* Отдельный элемент списка */
+.featureItem {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+    text-align: left;
+}
+
+.featureIconContainer {
+    flex-shrink: 0; /* Иконка не будет сжиматься, если текст длинный */
+    /* Адаптивная ширина */
+    width: clamp(50px, 5.21vw, 200px); /* 100px @ 1920px */
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.featureIconContainer img {
+    max-width: 100%;
+    height: auto;
+}
+
+.featureText {
+    /* Адаптивный шрифт */
+    font-size: clamp(16px, 1.46vw, 56px); /* 28px @ 1920px */
+    font-family: "Tektur", sans-serif;
+    font-weight: 400;
+}
+
+/* Нижний блок с описанием, который теперь находится под колонками */
+.description {
+    /* Адаптивная ширина */
+    max-width: clamp(600px, 62.5vw, 2400px); /* 1200px @ 1920px */
+    z-index: 1;
+    text-align: left;
+}
+
+.description p {
+    /* Адаптивный шрифт */
+    font-size: clamp(16px, 1.46vw, 56px); /* 28px @ 1920px */
+    font-family: "Tektur", sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+
+/* === КОНТЕНТ ЧЕТВЕРТОГО БЛОКА === */
+.stationImage {
+    position: absolute;
+    top: 0;
+    left: -5%;
+    /* Адаптивная ширина */
+    width: clamp(250px, 26.04vw, 1000px); /* 500px @ 1920px */
+    z-index: 1;
+}
+
+.planet2Image {
+    position: absolute;
+    bottom: -5%;
+    left: -5%;
+    /* Адаптивная ширина */
+    width: clamp(150px, 15.625vw, 600px); /* 300px @ 1920px */
+    z-index: 1;
+}
+
+.moduleCardImage {
+    position: absolute;
+    top: 15%;
+    right: 5%;
+    /* Адаптивная ширина */
+    width: clamp(125px, 13.02vw, 500px); /* 250px @ 1920px */
+    z-index: 1;
+}
+
+.crystalsImage {
+    position: absolute;
+    top: 40%;
+    right: 5%;
+    /* Адаптивная ширина */
+    width: clamp(75px, 7.81vw, 300px); /* 150px @ 1920px */
+    z-index: 1;
+}
+
+.thrusterImage {
+    position: absolute;
+    top: 55%;
+    right: 18%;
+    /* Адаптивная ширина */
+    width: clamp(52px, 5.47vw, 210px); /* 105px @ 1920px */
+    z-index: 1;
+    rotate: -30deg;
+}
+
+.gameLoopContainer {
+    position: relative;
+    z-index: 2;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.gameLoopHeader {
+    margin-bottom: 2rem;
+}
+
+.gameLoopHeader p {
+    font-family: 'Orbitron', sans-serif;
+    /* Адаптивный шрифт */
+    font-size: clamp(20px, 2.08vw, 80px); /* 40px @ 1920px */
+    letter-spacing: 0.05em;
+    font-weight: 400;
+    color: white;
+    margin: 0;
+}
+
+.gameLoopHeader h1 {
+    font-family: 'Orbitron', sans-serif;
+    /* Адаптивный шрифт */
+    font-size: clamp(45.5px, 4.74vw, 182px); /* 91px @ 1920px */
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    color: white;
+    margin: 0;
+    line-height: 1;
+}
+
+.gameLoopHeader h2 {
+    /* Адаптивный шрифт */
+    font-size: clamp(22px, 2.08vw, 80px); /* 40px @ 1920px */
+    font-family: "Tektur", sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+.loopDiagram {
+    position: relative;
+    /* Ширина остается адаптивной, как и была */
+    width: clamp(700px, 72.92vw, 2800px); /* 1400px @ 1920px */
+
+    /* УБИРАЕМ высоту и ЗАМЕНЯЕМ ее на соотношение сторон */
+    /* height: clamp(250px, 26.04vw, 1000px);  <-- УДАЛИТЬ ЭТУ СТРОКУ */
+    aspect-ratio: 1400 / 500; /* <-- ДОБАВИТЬ ЭТУ СТРОКУ */
+
+    margin-bottom: 4rem;
+}
+
+.loopBox {
+    position: absolute;
+    background: rgb(255 255 255 / 20%);
+    border-radius: 15px;
+    padding: 1.5rem;
+    text-align: center;
+    /* Адаптивная ширина */
+    min-width: clamp(225px, 23.44vw, 900px); /* 450px @ 1920px */
+}
+
+.loopBox h3 {
+    /* Адаптивный шрифт */
+    font-size: clamp(16px, 1.46vw, 56px); /* 28px @ 1920px */
+    margin: 0 0 0.5rem 0;
+    letter-spacing: 0.1em;
+    font-weight: 400;
+    font-family: "Orbitron", sans-serif;
+}
+
+.loopBox p {
+    font-family: 'Tektur', sans-serif;
+    /* Адаптивный шрифт */
+    font-size: clamp(16px, 1.46vw, 56px); /* 28px @ 1920px */
+    margin: 0;
+    line-height: 1.4;
+    color: #dcdcdc;
+}
+
+.battleBox {
+    top: 0;
+    left: 0;
+}
+
+.craftBox {
+    top: 0;
+    right: 0;
+}
+
+.tradeBox {
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.loopCenter {
+    position: absolute;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.loopCenter h4 {
+    /* Адаптивный шрифт */
+    font-size: clamp(24px, 2.5vw, 96px); /* 48px @ 1920px */
+    color: #F9B216;
+    letter-spacing: 0.1em;
+    margin: 0;
+    font-weight: 400;
+}
+
+.arrowHorizontal {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /* Адаптивная ширина */
+    width: clamp(180px, 18.75vw, 720px); /* 360px @ 1920px */
+    height: auto;
+}
+
+.arrowDiagonal1 {
+    position: absolute;
+    bottom: 40%;
+    left: 28%;
+    transform: rotate(25deg);
+    /* Адаптивная ширина */
+    width: clamp(50px, 5.21vw, 200px); /* 100px @ 1920px */
+    height: auto;
+}
+
+.arrowDiagonal2 {
+    position: absolute;
+    bottom: 40%;
+    right: 28%;
+    transform: rotate(-25deg);
+    /* Адаптивная ширина */
+    width: clamp(50px, 5.21vw, 200px); /* 100px @ 1920px */
+    height: auto;
+}
+
+
+.fourthDescription {
+    /* Адаптивная ширина */
+    max-width: clamp(600px, 62.5vw, 2400px); /* 1200px @ 1920px */
+    text-align: left;
+    z-index: 1;
+}
+
+.fourthDescription p {
+    /* Адаптивный шрифт */
+    font-size: clamp(16px, 1.46vw, 56px); /* 28px @ 1920px */
+    font-family: "Tektur", sans-serif;
+    font-weight: 400;
+    color: #ffffff;
+}
+
+/* === КОНТЕНТ ПЯТОГО БЛОКА (FAQ) === */
+.faqTitle {
+    /* Адаптивный шрифт */
+    font-size: clamp(45.5px, 4.74vw, 182px); /* 91px @ 1920px */
+    font-family: "Orbitron", sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    color: #1B012A;
+    margin: 0;
+    line-height: 1;
+}
+
+.faqSubtitle {
+    /* Адаптивный шрифт */
+    font-size: clamp(20px, 2.08vw, 80px); /* 40px @ 1920px */
+    font-family: "Orbitron", sans-serif;
+    font-weight: 400;
+    letter-spacing: 0.05em;
+    color: #1B012A;
+    margin: 0;
+}
+
+.faqContainer {
+    width: 100%;
+    /* Адаптивная ширина */
+    max-width: clamp(500px, 52.08vw, 2000px); /* 1000px @ 1920px */
+    z-index: 1;
+    padding-top: 3rem;
+}
+
+.faqItem {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.faqQuestion {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5rem 1rem;
+    cursor: pointer;
+    /* Адаптивный шрифт */
+    font-size: clamp(16px, 1.46vw, 56px); /* 28px @ 1920px */
+    font-family: 'Tektur', sans-serif;
+}
+
+.faqQuestion:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+
+.faqIcon {
+    /* Адаптивный шрифт */
+    font-size: clamp(18px, 1.67vw, 64px); /* 32px @ 1920px */
+    font-weight: bold;
+    margin-left: 1rem;
+    transition: transform 0.2s ease-in-out;
+}
+
+.faqAnswer {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.4s ease-in-out;
+    background-color: rgba(20, 2, 50, 0.2);
+    border-radius: 10px;
+}
+
+.faqAnswerOpen {
+    max-height: 300px; /* Установите значение, достаточное для любого ответа */
+}
+
+.faqAnswer p {
+    padding: 1.5rem 1.5rem;
+    margin: 0;
+    /* Адаптивный шрифт */
+    font-size: clamp(14px, 1.25vw, 48px); /* 24px @ 1920px */
+    font-family: 'Tektur', sans-serif;
+    text-align: left;
+    line-height: 1.6;
+}
+
+.girlFaqImage {
+    position: absolute;
+    top: 0;
+    left: 0;
+    /* Адаптивная ширина */
+    width: clamp(400px, 62.5vw, 2400px); /* 1200px @ 1920px */
+    height: 100%;
+    z-index: 0;
+    background-image: url(/assets/images/pages/startpage/girl.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: bottom left; /* Выравниваем по нижнему левому углу */
+}
+
+
+/* === ФУТЕР === */
+.footerSection {
+    /* Адаптивный padding */
+    padding-top: clamp(50px, 5.21vw, 200px); /* 100px @ 1920px */
+    padding-bottom: clamp(50px, 5.21vw, 200px);
+    color: #FFFFFF;
+    /* --- ДОБАВЛЕН ФОН --- */
+    background: url('/assets/images/pages/startpage/footer-bg.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.footerSocials {
+    display: flex;
+    justify-content: center; /* <<< ДОБАВЛЕНО ЭТО СВОЙСТВО */
+    gap: 2rem;
+    margin-bottom: 1rem;
+}
+
+.footerSocials img {
+    /* Адаптивная ширина */
+    width: clamp(34px, 2.85vw, 110px); /* 60px @ 1920px */
+    height: auto;
+    transition: transform 0.2s;
+}
+
+.footerSocials img:hover {
+    transform: scale(1.1);
+}
+
+.footerText {
+    /* Адаптивный шрифт */
+    font-size: clamp(14px, 1.04vw, 40px); /* 20px @ 1920px */
+    font-family: "Tektur", sans-serif;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+    letter-spacing: 0.05em;
+}
+
+/* --- ОБЩИЕ МЕДИА-ЗАПРОСЫ --- */
+@media (max-width: 768px) {
+    .firstSection .walletContainer {
+        position: relative;
+        top: auto;
+        left: auto;
+        transform: none;
+        margin-top: 2rem;
+        align-items: center;
+    }
+
+    .planetImage,
+    .planetTopSlice,
+    .charImage,
+    .echoLeft,
+    .echoRight,
+    .shipTopLeft,
+    .shipBottomRight,
+    .body1secImage,
+    .stationImage,
+    .planet2Image,
+    .moduleCardImage,
+    .crystalsImage,
+    .thrusterImage,
+    .girlFaqImage { /* Добавлено скрытие девушки на мобильных */
+        display: none;
+    }
+
+    .secondSection .echoesMainContent {
+        flex-direction: column;
+        border: none;
+        gap: 3rem;
+    }
+
+    .secondSection .infoColumnLeft,
+    .secondSection .infoColumnRight {
+        align-items: center;
+        text-align: center;
+        padding: 0;
+        order: 3;
+    }
+
+    .secondSection .infoColumnRight .infoText {
+        text-align: center;
+    }
+
+    .secondSection .mintColumn {
+        order: 1;
+    }
+
+    .secondSection .echoesFooter {
+        order: 2;
+        margin-bottom: 2rem;
+    }
+
+    .thirdSectionContent {
+        flex-direction: column;
+        gap: 2rem;
+    }
+
+    .shipShadowImage {
+        bottom: clamp(-25px, -2.6vw, -50px);
+    }
+
+    .featuresGrid {
+        grid-template-columns: 1fr;
+        gap: 2rem;
+        align-items: center;
+    }
+
+    .featureItem {
+        gap: 1rem;
+        text-align: center;
+        flex-direction: column;
+    }
+
+    .description, .fourthDescription {
+        text-align: center;
+    }
+
+    .gameLoopContainer {
+        width: 100%;
+    }
+
+    .loopDiagram {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        position: static;
+        height: auto;
+        width: 100%;
+    }
+
+    .loopBox {
+        position: static;
+        transform: none;
+        min-width: 90%;
+    }
+
+    .loopCenter, .arrowHorizontal, .arrowDiagonal1, .arrowDiagonal2 {
+        display: none;
+    }
+}

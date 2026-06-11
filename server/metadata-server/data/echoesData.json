@@ -1,0 +1,232 @@
+{
+  "0": {
+    "name": "Echo Alpha",
+    "description": "Echo Alpha is the standard male avatar that has become the hallmark of Federation pilots. Its reliable design and ease of operation make it the ideal choice for recruits. This is a versatile soldier, designed to perform a wide range of tasks, from patrolling to participating in border conflicts.",
+    "image": "https://onesoulmanyships.xyz/assets/nfts/echoes/pilot-0.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Federation"
+      },
+      {
+        "trait_type": "Specialty",
+        "value": "None"
+      },
+      {
+        "trait_type": "Attributes",
+        "value": "0"
+      }
+    ]
+  },
+  "1": {
+    "name": "Echo Beta",
+    "description": "Echo Beta is a female avatar model, as reliable and common in the Federation ranks as its male counterpart, Alpha. With balanced characteristics and an intuitive interface, Beta is the preferred choice for many female pilots who value stability and efficiency on the battlefield.",
+    "image": "https://onesoulmanyships.xyz/assets/nfts/echoes/pilot-1.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Federation"
+      },
+      {
+        "trait_type": "Specialty",
+        "value": "None"
+      },
+      {
+        "trait_type": "Attributes",
+        "value": "0"
+      }
+    ]
+  },
+  "2": {
+    "name": "Echo Gamma",
+    "description": "Assembled in the underground workshops of the Syndicate, Echo Gamma is a male avatar whose design is full of unconventional solutions. Its aggressive silhouette and modified systems hint at a future specialization in assault operations or sabotage. Pilots who choose Gamma are betting on brute force and hidden technology.",
+    "image": "https://onesoulmanyships.xyz/assets/nfts/echoes/pilot-2.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Syndicate"
+      },
+      {
+        "trait_type": "Specialty",
+        "value": "Soon"
+      },
+      {
+        "trait_type": "Attributes",
+        "value": "1"
+      }
+    ]
+  },
+  "3": {
+    "name": "Echo Delta",
+    "description": "Echo Delta is a sleek and deadly female avatar model from the Syndicate. Its design is optimized for speed and stealth, making it the perfect tool for espionage and diversionary missions. Although its full potential has yet to be unlocked, Delta has already earned a reputation as a ghost on the battlefield.",
+    "image": "https://onesoulmanyships.xyz/assets/nfts/echoes/pilot-3.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Uncommon"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Syndicate"
+      },
+      {
+        "trait_type": "Specialty",
+        "value": "Soon"
+      },
+      {
+        "trait_type": "Attributes",
+        "value": "1"
+      }
+    ]
+  },
+  "4": {
+    "name": "Echo Epsilon",
+    "description": "Echo Epsilon is a rugged and autonomous male avatar built to survive in the lawless expanses of the Outer Rim. Its reinforced armor and independent life support systems allow the pilot to operate far from civilization. This avatar is the choice of seasoned mercenaries and explorers, ready for any danger.",
+    "image": "https://onesoulmanyships.xyz/assets/nfts/echoes/pilot-4.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Outer Rim"
+      },
+      {
+        "trait_type": "Specialty",
+        "value": "Soon"
+      },
+      {
+        "trait_type": "Attributes",
+        "value": "2"
+      }
+    ]
+  },
+  "5": {
+    "name": "Echo Zeta",
+    "description": "Designed for the independent pilots of the Outer Rim, Echo Zeta is a female model that embodies self-sufficiency. Its advanced sensors and long-range communication systems make it an unparalleled scout and pioneer. Zeta's pilots are courageous women charting new paths in the unexplored sectors of the galaxy.",
+    "image": "https://onesoulmanyships.xyz/assets/nfts/echoes/pilot-5.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Rare"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Outer Rim"
+      },
+      {
+        "trait_type": "Specialty",
+        "value": "Soon"
+      },
+      {
+        "trait_type": "Attributes",
+        "value": "2"
+      }
+    ]
+  },
+  "6": {
+    "name": "Echo Eta",
+    "description": "Echo Eta is the pinnacle of the Alliance's military engineering, a male avatar designed for elite pilots. It combines the latest offensive and defensive technologies, serving as a symbol of power and order. Control of Eta is entrusted only to the best commanders capable of realizing its colossal tactical potential.",
+    "image": "https://onesoulmanyships.xyz/assets/nfts/echoes/pilot-6.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Alliance"
+      },
+      {
+        "trait_type": "Specialty",
+        "value": "Soon"
+      },
+      {
+        "trait_type": "Attributes",
+        "value": "3"
+      }
+    ]
+  },
+  "7": {
+    "name": "Echo Theta",
+    "description": "Echo Theta is an experimental female avatar of the Alliance, whose capabilities extend beyond conventional notions of combat machines. Created using secret technologies, it possesses unique abilities that will soon alter the balance of power in the galaxy. Its pilots are not just soldiers, but living legends of the Alliance.",
+    "image": "https://onesoulmanyships.xyz/assets/nfts/echoes/pilot-7.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Epic"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Alliance"
+      },
+      {
+        "trait_type": "Specialty",
+        "value": "Soon"
+      },
+      {
+        "trait_type": "Attributes",
+        "value": "3"
+      }
+    ]
+  },
+  "8": {
+    "name": "Echo Iota",
+    "description": "Echo Iota is a massive reptilian warrior from the Xenon faction, marking the integration of non-human species into the elite ranks. Distinguished by his impenetrable orange scales and cranial bio-cables, Iota relies on brute strength and primal instincts amplified by technology. Pilots who choose Iota dominate the battlefield through aggression and the terrifying resilience of an apex predator.",
+    "image": "https://onesoulmanyships.xyz/assets/nfts/echoes/pilot-8.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Legendary"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Xenon"
+      },
+      {
+        "trait_type": "Specialty",
+        "value": "Soon"
+      },
+      {
+        "trait_type": "Attributes",
+        "value": "4"
+      }
+    ]
+  },
+  "9": {
+    "name": "Echo Kappa",
+    "description": "Echo Kappa is not a suit, but a fully autonomous sentient android from the Cybernetica faction. Devoid of fear and biological limitations, Kappa interfaces directly with the ship's core, achieving reaction speeds impossible for organic pilots. Its sleek, cold chassis houses a military-grade AI capable of simulating millions of combat scenarios in a microsecond. Kappa is the perfect machine of war.",
+    "image": "https://onesoulmanyships.xyz/assets/nfts/echoes/pilot-9.png",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Unique"
+      },
+      {
+        "trait_type": "Faction",
+        "value": "Cybernetica"
+      },
+      {
+        "trait_type": "Specialty",
+        "value": "Soon"
+      },
+      {
+        "trait_type": "Attributes",
+        "value": "5"
+      }
+    ]
+  }
+}

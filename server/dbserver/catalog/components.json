@@ -1,0 +1,272 @@
+{
+  "energy_matrix": {
+    "name": "Energy Matrix",
+    "description": "A compact lattice that regulates and distributes energy, serving as a stable power foundation for various ship systems.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "kinetic_amplifier": {
+    "name": "Kinetic Amplifier",
+    "description": "A device that magnifies impulse-based energy transfer, boosting the effectiveness of systems relying on kinetic force.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "radiation_shielding": {
+    "name": "Radiation Shielding",
+    "description": "A dense composite material designed to absorb and dissipate harmful cosmic radiation, safeguarding sensitive ship systems.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "pulse_emitter": {
+    "name": "Pulse Emitter",
+    "description": "A sophisticated device that generates and modulates high-frequency energy pulses, essential for rapid-cycling systems.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "overcharge_coil": {
+    "name": "Overcharge Coil",
+    "description": "A high-yield coil that enables a massive surge in power throughput, pushing systems beyond their standard operational limits.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "stellar_core": {
+    "name": "Stellar Core",
+    "description": "A power source containing the condensed energy of a stellar body, providing immense and sustained power for elite-grade systems.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "quantum_capacitor": {
+    "name": "Quantum Capacitor",
+    "description": "A highly advanced capacitor that leverages quantum mechanics to store and release energy with near-perfect efficiency.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "shield_capacitor": {
+    "name": "Shield Capacitor",
+    "description": "A compact unit for the temporary storage and rapid discharge of energy, vital for systems that require on-demand power surges.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "energy_barrier": {
+    "name": "Energy Barrier",
+    "description": "A component that projects a resilient energy field, capable of deflecting or absorbing high levels of incoming energy.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "graviton_emitter": {
+    "name": "Graviton Emitter",
+    "description": "A specialized device that generates localized gravitational fields, capable of manipulating kinetic forces and altering trajectories.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "plasma_deflector": {
+    "name": "Plasma Deflector",
+    "description": "A magnetic containment unit that can shape and redirect superheated plasma, providing advanced thermal and energy defense.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "bio_shield_core": {
+    "name": "Bio-Shield Core",
+    "description": "A living core composed of self-repairing organic matter that can generate and sustain protective bio-energy fields.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "armor_plating": {
+    "name": "Armor Plating",
+    "description": "A high-density alloy plate used to reinforce structural integrity and improve resilience against physical impacts.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "reinforced_alloy": {
+    "name": "Reinforced Alloy",
+    "description": "A specially treated metallic composite that offers superior durability and stress resistance for high-performance modules.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "kinetic_dampener": {
+    "name": "Kinetic Dampener",
+    "description": "A device that neutralizes kinetic energy from impacts, reducing stress and damage to integrated systems.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "nano_repair_matrix": {
+    "name": "Nano-Repair Matrix",
+    "description": "A matrix of microscopic nanites that can actively repair structural damage by reconfiguring matter at a molecular level.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "quantum_armor_core": {
+    "name": "Quantum Armor Core",
+    "description": "A core material forged with a quantum-entangled structure, making it exceptionally resistant to physical and energetic disruption.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "thruster_core": {
+    "name": "Thruster Core",
+    "description": "A fundamental propulsion component that efficiently converts power into directional thrust for maneuvering.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "propulsion_booster": {
+    "name": "Propulsion Booster",
+    "description": "An auxiliary unit designed to augment the output of propulsion systems, providing a significant boost in acceleration.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "warp_coil": {
+    "name": "Warp Coil",
+    "description": "A crucial component for FTL travel, these coils generate the intense energy fields required to bend spacetime.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "plasma_thruster": {
+    "name": "Plasma Thruster",
+    "description": "A high-performance thruster that ejects superheated plasma to achieve superior acceleration and top speeds.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "quantum_drive_core": {
+    "name": "Quantum Drive Core",
+    "description": "The heart of an elite propulsion system, utilizing quantum principles to convert energy into thrust with unparalleled efficiency.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "sensor_array": {
+    "name": "Sensor Array",
+    "description": "An advanced suite of sensors that gathers and processes vast amounts of spatial data, enhancing a ship's tactical awareness.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "stabilizer_node": {
+    "name": "Stabilizer Node",
+    "description": "A regulatory node that smooths out power fluctuations, ensuring connected systems operate at peak and stable performance.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "plasma_amplifier": {
+    "name": "Plasma Amplifier",
+    "description": "A device that excites and amplifies plasma streams, drastically increasing their thermal energy and destructive potential.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "void_core": {
+    "name": "Void Core",
+    "description": "A rare core harnessing raw energy from the void, used to power the most advanced and exotic ship technologies.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "weapon_memory_bank": {
+    "name": "Weapon Memory Bank",
+    "description": "A module containing combat data and configurations extracted from dismantled spaceship weapon systems, used to enhance or replicate offensive capabilities.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "shield_memory_bank": {
+    "name": "Shield Memory Bank",
+    "description": "A module storing energy patterns and defensive protocols derived from disassembled spaceship shields, enabling reconstruction or upgrades of protective barriers.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "armor_memory_bank": {
+    "name": "Armor Memory Bank",
+    "description": "A module holding material data and structural integrity metrics from deconstructed spaceship armor, aiding in the recreation or improvement of defensive plating.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "engine_memory_bank": {
+    "name": "Engine Memory Bank",
+    "description": "A module with performance data and propulsion configurations salvaged from disassembled spaceship engines, supporting the rebuild or optimization of power systems.",
+    "category": "components",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  }
+}

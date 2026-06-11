@@ -1,0 +1,54 @@
+{
+  "rookie_cannon": {
+    "bullet": {
+      "type": "bullet4",
+      "speed": 800,
+      "pierce": 1,
+      "size": {
+        "width": 15,
+        "height": 15
+      }
+    },
+    "firePattern": "single"
+  },
+  "pulse_blaster_mk1": {
+    "bullet": {
+      "type": "bullet3",
+      "speed": 800,
+      "pierce": 1,
+      "size": {
+        "width": 15,
+        "height": 15
+      }
+    },
+    "firePattern": "single"
+  },
+  "pulse_shotgun_mk1": {
+    "bullet": {
+      "type": "bullet3",
+      "speed": 500,
+      "pierce": 1,
+      "size": {
+        "width": 10,
+        "height": 10
+      }
+    },
+    "firePattern": "spread",
+    "firePatternParams": {
+      "bulletCount": 6,
+      "spreadAngle": 20
+    }
+  },
+  "pulse_piercer_mk1": {
+    "bullet": {
+      "type": "bullet5",
+      "speed": 1200,
+      "pierce": 3,
+      "size": {
+        "width": 15,
+        "height": 15
+      }
+    },
+    "firePattern": "single"
+  }
+}

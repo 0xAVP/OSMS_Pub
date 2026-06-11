@@ -1,0 +1,302 @@
+{
+  "auracite": {
+    "name": "Auracite",
+    "description": "Yellow-orange mineral used in energy circuits.",
+    "rarity": "common",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "crylonite": {
+    "name": "Crylonite",
+    "description": "Blue crystal with a cooling effect.",
+    "rarity": "common",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "ferrite_cluster": {
+    "name": "Ferrite Cluster",
+    "description": "Durable rock used in armor.",
+    "rarity": "common",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "hydronite_gem": {
+    "name": "Hydronite Gem",
+    "description": "Blue mineral resistant to radiation.",
+    "rarity": "common",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "onyx_blade": {
+    "name": "Onyx Blade",
+    "description": "Sharp black mineral, essential for weapon modules.",
+    "rarity": "common",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "onyther_rock": {
+    "name": "Onyther Rock",
+    "description": "Heavy stone containing graviton inclusions, used in hulls.",
+    "rarity": "common",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "verdanite_shard": {
+    "name": "Verdanite Shard",
+    "description": "Green crystal used in biotechnologies and atmosphere stabilizers.",
+    "rarity": "common",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "voltaic_cell": {
+    "name": "Voltaic Cell",
+    "description": "Capsule with an electric charge, a power source for modules.",
+    "rarity": "common",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "astro_vapor": {
+    "name": "Astro Vapor",
+    "description": "Volatile gas collected from stellar nebulae, used in sensor and stealth systems.",
+    "rarity": "uncommon",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "dragon_glass": {
+    "name": "Dragon Glass",
+    "description": "Transparent black crystal used in sensors.",
+    "rarity": "uncommon",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "fluxite_node": {
+    "name": "Fluxite Node",
+    "description": "Unstable crystal with internal light pulses, used in reactors.",
+    "rarity": "uncommon",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "magma_ore": {
+    "name": "Magma Ore",
+    "description": "Black stone with a fiery core, used in damage modules.",
+    "rarity": "uncommon",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "slunig": {
+    "name": "Slunig",
+    "description": "Black crystal with orange veins, enhances the efficiency of pulse systems.",
+    "rarity": "uncommon",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "solar_pyrite": {
+    "name": "Solar Pyrite",
+    "description": "Golden crystal that absorbs solar energy.",
+    "rarity": "uncommon",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "zerion_gem": {
+    "name": "Zerion Gem",
+    "description": "Mineral for creating modules protecting against energy attacks.",
+    "rarity": "uncommon",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "amethyra_cluster": {
+    "name": "Amethyra Cluster",
+    "description": "Fused crystals that increase a ship’s resistance to overloads.",
+    "rarity": "rare",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "biomass_core": {
+    "name": "Biomass Core",
+    "description": "Organic substance with a glowing inner core, used in biotechnologies, organic modules, and ship repair systems.",
+    "rarity": "rare",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "cryostone_ring": {
+    "name": "Cryostone Ring",
+    "description": "Crystallized ring with a freezing effect, used in cooling systems.",
+    "rarity": "rare",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "molten_ember": {
+    "name": "Molten Ember",
+    "description": "Liquid orange crystal, a component for engines.",
+    "rarity": "rare",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "obdurium": {
+    "name": "Obdurium",
+    "description": "Purple crystal that enhances energy fields.",
+    "rarity": "rare",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "quantum_filament": {
+    "name": "Quantum Filament",
+    "description": "Microscopic threads that stabilize quantum fields in advanced modules.",
+    "rarity": "rare",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "void_pearl": {
+    "name": "Void Pearl",
+    "description": "Smooth orb with a starry sky imitation inside, a component for navigation modules.",
+    "rarity": "rare",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "flarite_core": {
+    "name": "Flarite Core",
+    "description": "Energy sphere containing hot plasma.",
+    "rarity": "epic",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "glacionite": {
+    "name": "Glacionite",
+    "description": "Coiled crystal storing gravitational fields.",
+    "rarity": "epic",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "molten_core": {
+    "name": "Molten Core",
+    "description": "Energy orb in a shell, used in reactors.",
+    "rarity": "epic",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "solurnite_capsule": {
+    "name": "Solurnite Capsule",
+    "description": "Core with concentrated solar-thermal energy, encased in a heat-resistant shell.",
+    "rarity": "epic",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "starforge_crystal": {
+    "name": "Starforge Crystal",
+    "description": "Crystal formed in stellar cores, used in high-energy reactors.",
+    "rarity": "epic",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "bio_nectar": {
+    "name": "Bio Nectar",
+    "description": "Substance in a container, a rare organic catalyst.",
+    "rarity": "legendary",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "void_essence": {
+    "name": "Void Essence",
+    "description": "Concentrated energy from the void, enhances advanced gravitational and energy systems.",
+    "rarity": "legendary",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  },
+  "osms_coin_part": {
+    "name": "OSMS Coin Blank",
+    "description": "Blank for OSMS coin. Required for creating OSMS Coin.",
+    "rarity": "legendary",
+    "category": "resources",
+    "attributes": {
+      "isTradable": true,
+      "isUsable": false
+    }
+  }
+}

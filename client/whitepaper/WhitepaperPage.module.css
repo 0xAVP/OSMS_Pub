@@ -1,0 +1,234 @@
+/* src/client/css/WhitepaperPage.module.css */
+
+.whitepaperLayout {
+    display: flex;
+    background-color: #0d1117;
+    color: #c9d1d9;
+    font-family: 'Tektur', -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+    line-height: 1.7;
+    min-height: 100vh;
+}
+
+.navMenu {
+    position: sticky;
+    top: 0;
+    width: 280px;
+    height: 100vh;
+    padding: 2rem;
+    border-right: 1px solid #30363d;
+    overflow-y: auto;
+    flex-shrink: 0;
+}
+
+.navMenu h4 {
+    font-size: 14px;
+    font-weight: 600;
+    color: #8b949e;
+    letter-spacing: 0.05em;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    text-transform: uppercase;
+}
+
+.navMenu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navMenu li a {
+    display: block;
+    padding: 0.5rem 0;
+    color: #8b949e;
+    text-decoration: none;
+    font-size: 16px;
+    transition: color 0.2s ease, border-left 0.2s ease;
+    border-left: 2px solid transparent;
+    padding-left: 1rem;
+}
+
+.navMenu li a:hover {
+    color: #58a6ff;
+    border-left-color: #58a6ff;
+}
+
+.mainContent {
+    flex-grow: 1;
+    padding: 3rem 5rem;
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.header {
+    text-align: center;
+    padding-bottom: 3rem;
+    border-bottom: 1px solid #30363d;
+    margin-bottom: 3rem;
+}
+
+.header h1 {
+    font-family: 'Orbitron', sans-serif;
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    color: #ffffff;
+    margin: 0;
+}
+
+.headerSubtitle {
+    font-size: clamp(1rem, 2vw, 1.5rem);
+    color: #8b949e;
+    margin-top: 0.5rem;
+}
+
+.section {
+    margin-bottom: 4rem;
+}
+
+.sectionTitle {
+    font-family: 'Orbitron', sans-serif;
+    font-size: clamp(1.5rem, 3vw, 2.5rem);
+    color: #58a6ff;
+    border-bottom: 1px solid #30363d;
+    padding-bottom: 0.75rem;
+    margin-top: 0;
+    margin-bottom: 2rem;
+}
+
+.sectionSubtitle {
+    font-size: 1.25rem;
+    color: #8b949e;
+    margin-top: -1.5rem;
+    margin-bottom: 2rem;
+}
+
+.sectionContent p,
+.sectionContent ul,
+.sectionContent ol {
+    font-size: 18px;
+    margin-bottom: 1.5rem;
+}
+
+.sectionContent h4 {
+    font-size: 22px;
+    color: #c9d1d9;
+    margin-top: 2.5rem;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+
+.sectionContent ul,
+.sectionContent ol {
+    padding-left: 2rem;
+}
+
+.sectionContent li {
+    margin-bottom: 1rem;
+}
+
+.highlight {
+    background-color: rgba(88, 166, 255, 0.1);
+    border-left: 4px solid #58a6ff;
+    padding: 1rem 1.5rem;
+    border-radius: 6px;
+}
+
+.principlesList {
+    list-style-type: '✓ ';
+}
+
+.roadmap {
+    display: grid;
+    gap: 2rem;
+}
+
+.roadmapItem h4 {
+    color: #58a6ff;
+    margin-top: 0;
+}
+
+.footerSocials {
+    display: flex;
+    gap: 1.5rem;
+    margin-top: 2rem;
+}
+
+.footerSocials img {
+    width: 32px;
+    height: 32px;
+    transition: transform 0.2s;
+}
+
+.footerSocials img:hover {
+    transform: scale(1.1);
+}
+
+
+.activeLink {
+    color: #58a6ff !important; /* Используем тот же цвет, что и при наведении */
+    border-left-color: #58a6ff !important; /* И подсветку рамки */
+    font-weight: 600; /* Делаем текст жирнее */
+}
+
+/* Контейнер для под-меню */
+.subNavMenu {
+    /* Делаем отступ слева, чтобы создать иерархию */
+    padding-left: 2rem;
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+/* Стиль для ссылок в под-меню */
+.subNavMenu li a {
+    /* Делаем текст чуть меньше и меняем отступ */
+    font-size: 15px;
+    padding-left: 2rem;
+    /* Цвет можно сделать чуть более тусклым, чем у основных */
+    color: #8b949e;
+}
+
+/* Подсветка при наведении на под-пункт */
+.subNavMenu li a:hover {
+    color: #58a6ff;
+    border-left-color: #58a6ff;
+}
+
+.nestedNav {
+    list-style: none;
+    padding-left: 1rem;
+    margin-top: 8px;
+    margin-bottom: 8px;
+}
+
+.nestedNav li {
+    padding-left: 1rem;
+}
+
+.nestedNav a {
+    font-size: 0.9em;
+    font-weight: 400;
+    color: #a9a9a9; /* Менее яркий цвет для дочерних элементов */
+}
+
+.nestedNav a:hover {
+    color: #ffffff;
+}
+
+/* Адаптивность для мобильных */
+@media (max-width: 1024px) {
+    .whitepaperLayout {
+        flex-direction: column;
+    }
+
+    .navMenu {
+        position: static;
+        width: 100%;
+        height: auto;
+        border-right: none;
+        border-bottom: 1px solid #30363d;
+        padding: 1rem;
+        overflow-y: hidden;
+    }
+
+    .mainContent {
+        padding: 2rem 1.5rem;
+    }
+}

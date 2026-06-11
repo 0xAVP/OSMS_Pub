@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "bonuses": {
+    "0": {
+      "speed": 10,
+      "defense": 5
+    },
+    "1": {
+      "attack": 15,
+      "energy": 20
+    },
+    "2": {
+      "speed": 8,
+      "attack": 10
+    },
+    "3": {
+      "defense": 15,
+      "energy": 10
+    },
+    "4": {
+      "attack": 20,
+      "speed": 5
+    },
+    "5": {
+      "energy": 25,
+      "defense": 5
+    },
+    "6": {
+      "speed": 12,
+      "defense": 10
+    },
+    "7": {
+      "attack": 18,
+      "energy": 15
+    }
+  }
+}

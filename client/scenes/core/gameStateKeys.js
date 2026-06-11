@@ -1,0 +1,143 @@
+const CLIENT_MESSAGE_TYPE = Object.freeze({
+    START_GAME_REQUEST: 1,
+    PLAYER_ACTIONS: 2,
+    REQUEST_WEAPON_SWITCH: 3,
+    END_GAME_REQUEST: 4,
+
+    PONG: 6,
+    HIT_CLAIM: 7,
+    FORFEIT_REQUEST: 8,
+    TIME_SYNC_REQUEST: 9,
+    RECONNECT_REQUEST: 10
+});
+
+const CLIENT_HIT_CLAIM_KEY = Object.freeze({
+    ORIGIN_ACTION_ID: 0,
+    PELLET_INDEX: 1,
+    ENEMY_ID: 2,
+    TIMESTAMP: 3
+});
+
+const CLIENT_ACTION_KEY = Object.freeze({
+    X_COORD: 0,
+    Y_COORD: 1,
+    TIMESTAMP: 2,
+    ACTION_ID: 3,
+    FIRE: 4
+});
+
+const GAME_STATE_KEY = Object.freeze({
+    PLAYER: 1,
+    GAME_EVENTS: 2,
+    NEW_ENEMIES: 3,
+    UPDATED_ENEMIES: 4,
+    DESTROYED_ENEMIES: 5,
+    NEW_BULLETS: 6,
+    UPDATED_BULLETS: 7,
+    DESTROYED_BULLETS: 8,
+    NEW_POWERUPS: 9,
+    DESTROYED_POWERUPS: 10
+});
+
+const GAME_EVENT_TYPE = Object.freeze({
+    ENEMY_DESTROYED: 1,
+    RESOURCE_MINED: 2,
+    BULLET_COLLIDED: 3,
+    ENEMY_DAMAGED: 4,
+    PLAYER_EVADE_FEEDBACK: 5,
+    PLAYER_ABSORB_FEEDBACK: 6,
+    BASE_DAMAGED: 7,
+    ENEMY_COLLISION_DESTROYED: 8,
+    POWERUP_ACQUIRED: 9
+});
+
+const PLAYER_STATE_KEY = Object.freeze({
+    LAST_PROCESSED_ACTION_ID: 1,
+    SHIELD: 2,
+    ARMOR: 3,
+    HULL: 4,
+    ENERGY: 5,
+    ACTIVE_WEAPON_SLOT: 6
+});
+
+const ENEMY_STATE_KEY = Object.freeze({
+    ID: 1,
+    TYPE_ID: 2,
+    POSITION: 3,
+    HP: 4,
+    SIZE: 6,
+    COLLISION_DAMAGE: 7,
+    VELOCITY: 8,
+    ROTATION: 9
+});
+
+const BULLET_STATE_KEY = Object.freeze({
+    ID: 1,
+    TYPE: 2,
+    SIZE: 3,
+    POSITION: 4,
+    VELOCITY: 5
+});
+
+const POWERUP_STATE_KEY = Object.freeze({
+    ID: 1,
+    TYPE_ID: 2,
+    POSITION: 3,
+    SIZE: 4
+});
+
+const EVENT_PAYLOAD_KEY = Object.freeze({
+    ENEMY_ID: 1,
+    BULLET_ID: 2,
+    LOOT: 3,
+    DAMAGE_AMOUNT: 4,
+    NEW_KILL_COUNT: 5,
+    REMOVAL_TYPE: 6,
+    ABSORBED_AMOUNT: 7,
+    NEW_BASE_HP: 8,
+    NEW_ENEMY_HP: 9,
+    IS_CRITICAL: 10
+
+});
+
+const MSG_KEY = Object.freeze({
+    TYPE: 0,
+    PAYLOAD: 1,
+    TIMESTAMP: 2
+});
+
+const MSG_TYPE = Object.freeze({
+    GAME_STATE: 1,
+    SESSION_STARTED: 2,
+    END_GAME: 3,
+    ERROR: 4,
+    PING: 5,
+    COUNTDOWN: 6,
+    WAVE: 7,
+    LAST_WAVE_CONTINUING: 8,
+    BOSS_SPAWNED: 9,
+    POST_BOSS_DELAY: 10,
+    POSITION_REJECTED: 11,
+    FIRE_REJECTED: 12,
+    TIME_SYNC_RESPONSE: 13,
+    RECONNECT_FAILED: 14
+});
+
+const REMOVAL_TYPE_ENUM = Object.freeze({
+    KILLED: 1,
+    OUT_OF_BOUNDS: 2,
+});
+
+export const CAK = CLIENT_ACTION_KEY;
+export const CHCK = CLIENT_HIT_CLAIM_KEY;
+export const CMT = CLIENT_MESSAGE_TYPE;
+export const GSK = GAME_STATE_KEY;
+export const GET = GAME_EVENT_TYPE;
+export const PSK = PLAYER_STATE_KEY;
+export const ESK = ENEMY_STATE_KEY;
+export const BSK = BULLET_STATE_KEY;
+export const EPK = EVENT_PAYLOAD_KEY;
+export const MK = MSG_KEY;
+export const MT = MSG_TYPE;
+export const RTE = REMOVAL_TYPE_ENUM;
+export const PWRSK = POWERUP_STATE_KEY;

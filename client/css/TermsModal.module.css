@@ -1,0 +1,114 @@
+/* src/client/css/TermsModal.module.css */
+
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: rgba(10, 12, 20, 0.95); /* Сильное затемнение фона */
+    backdrop-filter: blur(5px);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.modal {
+    background: #62626287;
+    width: 100%;
+    max-width: 800px;
+    height: 85vh; /* Занимает 85% высоты экрана */
+    display: flex;
+    flex-direction: column;
+    border-radius: 4px;
+    position: relative;
+}
+
+.header {
+    padding: 20px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.3);
+}
+
+.title {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 24px;
+    color: #41C6FF;
+    margin: 0;
+    letter-spacing: 1px;
+}
+
+.closeButton {
+    background: transparent;
+    border: 1px solid #b3927b;
+    border-radius: 5px;
+    color: #b3927b;
+    font-family: 'Tektur', sans-serif;
+    font-size: 14px;
+    padding: 5px 15px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.closeButton:hover {
+    background: rgba(255, 77, 77, 0.1);
+}
+
+.content {
+    padding: 30px;
+    overflow-y: auto; /* Скролл только внутри контента */
+    font-family: 'Tektur', sans-serif;
+    color: #cccccc;
+    line-height: 1.6;
+    font-size: 14px;
+}
+
+/* Стилизация скроллбара */
+.content::-webkit-scrollbar {
+    width: 8px;
+}
+
+.content::-webkit-scrollbar-track {
+    background: #0a0c10;
+}
+
+.content::-webkit-scrollbar-thumb {
+    background: #41C6FF;
+    border-radius: 4px;
+}
+
+/* Типографика текста */
+.content h2 {
+    color: #e0e0e0;
+    font-family: 'Orbitron', sans-serif;
+    margin-top: 25px;
+    margin-bottom: 15px;
+    font-size: 18px;
+    border-bottom: 1px solid rgba(65, 198, 255, 0.2);
+    padding-bottom: 5px;
+}
+
+.content h3 {
+    color: #FEBA00; /* Акцентный цвет для подразделов */
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.content ul {
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+
+.content li {
+    margin-bottom: 8px;
+}
+
+.content strong {
+    color: #fff;
+}
