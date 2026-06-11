@@ -1,0 +1,26 @@
+2026-05-03 15:23:00:230 [Worker 13448] error: [DBMANAGER] Worker 13448: Error connecting to dbServer:
+2026-05-03 15:23:00:230 [Worker 13448] error: [REDISSUBSCRIBER] Worker 13448: Redis Subscriber Error
+2026-05-03 15:23:00:230 [Worker 13448] error: [REDISCLIENT] Worker 13448: Redis Client Error
+2026-05-03 15:23:00:230 [Worker 13448] error: [REDISCLIENT] Worker 13448: Redis Client Error
+2026-05-03 15:23:00:230 [Worker 13448] error: [REDISSUBSCRIBER] Worker 13448: Redis Subscriber Error
+2026-05-03 15:23:00:230 [Worker 13448] error: [REDISCLIENT] Worker 13448: Redis Client Error
+2026-05-03 15:23:00:230 [Worker 13448] error: [REDISSUBSCRIBER] Worker 13448: Redis Subscriber Error
+2026-05-03 15:23:00:230 [Worker 13448] error: [REDISCLIENT] Worker 13448: Redis Client Error
+2026-05-03 15:23:00:230 [Worker 13448] error: [REDISSUBSCRIBER] Worker 13448: Redis Subscriber Error
+2026-05-03 15:23:01:231 [Worker 13448] error: [REDISCLIENT] Worker 13448: Redis Client Error
+2026-05-03 15:23:01:231 [Worker 13448] error: [REDISSUBSCRIBER] Worker 13448: Redis Subscriber Error
+2026-05-03 15:23:02:232 [Worker 1932] error: [REDISSUBSCRIBER] Worker 1932: Redis Subscriber Error
+2026-05-03 15:23:02:232 [Worker 1932] error: [REDISCLIENT] Worker 1932: Redis Client Error
+2026-05-03 15:23:02:232 [Worker 13448] error: [REDISCLIENT] Worker 13448: Redis Client Error
+2026-05-03 15:23:02:232 [Worker 13448] error: [REDISSUBSCRIBER] Worker 13448: Redis Subscriber Error
+2026-05-03 15:23:02:232 [Worker 1932] error: [REDISCLIENT] Worker 1932: Redis Client Error
+2026-05-03 15:23:02:232 [Worker 1932] error: [REDISSUBSCRIBER] Worker 1932: Redis Subscriber Error
+2026-05-03 15:23:02:232 [Worker 1932] error: [REDISSUBSCRIBER] Worker 1932: Redis Subscriber Error
+2026-05-03 15:23:02:232 [Worker 1932] error: [REDISCLIENT] Worker 1932: Redis Client Error
+2026-05-03 15:23:02:232 [Worker 1932] error: [REDISSUBSCRIBER] Worker 1932: Redis Subscriber Error
+2026-05-03 15:23:02:232 [Worker 1932] error: [REDISCLIENT] Worker 1932: Redis Client Error
+2026-05-03 15:23:03:233 [Worker 1932] error: [REDISSUBSCRIBER] Worker 1932: Redis Subscriber Error
+2026-05-03 15:23:03:233 [Worker 1932] error: [REDISCLIENT] Worker 1932: Redis Client Error
+2026-05-03 15:23:03:233 [Worker 20336] error: [REDISSUBSCRIBER] Worker 20336: Redis Subscriber Error
+2026-05-03 15:23:03:233 [Worker 20336] error: [REDISCLIENT] Worker 20336: Redis Client Error
+2026-05-03 15:23:03:233 [Worker 16504] error: Worker 20336 died. Code: 1, Signal: null

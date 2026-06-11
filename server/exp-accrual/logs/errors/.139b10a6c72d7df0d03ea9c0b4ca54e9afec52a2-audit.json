@@ -1,0 +1,35 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\exp-accrual\\logs\\errors\\.139b10a6c72d7df0d03ea9c0b4ca54e9afec52a2-audit.json",
+  "files": [
+    {
+      "date": 1777814576439,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\exp-accrual\\logs\\errors\\error-2026-05-03.log",
+      "hash": "6ac9dd39cda3e3b5028230aa72ca0ba1e9c1f800a6c6ce87edd85425156c293f"
+    },
+    {
+      "date": 1777889563656,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\exp-accrual\\logs\\errors\\error-2026-05-04.log",
+      "hash": "5a0815ef0382be13a871afc31575715dc76bf222ac8ec3b75ad3e07ba87b20b7"
+    },
+    {
+      "date": 1778431623436,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\exp-accrual\\logs\\errors\\error-2026-05-10.log",
+      "hash": "729b1b9f2abbeeee21de28d6a3ee16359ef784fc6dbf8c5595b2d934a6735e7d"
+    },
+    {
+      "date": 1778488345562,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\exp-accrual\\logs\\errors\\error-2026-05-11.log",
+      "hash": "36ca3bb28de88e863c9f57540be70a214510d98b97b7c0fbd9afa83e98bfa10c"
+    },
+    {
+      "date": 1778580833067,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\exp-accrual\\logs\\errors\\error-2026-05-12.log",
+      "hash": "27940c9c9fc64da1bf12b5b3d2c18f8a61bbf3db6042f65b669195197c7b6500"
+    }
+  ],
+  "hashType": "sha256"
+}

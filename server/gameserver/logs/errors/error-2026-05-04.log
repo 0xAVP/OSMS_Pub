@@ -1,0 +1,4 @@
+2026-05-04 12:12:56:1256 [Worker 6132] error: [DBMANAGER] FATAL: Identified successfully, but NO weapon mechanics received. Worker 6132 cannot function properly.
+2026-05-04 12:12:56:1256 [Worker 17100] error: Worker 6132 died. Code: 1, Signal: null
+2026-05-04 16:43:41:4341 [Worker 6544] error: [DBMANAGER] FATAL: Identified successfully, but NO weapon mechanics received. Worker 6544 cannot function properly.
+2026-05-04 16:43:41:4341 [Worker 8144] error: Worker 6544 died. Code: 1, Signal: null

@@ -1,0 +1,1036 @@
+2026-05-04 12:12:43:1243 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 12:12:44:1244 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 12:12:45:1245 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 12:12:45:1245 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 12:12:45:1245 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 12:12:46:1246 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 12:12:46:1246 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 12:12:46:1246 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 12:12:46:1246 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 12:12:49:1249 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 12:12:49:1249 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 12:12:50:1250 info: [API Server] Запуск процесса...
+2026-05-04 12:12:55:1255 info: New client connected from IP: ::1
+2026-05-04 12:12:55:1255 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-04 12:12:56:1256 info: New client connected from IP: ::1
+2026-05-04 12:12:56:1256 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_6132
+2026-05-04 12:12:56:1256 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 12:12:56:1256 info: Client disconnected: gameserver, ID: gameserver-Hddkwe35fsvk_worker_6132
+2026-05-04 12:12:56:1256 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 12:12:56:1256 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 12:12:58:1258 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 12:12:58:1258 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 12:12:58:1258 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 20268.
+2026-05-04 12:12:58:1258 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 12:12:58:1258 info: New client connected from IP: ::1
+2026-05-04 12:12:58:1258 info: New client connected from IP: ::1
+2026-05-04 12:12:58:1258 info: New client connected from IP: ::1
+2026-05-04 12:12:58:1258 info: New client connected from IP: ::1
+2026-05-04 12:12:58:1258 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_13496
+2026-05-04 12:12:58:1258 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_17988
+2026-05-04 12:12:58:1258 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_12260
+2026-05-04 12:12:58:1258 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_11824
+2026-05-04 12:13:00:130 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:13:00:130 info: New client connected from IP: ::1
+2026-05-04 12:13:00:130 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_15280
+2026-05-04 12:13:02:132 info: New client connected from IP: ::1
+2026-05-04 12:13:02:132 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_19308
+2026-05-04 12:13:04:134 info: New client connected from IP: ::1
+2026-05-04 12:13:04:134 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_9992
+2026-05-04 12:13:05:135 info: New client connected from IP: ::1
+2026-05-04 12:13:05:135 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_13868
+2026-05-04 12:13:08:138 info: New client connected from IP: ::1
+2026-05-04 12:13:08:138 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_13256
+2026-05-04 12:13:09:139 info: New client connected from IP: ::1
+2026-05-04 12:13:09:139 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_15224
+2026-05-04 12:13:11:1311 info: New client connected from IP: ::1
+2026-05-04 12:13:11:1311 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_15140
+2026-05-04 12:13:12:1312 info: New client connected from IP: ::1
+2026-05-04 12:13:12:1312 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_12172
+2026-05-04 12:14:00:140 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:15:00:150 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:16:00:160 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:17:00:170 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:18:00:180 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:19:00:190 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:20:00:200 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:21:00:210 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:21:24:2124 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 12:21:30:2130 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 12:21:30:2130 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 12:21:30:2130 info: [API Server] Запуск процесса...
+2026-05-04 12:21:32:2132 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 12:21:32:2132 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 12:21:32:2132 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 12:21:33:2133 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 12:21:33:2133 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 12:21:33:2133 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 12:21:33:2133 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 12:21:33:2133 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 12:21:33:2133 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 1532.
+2026-05-04 12:21:33:2133 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 12:21:33:2133 info: New client connected from IP: ::1
+2026-05-04 12:21:33:2133 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 12:21:33:2133 info: New client connected from IP: ::1
+2026-05-04 12:21:33:2133 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_23648
+2026-05-04 12:21:34:2134 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 12:21:34:2134 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 12:21:34:2134 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 12:21:34:2134 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 12:21:35:2135 info: New client connected from IP: ::1
+2026-05-04 12:21:35:2135 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_15068
+2026-05-04 12:21:37:2137 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 12:21:37:2137 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 12:21:37:2137 info: New client connected from IP: ::1
+2026-05-04 12:21:37:2137 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_14976
+2026-05-04 12:21:41:2141 info: New client connected from IP: ::1
+2026-05-04 12:21:41:2141 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_5596
+2026-05-04 12:21:43:2143 info: New client connected from IP: ::1
+2026-05-04 12:21:43:2143 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_4948
+2026-05-04 12:21:46:2146 info: New client connected from IP: ::1
+2026-05-04 12:21:46:2146 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_20972
+2026-05-04 12:21:47:2147 info: New client connected from IP: ::1
+2026-05-04 12:21:47:2147 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_21496
+2026-05-04 12:21:49:2149 info: New client connected from IP: ::1
+2026-05-04 12:21:49:2149 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_19332
+2026-05-04 12:21:50:2150 info: New client connected from IP: ::1
+2026-05-04 12:21:50:2150 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_3800
+2026-05-04 12:21:52:2152 info: New client connected from IP: ::1
+2026-05-04 12:21:52:2152 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_21112
+2026-05-04 12:21:55:2155 info: New client connected from IP: ::1
+2026-05-04 12:21:55:2155 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_4676
+2026-05-04 12:21:56:2156 info: New client connected from IP: ::1
+2026-05-04 12:21:56:2156 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_12140
+2026-05-04 12:22:00:220 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:23:00:230 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:24:00:240 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:25:00:250 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:25:01:251 info: New client connected from IP: ::1
+2026-05-04 12:25:01:251 info: Client identified and connection stored: client, ID: cl-1f7d5ae6-0dfb-4fef-a78a-117bc03e2475
+2026-05-04 12:25:26:2526 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"components.kinetic_amplifier.quantity":-8,"components.energy_matrix.quantity":-5,"components.pulse_emitter.quantity":-3} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 12:25:44:2544 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"resources.voltaic_cell.quantity":-32,"resources.auracite.quantity":-24,"resources.ferrite_cluster.quantity":-24} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 12:26:00:260 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:27:00:270 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:28:00:280 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:28:16:2816 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"resources.voltaic_cell.quantity":-32,"resources.auracite.quantity":-24,"resources.ferrite_cluster.quantity":-24} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 12:28:20:2820 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"resources.onyx_blade.quantity":-128,"resources.onyther_rock.quantity":-96,"resources.ferrite_cluster.quantity":-96} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 12:28:28:2828 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"other.fuel.quantity":-1,"resources.osms_coin_part.quantity":-10} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 12:29:00:290 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:29:36:2936 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"resources.voltaic_cell.quantity":-32,"resources.ferrite_cluster.quantity":-24,"resources.onyx_blade.quantity":-24} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 12:29:45:2945 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"resources.auracite.quantity":-32,"resources.verdanite_shard.quantity":-24,"resources.voltaic_cell.quantity":-24} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 12:30:00:300 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:31:00:310 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:32:00:320 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:33:00:330 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:34:00:340 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:35:00:350 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:36:00:360 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:37:00:370 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:38:00:380 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:39:00:390 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:40:00:400 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:41:00:410 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:42:00:420 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:43:00:430 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:44:00:440 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:45:00:450 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:46:00:460 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:47:00:470 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:48:00:480 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:49:00:490 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:50:00:500 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:51:00:510 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:52:00:520 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:53:00:530 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:54:00:540 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:55:00:550 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:56:00:560 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:57:00:570 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:58:00:580 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 12:59:00:590 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:00:00:00 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:01:00:10 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:02:00:20 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:03:00:30 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:04:00:40 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:05:00:50 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:06:00:60 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:07:00:70 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:08:00:80 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:09:00:90 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:10:00:100 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:11:00:110 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:12:00:120 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:13:00:130 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:14:00:140 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:15:00:150 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:16:00:160 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:17:00:170 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:18:00:180 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:19:00:190 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:20:00:200 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:21:00:210 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:22:00:220 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:23:00:230 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:24:00:240 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:25:00:250 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:26:00:260 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:27:00:270 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:28:00:280 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:29:00:290 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:30:00:300 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:31:00:310 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:32:00:320 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:33:00:330 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:34:00:340 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:35:00:350 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:36:00:360 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:37:00:370 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:38:00:380 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:39:00:390 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:40:00:400 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:41:00:410 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:42:00:420 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:43:00:430 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:44:00:440 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:45:00:450 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:46:00:460 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:47:00:470 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:48:00:480 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:49:00:490 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:50:00:500 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:51:00:510 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:52:00:520 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:53:00:530 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:54:00:540 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:55:00:550 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:56:00:560 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:57:00:570 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:58:00:580 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 13:59:00:590 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:00:00:00 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:01:00:10 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:02:00:20 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:03:00:30 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:04:00:40 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:05:00:50 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:06:00:60 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:07:00:70 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:08:00:80 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:09:00:90 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:10:00:100 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:11:00:110 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:12:00:120 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:13:00:130 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:14:00:140 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:15:00:150 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:16:00:160 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:17:00:170 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:17:40:1740 warn: Items Refunded: Fuel x2500 claimed by 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. [context: mail_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:18:00:180 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:19:00:190 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:19:04:194 info: Client disconnected: client, ID: cl-1f7d5ae6-0dfb-4fef-a78a-117bc03e2475
+2026-05-04 14:19:13:1913 info: New client connected from IP: ::1
+2026-05-04 14:19:13:1913 info: Client identified and connection stored: client, ID: cl-66efce13-b9c7-4fe7-a3b2-6255e2f4c159
+2026-05-04 14:20:00:200 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:20:05:205 info: Client disconnected: client, ID: cl-66efce13-b9c7-4fe7-a3b2-6255e2f4c159
+2026-05-04 14:20:16:2016 info: New client connected from IP: ::1
+2026-05-04 14:20:16:2016 info: Client identified and connection stored: client, ID: cl-e75267c8-b4b1-4bb9-b04c-825b2522774b
+2026-05-04 14:21:00:210 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:22:00:220 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:22:34:2234 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"blueprints.bp_pulse_shotgun_mk1.quantity":-1,"components.kinetic_amplifier.quantity":-20,"components.energy_matrix.quantity":-10,"components.pulse_emitter.quantity":-5} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:23:00:230 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:23:49:2349 info: Client disconnected: client, ID: cl-e75267c8-b4b1-4bb9-b04c-825b2522774b
+2026-05-04 14:23:58:2358 info: New client connected from IP: ::1
+2026-05-04 14:23:58:2358 info: Client identified and connection stored: client, ID: cl-d4368575-c5aa-4855-9389-349c18fd1fa0
+2026-05-04 14:24:00:240 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:24:11:2411 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"blueprints.bp_ion_thruster_mk1.quantity":-5,"components.thruster_core.quantity":-90,"components.propulsion_booster.quantity":-45,"components.energy_matrix.quantity":-20} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:24:36:2436 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"resources.voltaic_cell.quantity":-50,"resources.onyx_blade.quantity":-38,"resources.ferrite_cluster.quantity":-38} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:25:00:250 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:25:43:2543 info: Client disconnected: client, ID: cl-d4368575-c5aa-4855-9389-349c18fd1fa0
+2026-05-04 14:25:52:2552 info: New client connected from IP: ::1
+2026-05-04 14:25:52:2552 info: Client identified and connection stored: client, ID: cl-a523123c-ef24-49d1-822c-b74e6de4f90c
+2026-05-04 14:26:00:260 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:26:26:2626 info: Client disconnected: client, ID: cl-a523123c-ef24-49d1-822c-b74e6de4f90c
+2026-05-04 14:26:35:2635 info: New client connected from IP: ::1
+2026-05-04 14:26:35:2635 info: Client identified and connection stored: client, ID: cl-960c38f6-8f9c-491f-a2c2-e8be8ac59706
+2026-05-04 14:27:00:270 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:27:04:274 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"blueprints.bp_pulse_shotgun_mk1.quantity":-1,"components.kinetic_amplifier.quantity":-20,"components.energy_matrix.quantity":-10,"components.pulse_emitter.quantity":-5} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:27:49:2749 info: Client disconnected: client, ID: cl-960c38f6-8f9c-491f-a2c2-e8be8ac59706
+2026-05-04 14:27:58:2758 info: New client connected from IP: ::1
+2026-05-04 14:27:58:2758 info: Client identified and connection stored: client, ID: cl-8490739b-b9fe-4568-a6a6-f8a00518b25b
+2026-05-04 14:28:00:280 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:29:00:290 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:29:41:2941 info: Client disconnected: client, ID: cl-8490739b-b9fe-4568-a6a6-f8a00518b25b
+2026-05-04 14:29:50:2950 info: New client connected from IP: ::1
+2026-05-04 14:29:50:2950 info: Client identified and connection stored: client, ID: cl-0cf9f7c2-c097-486e-a587-0d62cbad6bb2
+2026-05-04 14:30:00:300 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:31:00:310 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:32:00:320 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:33:00:330 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:34:00:340 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:35:00:350 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:36:00:360 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:37:00:370 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:38:00:380 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:39:00:390 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:40:00:400 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:41:00:410 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:42:00:420 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:43:00:430 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:44:00:440 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:44:53:4453 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"resources.voltaic_cell.quantity":-32,"resources.auracite.quantity":-24,"resources.ferrite_cluster.quantity":-24} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:44:57:4457 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"resources.onyx_blade.quantity":-32,"resources.onyther_rock.quantity":-24,"resources.ferrite_cluster.quantity":-24} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:45:00:450 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:45:12:4512 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"components.kinetic_amplifier.quantity":-12,"components.energy_matrix.quantity":-8,"components.pulse_emitter.quantity":-4} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:46:00:460 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:47:00:470 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:47:51:4751 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"components.kinetic_amplifier.quantity":-62,"components.energy_matrix.quantity":-42,"components.pulse_emitter.quantity":-21} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:48:00:480 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:48:08:488 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"resources.crylonite.quantity":-3384,"resources.voltaic_cell.quantity":-2538,"resources.auracite.quantity":-1692} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:48:22:4822 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"resources.voltaic_cell.quantity":-492,"resources.onyx_blade.quantity":-369,"resources.ferrite_cluster.quantity":-369} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:48:37:4837 warn: Попытка списания ресурсов для 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. Данные: {"components.kinetic_amplifier.quantity":-40,"components.energy_matrix.quantity":-27,"components.pulse_emitter.quantity":-14} [context: inventory_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:48:43:4843 info: Client disconnected: client, ID: cl-0cf9f7c2-c097-486e-a587-0d62cbad6bb2
+2026-05-04 14:49:00:490 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:49:16:4916 info: New client connected from IP: ::1
+2026-05-04 14:49:16:4916 info: Client identified and connection stored: client, ID: cl-83b2adf0-d8aa-4271-aee5-a61d5fb56ce0
+2026-05-04 14:50:00:500 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:50:02:502 warn: Items Refunded: OSMS Coin x2 claimed by 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. [context: mail_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:50:33:5033 warn: Items Refunded: OSMS Coin x2 claimed by 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. [context: mail_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:50:38:5038 info: Client disconnected: client, ID: cl-83b2adf0-d8aa-4271-aee5-a61d5fb56ce0
+2026-05-04 14:50:52:5052 info: New client connected from IP: ::1
+2026-05-04 14:50:52:5052 info: Client identified and connection stored: client, ID: cl-f08b72a0-a202-4c81-86e4-c5073479c3fb
+2026-05-04 14:51:00:510 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:51:12:5112 warn: Items Refunded: OSMS Coin x2 claimed by 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b. [context: mail_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-04 14:51:38:5138 info: Client disconnected: client, ID: cl-f08b72a0-a202-4c81-86e4-c5073479c3fb
+2026-05-04 14:52:00:520 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:52:47:5247 info: New client connected from IP: ::1
+2026-05-04 14:52:47:5247 info: Client identified and connection stored: client, ID: cl-0174cf85-58d5-4711-bb72-a4e3dcef29a2
+2026-05-04 14:53:00:530 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 14:53:10:5310 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 15:11:51:1151 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 15:11:51:1151 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 15:11:51:1151 info: [API Server] Запуск процесса...
+2026-05-04 15:11:52:1152 info: New client connected from IP: ::1
+2026-05-04 15:11:52:1152 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 15:11:53:1153 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:11:53:1153 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 15:11:53:1153 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:11:53:1153 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:11:53:1153 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 15:11:53:1153 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:11:53:1153 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 15:11:53:1153 info: New client connected from IP: ::1
+2026-05-04 15:11:53:1153 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 15:11:54:1154 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 15:11:54:1154 info: New client connected from IP: ::1
+2026-05-04 15:11:54:1154 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 15:11:54:1154 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:11:54:1154 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 15:11:55:1155 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 15:11:55:1155 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 15:11:55:1155 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 9036.
+2026-05-04 15:11:55:1155 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 15:11:55:1155 info: New client connected from IP: ::1
+2026-05-04 15:11:55:1155 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_14856
+2026-05-04 15:11:56:1156 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:11:56:1156 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 15:11:56:1156 info: New client connected from IP: ::1
+2026-05-04 15:11:56:1156 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_19720
+2026-05-04 15:12:00:120 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:12:33:1233 info: New client connected from IP: ::1
+2026-05-04 15:12:33:1233 info: Client identified and connection stored: client, ID: cl-9d89b09b-cdfa-4f70-ab00-4a7cdbf89179
+2026-05-04 15:12:49:1249 info: Client disconnected: client, ID: cl-9d89b09b-cdfa-4f70-ab00-4a7cdbf89179
+2026-05-04 15:13:00:130 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:13:42:1342 info: New client connected from IP: ::1
+2026-05-04 15:13:42:1342 info: Client identified and connection stored: client, ID: cl-bf42879d-e8b0-4117-b781-1929a88439c0
+2026-05-04 15:13:53:1353 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 15:26:30:2630 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 15:26:30:2630 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 15:26:30:2630 info: [API Server] Запуск процесса...
+2026-05-04 15:26:31:2631 info: New client connected from IP: ::1
+2026-05-04 15:26:31:2631 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 15:26:32:2632 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:26:32:2632 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 15:26:32:2632 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:26:32:2632 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:26:32:2632 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 15:26:32:2632 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 15:26:32:2632 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:26:32:2632 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 15:26:32:2632 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:26:32:2632 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 15:26:32:2632 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 15:26:32:2632 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 15:26:32:2632 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 15020.
+2026-05-04 15:26:32:2632 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 15:26:32:2632 info: New client connected from IP: ::1
+2026-05-04 15:26:32:2632 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 15:26:33:2633 info: New client connected from IP: ::1
+2026-05-04 15:26:33:2633 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_14304
+2026-05-04 15:26:35:2635 info: New client connected from IP: ::1
+2026-05-04 15:26:35:2635 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_12408
+2026-05-04 15:26:36:2636 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:26:36:2636 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 15:27:00:270 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:28:00:280 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:29:00:290 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:30:00:300 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:30:22:3022 info: New client connected from IP: ::1
+2026-05-04 15:30:22:3022 info: Client identified and connection stored: client, ID: cl-bfdcd7cf-d1f7-4d77-a62c-98ea8b55fc66
+2026-05-04 15:30:39:3039 info: Client disconnected: client, ID: cl-bfdcd7cf-d1f7-4d77-a62c-98ea8b55fc66
+2026-05-04 15:31:00:310 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:31:14:3114 info: New client connected from IP: ::1
+2026-05-04 15:31:14:3114 info: Client identified and connection stored: client, ID: cl-e789bca1-a339-4857-8a98-748e37e33ff6
+2026-05-04 15:32:00:320 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:32:24:3224 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 15:32:51:3251 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 15:32:51:3251 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 15:32:52:3252 info: [API Server] Запуск процесса...
+2026-05-04 15:32:53:3253 info: New client connected from IP: ::1
+2026-05-04 15:32:53:3253 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 15:32:53:3253 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:32:53:3253 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 15:32:53:3253 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:32:53:3253 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:32:53:3253 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 15:32:53:3253 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:32:53:3253 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 15:32:53:3253 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 15:32:53:3253 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:32:53:3253 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 15:32:54:3254 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 15:32:54:3254 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 15:32:54:3254 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 12972.
+2026-05-04 15:32:54:3254 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 15:32:54:3254 info: New client connected from IP: ::1
+2026-05-04 15:32:54:3254 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 15:32:54:3254 info: New client connected from IP: ::1
+2026-05-04 15:32:54:3254 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_14404
+2026-05-04 15:32:55:3255 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:32:55:3255 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 15:33:00:330 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:33:11:3311 info: New client connected from IP: ::1
+2026-05-04 15:33:11:3311 info: Client identified and connection stored: client, ID: cl-648b5064-dbb5-4b8e-adaa-5db3abdcd321
+2026-05-04 15:33:24:3324 info: Client disconnected: client, ID: cl-648b5064-dbb5-4b8e-adaa-5db3abdcd321
+2026-05-04 15:33:59:3359 info: New client connected from IP: ::1
+2026-05-04 15:33:59:3359 info: Client identified and connection stored: client, ID: cl-3c10f7f8-6b3b-43d5-b824-197d4bdfb943
+2026-05-04 15:34:00:340 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:34:35:3435 info: Client disconnected: client, ID: cl-3c10f7f8-6b3b-43d5-b824-197d4bdfb943
+2026-05-04 15:34:54:3454 info: New client connected from IP: ::1
+2026-05-04 15:34:54:3454 info: Client identified and connection stored: client, ID: cl-382bbb39-afd8-4ece-b52b-3c78403949c0
+2026-05-04 15:35:00:350 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:35:10:3510 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 15:35:15:3515 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 15:35:15:3515 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 15:35:15:3515 info: [API Server] Запуск процесса...
+2026-05-04 15:35:16:3516 info: New client connected from IP: ::1
+2026-05-04 15:35:16:3516 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 15:35:16:3516 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:35:16:3516 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 15:35:16:3516 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:35:16:3516 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 15:35:17:3517 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:35:17:3517 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 15:35:17:3517 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:35:17:3517 info: New client connected from IP: ::1
+2026-05-04 15:35:17:3517 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 15:35:17:3517 info: New client connected from IP: ::1
+2026-05-04 15:35:17:3517 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-04 15:35:18:3518 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 15:35:18:3518 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:35:18:3518 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 15:35:18:3518 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 15:35:18:3518 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 15:35:18:3518 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 15116.
+2026-05-04 15:35:18:3518 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 15:35:18:3518 info: New client connected from IP: ::1
+2026-05-04 15:35:18:3518 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 15:35:19:3519 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:35:19:3519 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 15:35:19:3519 info: New client connected from IP: ::1
+2026-05-04 15:35:19:3519 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_22788
+2026-05-04 15:35:33:3533 info: New client connected from IP: ::1
+2026-05-04 15:35:33:3533 info: Client identified and connection stored: client, ID: cl-1efbcb67-97ae-40ea-b363-601247c50ac8
+2026-05-04 15:35:36:3536 info: Client disconnected: client, ID: cl-1efbcb67-97ae-40ea-b363-601247c50ac8
+2026-05-04 15:36:00:360 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:36:20:3620 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 15:36:20:3620 info: Закрытие серверов (WebSocket и HTTP)...
+2026-05-04 15:36:28:3628 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 15:36:28:3628 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 15:36:29:3629 info: [API Server] Запуск процесса...
+2026-05-04 15:36:29:3629 info: New client connected from IP: ::1
+2026-05-04 15:36:29:3629 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 15:36:30:3630 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:36:30:3630 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 15:36:30:3630 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:36:30:3630 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:36:30:3630 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 15:36:30:3630 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:36:30:3630 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 15:36:30:3630 info: New client connected from IP: ::1
+2026-05-04 15:36:30:3630 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 15:36:30:3630 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 15:36:30:3630 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:36:31:3631 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 15:36:31:3631 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 15:36:31:3631 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 15:36:31:3631 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 19168.
+2026-05-04 15:36:31:3631 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 15:36:31:3631 info: New client connected from IP: ::1
+2026-05-04 15:36:31:3631 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 15:36:33:3633 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:36:33:3633 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 15:36:41:3641 info: New client connected from IP: ::1
+2026-05-04 15:36:41:3641 info: Client identified and connection stored: client, ID: cl-cbd726ef-3904-433b-a35c-f1de0c61a953
+2026-05-04 15:36:43:3643 info: Client disconnected: client, ID: cl-cbd726ef-3904-433b-a35c-f1de0c61a953
+2026-05-04 15:36:44:3644 info: New client connected from IP: ::1
+2026-05-04 15:36:44:3644 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_21464
+2026-05-04 15:37:00:370 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:37:22:3722 info: New client connected from IP: ::1
+2026-05-04 15:37:22:3722 info: Client identified and connection stored: client, ID: cl-4c8e5f75-7f4b-4319-b5c6-10cea75c701f
+2026-05-04 15:37:46:3746 info: Client disconnected: client, ID: cl-4c8e5f75-7f4b-4319-b5c6-10cea75c701f
+2026-05-04 15:38:00:380 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:38:25:3825 info: New client connected from IP: ::1
+2026-05-04 15:38:25:3825 info: Client identified and connection stored: client, ID: cl-25a34698-6e22-41ec-b6dd-ee4071dffa60
+2026-05-04 15:39:00:390 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:40:00:400 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:41:00:410 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:42:00:420 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:43:00:430 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:44:00:440 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:45:00:450 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:45:34:4534 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 15:49:25:4925 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 15:49:25:4925 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 15:49:25:4925 info: [API Server] Запуск процесса...
+2026-05-04 15:49:26:4926 info: New client connected from IP: ::1
+2026-05-04 15:49:26:4926 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 15:49:27:4927 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:49:27:4927 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 15:49:27:4927 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:49:27:4927 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:49:27:4927 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 15:49:27:4927 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:49:27:4927 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 15:49:27:4927 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 15:49:27:4927 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:49:27:4927 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 15:49:28:4928 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 15:49:28:4928 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 15:49:28:4928 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 8944.
+2026-05-04 15:49:28:4928 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 15:49:28:4928 info: New client connected from IP: ::1
+2026-05-04 15:49:28:4928 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 15:49:29:4929 info: New client connected from IP: ::1
+2026-05-04 15:49:29:4929 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_21836
+2026-05-04 15:49:30:4930 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:49:30:4930 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 15:50:00:500 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:51:00:510 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:52:00:520 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:53:00:530 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:54:00:540 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:54:10:5410 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 15:54:16:5416 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 15:54:16:5416 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 15:54:16:5416 info: [API Server] Запуск процесса...
+2026-05-04 15:54:17:5417 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:54:17:5417 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 15:54:17:5417 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:54:17:5417 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 15:54:17:5417 info: New client connected from IP: ::1
+2026-05-04 15:54:17:5417 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-04 15:54:18:5418 info: New client connected from IP: ::1
+2026-05-04 15:54:18:5418 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 15:54:18:5418 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:54:18:5418 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 15:54:18:5418 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 15:54:18:5418 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 15:54:18:5418 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:54:18:5418 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 15:54:18:5418 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 15:54:18:5418 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 15:54:18:5418 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 2968.
+2026-05-04 15:54:18:5418 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 15:54:19:5419 info: New client connected from IP: ::1
+2026-05-04 15:54:19:5419 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 15:54:19:5419 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 15:54:19:5419 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 15:54:19:5419 info: New client connected from IP: ::1
+2026-05-04 15:54:19:5419 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_7548
+2026-05-04 15:55:00:550 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:56:00:560 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 15:56:14:5614 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 16:08:17:817 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 16:08:17:817 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 16:08:17:817 info: [API Server] Запуск процесса...
+2026-05-04 16:08:18:818 info: New client connected from IP: ::1
+2026-05-04 16:08:18:818 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 16:08:18:818 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:08:18:818 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 16:08:18:818 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:08:18:818 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:08:18:818 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 16:08:18:818 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:08:18:818 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 16:08:19:819 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 16:08:19:819 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:08:19:819 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 16:08:19:819 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 16:08:19:819 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 16:08:19:819 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 19724.
+2026-05-04 16:08:19:819 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 16:08:19:819 info: New client connected from IP: ::1
+2026-05-04 16:08:19:819 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 16:08:20:820 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:08:20:820 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 16:08:21:821 info: New client connected from IP: ::1
+2026-05-04 16:08:21:821 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_13796
+2026-05-04 16:09:00:90 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:10:00:100 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:11:00:110 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:12:00:120 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:13:00:130 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:13:42:1342 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 16:13:42:1342 info: Закрытие серверов (WebSocket и HTTP)...
+2026-05-04 16:13:42:1342 info: Client disconnected: gameserver, ID: gameserver-Hddkwe35fsvk_worker_13796
+2026-05-04 16:13:49:1349 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 16:13:49:1349 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 16:13:49:1349 info: [API Server] Запуск процесса...
+2026-05-04 16:13:50:1350 info: New client connected from IP: ::1
+2026-05-04 16:13:50:1350 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 16:13:50:1350 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:13:50:1350 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 16:13:50:1350 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:13:50:1350 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:13:50:1350 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 16:13:50:1350 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:13:50:1350 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 16:13:51:1351 info: New client connected from IP: ::1
+2026-05-04 16:13:51:1351 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 16:13:51:1351 info: New client connected from IP: ::1
+2026-05-04 16:13:51:1351 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-04 16:13:52:1352 info: New client connected from IP: ::1
+2026-05-04 16:13:52:1352 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 16:13:53:1353 info: New client connected from IP: ::1
+2026-05-04 16:13:53:1353 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 16:13:53:1353 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:13:53:1353 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 16:13:53:1353 info: New client connected from IP: ::1
+2026-05-04 16:13:53:1353 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-04 16:13:54:1354 info: New client connected from IP: ::1
+2026-05-04 16:13:54:1354 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 16:13:54:1354 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 16:13:54:1354 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:13:55:1355 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 16:13:55:1355 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 16:13:55:1355 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 16:13:55:1355 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 13436.
+2026-05-04 16:13:55:1355 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 16:13:55:1355 info: New client connected from IP: ::1
+2026-05-04 16:13:55:1355 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 16:13:56:1356 info: New client connected from IP: ::1
+2026-05-04 16:13:56:1356 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_20916
+2026-05-04 16:14:00:140 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:15:00:150 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:16:00:160 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:17:00:170 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:18:00:180 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:19:00:190 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:20:00:200 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:21:00:210 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:21:19:2119 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 16:21:19:2119 info: Закрытие серверов (WebSocket и HTTP)...
+2026-05-04 16:21:25:2125 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 16:21:25:2125 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 16:21:25:2125 info: [API Server] Запуск процесса...
+2026-05-04 16:21:26:2126 info: New client connected from IP: ::1
+2026-05-04 16:21:26:2126 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 16:21:27:2127 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:21:27:2127 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 16:21:27:2127 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:21:27:2127 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 16:21:27:2127 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:21:27:2127 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:21:27:2127 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 16:21:27:2127 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:21:27:2127 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 16:21:27:2127 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 16:21:27:2127 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 16:21:27:2127 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 16:21:27:2127 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 23492.
+2026-05-04 16:21:27:2127 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 16:21:27:2127 info: New client connected from IP: ::1
+2026-05-04 16:21:27:2127 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 16:21:28:2128 info: New client connected from IP: ::1
+2026-05-04 16:21:28:2128 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_15736
+2026-05-04 16:21:30:2130 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:21:30:2130 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 16:22:00:220 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:23:00:230 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:23:00:230 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 16:23:00:230 info: Закрытие серверов (WebSocket и HTTP)...
+2026-05-04 16:27:36:2736 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 16:27:36:2736 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 16:27:37:2737 info: [API Server] Запуск процесса...
+2026-05-04 16:27:38:2738 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 16:27:38:2738 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:27:38:2738 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 16:27:38:2738 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:27:38:2738 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:27:38:2738 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 16:27:38:2738 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 16:27:38:2738 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 16:27:38:2738 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 16:27:39:2739 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 21956.
+2026-05-04 16:27:39:2739 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 16:27:39:2739 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:27:39:2739 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 16:27:39:2739 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:27:40:2740 info: New client connected from IP: ::1
+2026-05-04 16:27:40:2740 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 16:27:40:2740 info: New client connected from IP: ::1
+2026-05-04 16:27:40:2740 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_22996
+2026-05-04 16:27:41:2741 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:27:41:2741 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 16:28:00:280 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:29:00:290 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:30:00:300 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:31:00:310 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:32:00:320 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:33:00:330 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:34:00:340 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:35:00:350 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:36:00:360 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:37:00:370 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:38:00:380 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:39:00:390 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:40:00:400 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:41:00:410 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:42:00:420 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:43:38:4338 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 16:43:38:4338 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 16:43:39:4339 info: [API Server] Запуск процесса...
+2026-05-04 16:43:40:4340 info: New client connected from IP: ::1
+2026-05-04 16:43:40:4340 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 16:43:40:4340 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:43:40:4340 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 16:43:40:4340 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:43:40:4340 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 16:43:41:4341 info: New client connected from IP: ::1
+2026-05-04 16:43:41:4341 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 16:43:41:4341 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:43:41:4341 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 16:43:41:4341 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:43:41:4341 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 16:43:41:4341 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:43:41:4341 info: New client connected from IP: ::1
+2026-05-04 16:43:41:4341 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_6544
+2026-05-04 16:43:41:4341 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 16:43:41:4341 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 16:43:41:4341 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 16:43:41:4341 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 21084.
+2026-05-04 16:43:41:4341 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 16:43:41:4341 info: Client disconnected: gameserver, ID: gameserver-Hddkwe35fsvk_worker_6544
+2026-05-04 16:43:42:4342 info: New client connected from IP: ::1
+2026-05-04 16:43:42:4342 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 16:43:42:4342 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:43:42:4342 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 16:43:49:4349 info: New client connected from IP: ::1
+2026-05-04 16:43:49:4349 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_20376
+2026-05-04 16:44:00:440 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:45:00:450 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:46:00:460 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:47:00:470 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:48:00:480 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:49:00:490 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:50:00:500 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:51:00:510 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:51:49:5149 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 16:51:49:5149 info: Закрытие серверов (WebSocket и HTTP)...
+2026-05-04 16:51:56:5156 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 16:51:56:5156 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 16:51:56:5156 info: [API Server] Запуск процесса...
+2026-05-04 16:51:57:5157 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:51:57:5157 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 16:51:57:5157 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:51:57:5157 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:51:57:5157 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 16:51:57:5157 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:51:57:5157 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 16:51:57:5157 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 16:51:58:5158 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:51:58:5158 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 16:51:58:5158 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 16:51:58:5158 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 16:51:58:5158 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 2420.
+2026-05-04 16:51:58:5158 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 16:51:58:5158 info: New client connected from IP: ::1
+2026-05-04 16:51:58:5158 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 16:51:59:5159 info: New client connected from IP: ::1
+2026-05-04 16:51:59:5159 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_17692
+2026-05-04 16:52:00:520 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:52:01:521 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:52:01:521 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 16:52:10:5210 info: New client connected from IP: 26.132.212.95
+2026-05-04 16:52:10:5210 info: Client identified and connection stored: client, ID: cl-0a8f0a50-5c38-4faf-b132-9ab7a3085945
+2026-05-04 16:52:14:5214 info: Client disconnected: client, ID: cl-0a8f0a50-5c38-4faf-b132-9ab7a3085945
+2026-05-04 16:53:00:530 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:54:00:540 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:55:00:550 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:55:58:5558 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 16:56:33:5633 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 16:56:33:5633 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 16:56:34:5634 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:56:34:5634 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 16:56:34:5634 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:56:35:5635 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:56:35:5635 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 16:56:35:5635 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:56:35:5635 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 16:56:45:5645 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 16:56:45:5645 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 16:56:47:5647 info: [API Server] Запуск процесса...
+2026-05-04 16:56:48:5648 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:56:48:5648 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:56:48:5648 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 16:56:48:5648 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:56:48:5648 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 16:56:48:5648 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:56:48:5648 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 16:56:48:5648 info: New client connected from IP: ::1
+2026-05-04 16:56:48:5648 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-04 16:56:50:5650 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:56:50:5650 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 16:56:50:5650 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 16:56:50:5650 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:56:50:5650 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 16:56:52:5652 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 16:56:52:5652 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 16:56:52:5652 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 3372.
+2026-05-04 16:56:52:5652 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 16:56:52:5652 info: New client connected from IP: ::1
+2026-05-04 16:56:52:5652 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_11740
+2026-05-04 16:57:00:570 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:57:11:5711 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 16:57:19:5719 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 16:57:19:5719 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 16:57:20:5720 info: [API Server] Запуск процесса...
+2026-05-04 16:57:21:5721 info: New client connected from IP: ::1
+2026-05-04 16:57:21:5721 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 16:57:21:5721 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:57:21:5721 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 16:57:21:5721 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:57:21:5721 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 16:57:21:5721 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 16:57:21:5721 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:57:21:5721 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 16:57:21:5721 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 16:57:22:5722 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 16:57:22:5722 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 14316.
+2026-05-04 16:57:22:5722 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 16:57:22:5722 info: New client connected from IP: ::1
+2026-05-04 16:57:22:5722 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 16:57:22:5722 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:57:22:5722 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 16:57:22:5722 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 16:57:22:5722 info: New client connected from IP: ::1
+2026-05-04 16:57:22:5722 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_22588
+2026-05-04 16:57:25:5725 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 16:57:25:5725 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 16:57:35:5735 info: New client connected from IP: 26.132.212.95
+2026-05-04 16:57:35:5735 info: Client identified and connection stored: client, ID: cl-a8976ea5-bb7a-42cd-9220-7cf83543c47f
+2026-05-04 16:57:36:5736 info: Client disconnected: client, ID: cl-a8976ea5-bb7a-42cd-9220-7cf83543c47f
+2026-05-04 16:58:00:580 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 16:58:11:5811 info: New client connected from IP: 26.132.212.95
+2026-05-04 16:58:11:5811 info: Client identified and connection stored: client, ID: cl-9d5e306b-0222-4c13-9113-258517d77a9a
+2026-05-04 16:59:00:590 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:00:00:00 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:01:00:10 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:01:04:14 info: Client disconnected: client, ID: cl-9d5e306b-0222-4c13-9113-258517d77a9a
+2026-05-04 17:02:00:20 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:03:00:30 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:04:00:40 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:05:00:50 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:06:00:60 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:07:00:70 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:08:00:80 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:09:00:90 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:10:00:100 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:11:00:110 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:12:00:120 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:13:00:130 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:14:00:140 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:15:00:150 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:16:00:160 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:17:00:170 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:18:00:180 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:19:00:190 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:20:00:200 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:21:00:210 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:22:00:220 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:23:00:230 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:24:00:240 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:25:00:250 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:26:00:260 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:27:00:270 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:28:00:280 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:29:00:290 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:30:00:300 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:31:00:310 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:32:00:320 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:33:00:330 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:34:00:340 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:35:00:350 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:36:00:360 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:37:00:370 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:38:00:380 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:39:00:390 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:40:00:400 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:41:00:410 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:42:00:420 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:43:00:430 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:44:00:440 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:45:00:450 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:46:00:460 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:47:00:470 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:48:00:480 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:49:00:490 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:50:00:500 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:51:00:510 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:51:51:5151 info: New client connected from IP: 26.132.212.95
+2026-05-04 17:51:51:5151 info: Client identified and connection stored: client, ID: cl-7f0449b7-6478-4e88-ba00-4601e278a8f2
+2026-05-04 17:52:00:520 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:52:25:5225 info: Client disconnected: client, ID: cl-7f0449b7-6478-4e88-ba00-4601e278a8f2
+2026-05-04 17:52:46:5246 info: New client connected from IP: 26.132.212.95
+2026-05-04 17:52:46:5246 info: Client identified and connection stored: client, ID: cl-3b30bce9-5681-4e54-9758-3d40cbb7050a
+2026-05-04 17:53:00:530 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:53:02:532 info: Client disconnected: client, ID: cl-3b30bce9-5681-4e54-9758-3d40cbb7050a
+2026-05-04 17:53:53:5353 info: New client connected from IP: 26.132.212.95
+2026-05-04 17:53:53:5353 info: Client identified and connection stored: client, ID: cl-914d31ce-a783-407f-bfa6-d73c4570ad37
+2026-05-04 17:54:00:540 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:55:00:550 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:55:14:5514 info: Client disconnected: client, ID: cl-914d31ce-a783-407f-bfa6-d73c4570ad37
+2026-05-04 17:55:51:5551 info: New client connected from IP: 26.132.212.95
+2026-05-04 17:55:51:5551 info: Client identified and connection stored: client, ID: cl-90eacdfb-3be3-46cb-b640-ec30bc9e6377
+2026-05-04 17:56:00:560 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:57:00:570 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:58:00:580 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 17:59:00:590 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:00:00:00 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:01:00:10 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:02:00:20 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:02:35:235 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 18:02:35:235 info: Закрытие серверов (WebSocket и HTTP)...
+2026-05-04 18:02:35:235 info: Client disconnected: gameserver, ID: gameserver-Hddkwe35fsvk_worker_22588
+2026-05-04 18:04:09:49 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-04 18:04:09:49 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-04 18:04:10:410 info: [API Server] Запуск процесса...
+2026-05-04 18:04:11:411 info: New client connected from IP: ::1
+2026-05-04 18:04:11:411 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-04 18:04:11:411 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 18:04:11:411 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-04 18:04:11:411 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-04 18:04:11:411 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-04 18:04:11:411 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 18:04:11:411 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-04 18:04:11:411 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-04 18:04:11:411 info: [API Server] Успешное подключение к MongoDB.
+2026-05-04 18:04:12:412 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 18:04:12:412 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-04 18:04:12:412 info: [HealthMonitor] Monitoring started for api:main
+2026-05-04 18:04:12:412 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-04 18:04:12:412 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 22240.
+2026-05-04 18:04:12:412 info: Обработчики грациозного завершения инициализированы.
+2026-05-04 18:04:12:412 info: New client connected from IP: ::1
+2026-05-04 18:04:12:412 info: New client connected from IP: ::1
+2026-05-04 18:04:12:412 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-04 18:04:12:412 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_19132
+2026-05-04 18:04:14:414 info: dbServer: Successfully connected to Redis (main client).
+2026-05-04 18:04:14:414 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-04 18:04:29:429 info: New client connected from IP: 26.132.212.95
+2026-05-04 18:04:29:429 info: Client identified and connection stored: client, ID: cl-89b3294b-948c-40a7-a954-ee5f736c74e7
+2026-05-04 18:05:00:50 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:05:11:511 info: Client disconnected: client, ID: cl-89b3294b-948c-40a7-a954-ee5f736c74e7
+2026-05-04 18:05:27:527 info: New client connected from IP: 26.132.212.95
+2026-05-04 18:05:27:527 info: Client identified and connection stored: client, ID: cl-d0507e94-0aca-4a17-bfd0-cd23a03470b2
+2026-05-04 18:05:40:540 info: Client disconnected: client, ID: cl-d0507e94-0aca-4a17-bfd0-cd23a03470b2
+2026-05-04 18:06:00:60 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:07:00:70 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:08:00:80 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:09:00:90 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:10:00:100 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:11:00:110 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:12:00:120 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:13:00:130 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:14:00:140 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:15:00:150 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:15:46:1546 info: New client connected from IP: 26.132.212.95
+2026-05-04 18:15:46:1546 info: Client identified and connection stored: client, ID: cl-c6a9d8c0-8039-4a50-b925-8cd59e390202
+2026-05-04 18:16:00:160 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:17:00:170 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:18:00:180 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:19:00:190 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:20:00:200 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:21:00:210 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:22:00:220 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:23:00:230 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:24:00:240 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:25:00:250 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:26:00:260 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:27:00:270 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:28:00:280 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:29:00:290 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:30:00:300 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:31:00:310 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:32:00:320 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:33:00:330 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:34:00:340 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:35:00:350 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:36:00:360 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:37:00:370 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:38:00:380 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:39:00:390 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:40:00:400 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:41:00:410 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:42:00:420 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:43:00:430 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:44:00:440 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:45:00:450 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:46:00:460 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:47:00:470 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:48:00:480 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:49:00:490 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:50:00:500 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:51:00:510 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:52:00:520 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:53:00:530 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:54:00:540 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:55:00:550 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:56:00:560 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:57:00:570 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:58:00:580 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 18:59:00:590 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:00:00:00 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:01:00:10 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:02:00:20 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:03:00:30 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:04:00:40 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:05:00:50 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:06:00:60 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:07:00:70 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:08:00:80 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:09:00:90 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:10:00:100 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:11:00:110 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:12:00:120 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:13:00:130 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:14:00:140 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:15:00:150 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:16:00:160 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:17:00:170 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:18:00:180 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:19:00:190 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-04 19:19:09:199 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-04 19:19:09:199 info: Закрытие серверов (WebSocket и HTTP)...

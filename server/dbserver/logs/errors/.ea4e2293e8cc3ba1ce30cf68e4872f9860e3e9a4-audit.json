@@ -1,0 +1,35 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\errors\\.ea4e2293e8cc3ba1ce30cf68e4872f9860e3e9a4-audit.json",
+  "files": [
+    {
+      "date": 1777814573376,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\errors\\dbserver-error-2026-05-03.log",
+      "hash": "28142ee9ec4220d2d4e98f0af7a7cac58cd89c27a2db27f383207207facf2495"
+    },
+    {
+      "date": 1777889559996,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\errors\\dbserver-error-2026-05-04.log",
+      "hash": "f52c128e2a039e56c59492e416fbceb93bbe0a557f427cc37bc9d2673b830607"
+    },
+    {
+      "date": 1778431619537,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\errors\\dbserver-error-2026-05-10.log",
+      "hash": "703f04942df19acc3c26ca51f8acd60782bad9502f385cecbe90f259011467bc"
+    },
+    {
+      "date": 1778488337073,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\errors\\dbserver-error-2026-05-11.log",
+      "hash": "b65c9b1060d08aff08f684a5b34d56eba7768968cc888981870af81af47381fa"
+    },
+    {
+      "date": 1778580830826,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\errors\\dbserver-error-2026-05-12.log",
+      "hash": "0c34564420019e837e852ceb93a2c521c307fc20ab80076ab35f6736f1ab3bf9"
+    }
+  ],
+  "hashType": "sha256"
+}

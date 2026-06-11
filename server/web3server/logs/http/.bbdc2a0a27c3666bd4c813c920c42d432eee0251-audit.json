@@ -1,0 +1,25 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 7
+  },
+  "auditLog": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\web3server\\logs\\http\\.bbdc2a0a27c3666bd4c813c920c42d432eee0251-audit.json",
+  "files": [
+    {
+      "date": 1778431614188,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\web3server\\logs\\http\\http-2026-05-10.log",
+      "hash": "3904a0cceb232537854d21854a2faed6f863fda6a37d020757c29166cbc5a7cc"
+    },
+    {
+      "date": 1778488332609,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\web3server\\logs\\http\\http-2026-05-11.log",
+      "hash": "57fd33956c121a2b5af7a6e092674ffef7736466aee977b984f6c50db13cc173"
+    },
+    {
+      "date": 1778580827889,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\web3server\\logs\\http\\http-2026-05-12.log",
+      "hash": "302b14a3adc952ea7ded1c2ce73a8fc6695251a6cbec07d1b9b81782e27a93de"
+    }
+  ],
+  "hashType": "sha256"
+}

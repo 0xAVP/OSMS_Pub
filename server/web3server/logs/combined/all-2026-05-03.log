@@ -1,0 +1,2802 @@
+2026-05-03 15:22:59:2259 error: Web3Server: Error connecting to dbServer:
+2026-05-03 15:24:00:240 info: Web3Server: Connected to dbServer
+2026-05-03 15:24:00:240 info: Web3Server: Successfully identified with dbServer
+2026-05-03 15:24:00:240 info: Web3Server: Successfully connected to Redis.
+2026-05-03 15:24:00:240 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 15:24:00:240 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 15:24:01:241 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 15:24:01:241 info: Web3Server: Blockchain provider connected.
+2026-05-03 15:24:01:241 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 15:24:01:241 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 15:24:01:241 info: Web3Server запущен на порту 3000
+2026-05-03 15:24:03:243 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:24:03:243 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:24:03:243 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 1 владельцев PilotNFT.
+2026-05-03 15:24:03:243 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 1.
+2026-05-03 15:24:03:243 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 15:25:04:254 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:25:04:254 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:25:04:254 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 1 владельцев PilotNFT.
+2026-05-03 15:25:04:254 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 1.
+2026-05-03 15:26:04:264 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:26:04:264 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:26:04:264 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 1 владельцев PilotNFT.
+2026-05-03 15:26:04:264 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 1.
+2026-05-03 15:27:04:274 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:27:04:274 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:27:04:274 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 1 владельцев PilotNFT.
+2026-05-03 15:27:04:274 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 1.
+2026-05-03 15:28:04:284 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:28:04:284 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:28:04:284 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 1 владельцев PilotNFT.
+2026-05-03 15:28:04:284 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 1.
+2026-05-03 15:29:04:294 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:29:04:294 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:29:04:294 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 1 владельцев PilotNFT.
+2026-05-03 15:29:04:294 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 1.
+2026-05-03 15:30:04:304 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:30:04:304 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:30:04:304 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 1 владельцев PilotNFT.
+2026-05-03 15:30:04:304 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 1.
+2026-05-03 15:31:04:314 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:31:04:314 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:31:04:314 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 1 владельцев PilotNFT.
+2026-05-03 15:31:04:314 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 1.
+2026-05-03 15:32:04:324 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:32:04:324 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:32:04:324 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 1 владельцев PilotNFT.
+2026-05-03 15:32:04:324 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 1.
+2026-05-03 15:33:04:334 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:33:04:334 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:33:04:334 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:33:04:334 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:34:04:344 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:34:04:344 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:34:04:344 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:34:04:344 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:35:04:354 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:35:04:354 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:35:04:354 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:35:04:354 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:36:04:364 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:36:04:364 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:36:04:364 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:36:04:364 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:36:25:3625 info: [TOKEN-FETCHER]: Found a total of 0 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:36:32:3632 info: Web3Server: Time synced. Server: 1777815391, Chain: 1777815392, Offset: 1s
+2026-05-03 15:36:32:3632 info: Web3Server: Signed mint for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b (Nonce: 0)
+2026-05-03 15:37:04:374 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:37:04:374 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:37:04:374 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:37:04:374 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:37:56:3756 info: [TOKEN-FETCHER]: Found a total of 0 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:38:04:384 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:38:04:384 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:38:04:384 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:38:04:384 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:38:06:386 info: Web3Server: Signed mint for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b (Nonce: 0)
+2026-05-03 15:38:25:3825 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:39:04:394 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:39:04:394 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:39:04:394 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:39:04:394 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:39:05:395 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:39:05:395 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:39:05:395 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:39:05:395 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/2/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:39:05:395 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:39:05:395 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:39:26:3926 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:40:04:404 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:40:04:404 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:40:04:404 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:40:04:404 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:41:04:414 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:41:04:414 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:41:04:414 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:41:04:414 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:42:04:424 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:42:04:424 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:42:04:424 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:42:04:424 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:43:04:434 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:43:04:434 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:43:04:434 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:43:04:434 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:44:04:444 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:44:04:444 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:44:04:444 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:44:04:444 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:45:04:454 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:45:04:454 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:45:04:454 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:45:04:454 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:46:04:464 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:46:04:464 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:46:04:464 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:46:04:464 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:47:01:471 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 15:47:01:471 info: Остановка прослушивания событий блокчейна...
+2026-05-03 15:47:01:471 info: [Listener] Остановка сервиса...
+2026-05-03 15:47:01:471 info: Закрытие соединения с Redis...
+2026-05-03 15:47:01:471 info: Закрытие соединения с dbserver...
+2026-05-03 15:47:01:471 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 15:47:01:471 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 15:47:01:471 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 15:47:01:471 info: Все соединения успешно закрыты.
+2026-05-03 15:48:00:480 info: Web3Server: Connected to dbServer
+2026-05-03 15:48:14:4814 info: Web3Server: Connected to dbServer
+2026-05-03 15:48:14:4814 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:48:14:4814 info: Web3Server: Successfully connected to Redis.
+2026-05-03 15:48:15:4815 info: Web3Server: Connected to dbServer
+2026-05-03 15:48:15:4815 info: Web3Server: Successfully identified with dbServer
+2026-05-03 15:48:16:4816 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 15:48:16:4816 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 15:48:17:4817 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 15:48:17:4817 info: Web3Server: Blockchain provider connected.
+2026-05-03 15:48:18:4818 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 15:48:18:4818 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 15:48:18:4818 info: Web3Server запущен на порту 3000
+2026-05-03 15:48:19:4819 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:48:19:4819 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:48:19:4819 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:48:19:4819 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:48:19:4819 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 15:48:32:4832 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:49:20:4920 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:49:20:4920 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:49:20:4920 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:49:20:4920 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:49:22:4922 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:49:39:4939 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 15:49:39:4939 info: Остановка прослушивания событий блокчейна...
+2026-05-03 15:49:39:4939 info: [Listener] Остановка сервиса...
+2026-05-03 15:49:39:4939 info: Закрытие соединения с Redis...
+2026-05-03 15:49:39:4939 info: Закрытие соединения с dbserver...
+2026-05-03 15:49:39:4939 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 15:49:39:4939 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 15:49:39:4939 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:49:39:4939 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 15:49:46:4946 info: Web3Server: Connected to dbServer
+2026-05-03 15:49:46:4946 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:49:46:4946 info: Web3Server: Successfully connected to Redis.
+2026-05-03 15:49:48:4948 info: Web3Server: Connected to dbServer
+2026-05-03 15:49:48:4948 info: Web3Server: Successfully identified with dbServer
+2026-05-03 15:49:48:4948 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 15:49:48:4948 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 15:49:50:4950 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 15:49:50:4950 info: Web3Server: Blockchain provider connected.
+2026-05-03 15:49:50:4950 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 15:49:50:4950 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 15:49:50:4950 info: Web3Server запущен на порту 3000
+2026-05-03 15:49:51:4951 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:49:51:4951 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:49:51:4951 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:49:51:4951 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:49:51:4951 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 15:50:14:5014 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:50:52:5052 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:50:52:5052 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:50:52:5052 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:50:52:5052 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:51:10:5110 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 15:51:10:5110 info: Остановка прослушивания событий блокчейна...
+2026-05-03 15:51:10:5110 info: [Listener] Остановка сервиса...
+2026-05-03 15:51:10:5110 info: Закрытие соединения с Redis...
+2026-05-03 15:51:10:5110 info: Закрытие соединения с dbserver...
+2026-05-03 15:51:10:5110 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 15:51:10:5110 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 15:51:10:5110 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 15:51:10:5110 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:51:24:5124 info: Web3Server: Connected to dbServer
+2026-05-03 15:51:24:5124 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:51:24:5124 info: Web3Server: Successfully connected to Redis.
+2026-05-03 15:51:25:5125 info: Web3Server: Connected to dbServer
+2026-05-03 15:51:25:5125 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:51:26:5126 info: Web3Server: Connected to dbServer
+2026-05-03 15:51:26:5126 info: Web3Server: Successfully identified with dbServer
+2026-05-03 15:51:27:5127 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 15:51:28:5128 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 15:51:29:5129 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 15:51:29:5129 info: Web3Server: Blockchain provider connected.
+2026-05-03 15:51:29:5129 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 15:51:29:5129 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 15:51:29:5129 info: Web3Server запущен на порту 3000
+2026-05-03 15:51:30:5130 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:51:30:5130 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:51:30:5130 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:51:30:5130 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:51:30:5130 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 15:51:53:5153 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:52:31:5231 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:52:31:5231 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:52:31:5231 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:52:31:5231 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:52:59:5259 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 15:52:59:5259 info: Остановка прослушивания событий блокчейна...
+2026-05-03 15:52:59:5259 info: [Listener] Остановка сервиса...
+2026-05-03 15:52:59:5259 info: Закрытие соединения с Redis...
+2026-05-03 15:52:59:5259 info: Закрытие соединения с dbserver...
+2026-05-03 15:52:59:5259 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 15:52:59:5259 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 15:53:08:538 info: Web3Server: Connected to dbServer
+2026-05-03 15:53:08:538 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:53:08:538 info: Web3Server: Successfully connected to Redis.
+2026-05-03 15:53:09:539 info: Web3Server: Connected to dbServer
+2026-05-03 15:53:09:539 info: Web3Server: Successfully identified with dbServer
+2026-05-03 15:53:09:539 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 15:53:09:539 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 15:53:10:5310 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 15:53:10:5310 info: Web3Server: Blockchain provider connected.
+2026-05-03 15:53:10:5310 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 15:53:10:5310 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 15:53:10:5310 info: Web3Server запущен на порту 3000
+2026-05-03 15:53:11:5311 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:53:11:5311 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:53:11:5311 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:53:11:5311 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:53:11:5311 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 15:53:26:5326 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:53:27:5327 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:53:27:5327 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:53:27:5327 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:53:28:5328 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/2/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:53:28:5328 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:53:28:5328 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:53:40:5340 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 15:53:40:5340 info: Остановка прослушивания событий блокчейна...
+2026-05-03 15:53:40:5340 info: [Listener] Остановка сервиса...
+2026-05-03 15:53:40:5340 info: Закрытие соединения с Redis...
+2026-05-03 15:53:40:5340 info: Закрытие соединения с dbserver...
+2026-05-03 15:53:40:5340 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 15:53:40:5340 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 15:53:40:5340 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 15:53:40:5340 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:53:58:5358 info: Web3Server: Connected to dbServer
+2026-05-03 15:53:58:5358 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:53:58:5358 info: Web3Server: Successfully connected to Redis.
+2026-05-03 15:54:00:540 info: Web3Server: Connected to dbServer
+2026-05-03 15:54:00:540 info: Web3Server: Successfully identified with dbServer
+2026-05-03 15:54:00:540 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 15:54:00:540 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 15:54:01:541 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 15:54:01:541 info: Web3Server: Blockchain provider connected.
+2026-05-03 15:54:01:541 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 15:54:01:541 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 15:54:01:541 info: Web3Server запущен на порту 3000
+2026-05-03 15:54:03:543 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:54:03:543 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:54:03:543 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:54:03:543 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:54:03:543 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 15:54:15:5415 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:54:16:5416 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:54:16:5416 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:54:16:5416 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:54:16:5416 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/2/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:54:16:5416 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:54:16:5416 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:54:26:5426 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 15:54:26:5426 info: Остановка прослушивания событий блокчейна...
+2026-05-03 15:54:26:5426 info: [Listener] Остановка сервиса...
+2026-05-03 15:54:26:5426 info: Закрытие соединения с Redis...
+2026-05-03 15:54:26:5426 info: Закрытие соединения с dbserver...
+2026-05-03 15:54:26:5426 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 15:54:26:5426 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 15:54:43:5443 info: Web3Server: Connected to dbServer
+2026-05-03 15:54:43:5443 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:54:43:5443 info: Web3Server: Successfully connected to Redis.
+2026-05-03 15:54:44:5444 info: Web3Server: Connected to dbServer
+2026-05-03 15:54:44:5444 info: Web3Server: Successfully identified with dbServer
+2026-05-03 15:54:45:5445 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 15:54:45:5445 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 15:54:47:5447 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 15:54:47:5447 info: Web3Server: Blockchain provider connected.
+2026-05-03 15:54:47:5447 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 15:54:47:5447 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 15:54:47:5447 info: Web3Server запущен на порту 3000
+2026-05-03 15:54:48:5448 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:54:48:5448 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:54:48:5448 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:54:48:5448 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:54:48:5448 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 15:55:12:5512 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:55:14:5514 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:55:14:5514 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:55:14:5514 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:55:14:5514 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/2/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:55:14:5514 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:55:14:5514 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:55:48:5548 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 15:55:48:5548 info: Остановка прослушивания событий блокчейна...
+2026-05-03 15:55:48:5548 info: [Listener] Остановка сервиса...
+2026-05-03 15:55:48:5548 info: Закрытие соединения с Redis...
+2026-05-03 15:55:48:5548 info: Закрытие соединения с dbserver...
+2026-05-03 15:55:48:5548 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 15:55:48:5548 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 15:55:48:5548 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 15:55:48:5548 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:55:58:5558 info: Web3Server: Connected to dbServer
+2026-05-03 15:55:58:5558 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:55:58:5558 info: Web3Server: Successfully connected to Redis.
+2026-05-03 15:55:59:5559 info: Web3Server: Connected to dbServer
+2026-05-03 15:55:59:5559 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:56:00:560 info: Web3Server: Connected to dbServer
+2026-05-03 15:56:00:560 info: Web3Server: Successfully identified with dbServer
+2026-05-03 15:56:01:561 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 15:56:01:561 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 15:56:03:563 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 15:56:03:563 info: Web3Server: Blockchain provider connected.
+2026-05-03 15:56:03:563 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 15:56:03:563 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 15:56:03:563 info: Web3Server запущен на порту 3000
+2026-05-03 15:56:04:564 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:56:04:564 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:56:04:564 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:56:04:564 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:56:04:564 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 15:56:12:5612 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:56:15:5615 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:56:15:5615 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:56:15:5615 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:56:15:5615 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/2/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:56:15:5615 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:56:15:5615 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:56:45:5645 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 15:56:45:5645 info: Остановка прослушивания событий блокчейна...
+2026-05-03 15:56:45:5645 info: [Listener] Остановка сервиса...
+2026-05-03 15:56:45:5645 info: Закрытие соединения с Redis...
+2026-05-03 15:56:45:5645 info: Закрытие соединения с dbserver...
+2026-05-03 15:56:45:5645 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 15:56:45:5645 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 15:56:45:5645 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 15:56:45:5645 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:57:03:573 info: Web3Server: Connected to dbServer
+2026-05-03 15:57:03:573 info: Web3Server: Successfully identified with dbServer
+2026-05-03 15:57:03:573 info: Web3Server: Successfully connected to Redis.
+2026-05-03 15:57:03:573 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 15:57:03:573 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 15:57:04:574 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 15:57:04:574 info: Web3Server: Blockchain provider connected.
+2026-05-03 15:57:04:574 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 15:57:04:574 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 15:57:04:574 info: Web3Server запущен на порту 3000
+2026-05-03 15:57:05:575 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:57:05:575 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:57:05:575 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:57:06:576 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:57:06:576 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 15:57:15:5715 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:57:19:5719 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:57:19:5719 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:57:19:5719 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:57:19:5719 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/2/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:57:19:5719 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:57:19:5719 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:57:46:5746 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 15:57:46:5746 info: Остановка прослушивания событий блокчейна...
+2026-05-03 15:57:46:5746 info: [Listener] Остановка сервиса...
+2026-05-03 15:57:46:5746 info: Закрытие соединения с Redis...
+2026-05-03 15:57:46:5746 info: Закрытие соединения с dbserver...
+2026-05-03 15:57:46:5746 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 15:57:46:5746 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 15:57:46:5746 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 15:57:46:5746 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:58:01:581 info: Web3Server: Connected to dbServer
+2026-05-03 15:58:01:581 error: Web3Server: Disconnected from dbServer
+2026-05-03 15:58:01:581 info: Web3Server: Successfully connected to Redis.
+2026-05-03 15:58:02:582 info: Web3Server: Connected to dbServer
+2026-05-03 15:58:02:582 info: Web3Server: Successfully identified with dbServer
+2026-05-03 15:58:02:582 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 15:58:02:582 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 15:58:03:583 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 15:58:03:583 info: Web3Server: Blockchain provider connected.
+2026-05-03 15:58:03:583 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 15:58:03:583 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 15:58:03:583 info: Web3Server запущен на порту 3000
+2026-05-03 15:58:04:584 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:58:04:584 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:58:04:584 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:58:04:584 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:58:04:584 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 15:58:14:5814 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:58:18:5818 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:58:18:5818 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:58:18:5818 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:58:18:5818 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/2/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 15:58:18:5818 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 15:58:18:5818 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 15:59:06:596 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 15:59:06:596 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 15:59:06:596 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 15:59:06:596 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 15:59:39:5939 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 15:59:39:5939 info: Остановка прослушивания событий блокчейна...
+2026-05-03 15:59:39:5939 info: [Listener] Остановка сервиса...
+2026-05-03 15:59:39:5939 info: Закрытие соединения с Redis...
+2026-05-03 15:59:39:5939 info: Закрытие соединения с dbserver...
+2026-05-03 15:59:39:5939 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 15:59:39:5939 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 16:00:11:011 info: Web3Server: Connected to dbServer
+2026-05-03 16:00:11:011 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:00:11:011 info: Web3Server: Successfully connected to Redis.
+2026-05-03 16:00:12:012 info: Web3Server: Connected to dbServer
+2026-05-03 16:00:12:012 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:00:14:014 info: Web3Server: Connected to dbServer
+2026-05-03 16:00:14:014 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:00:15:015 info: Web3Server: Connected to dbServer
+2026-05-03 16:00:15:015 info: Web3Server: Successfully identified with dbServer
+2026-05-03 16:00:16:016 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 16:00:16:016 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 16:00:17:017 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 16:00:17:017 info: Web3Server: Blockchain provider connected.
+2026-05-03 16:00:17:017 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 16:00:17:017 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 16:00:17:017 info: Web3Server запущен на порту 3000
+2026-05-03 16:00:18:018 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:00:18:018 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:00:18:018 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:00:18:018 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:00:18:018 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 16:00:25:025 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:00:26:026 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:00:26:026 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:00:26:026 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:00:26:026 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/2/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:00:26:026 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:00:26:026 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:01:20:120 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:01:20:120 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:01:20:120 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:01:20:120 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:02:20:220 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:02:20:220 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:02:20:220 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:02:20:220 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:03:11:311 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:03:20:320 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:03:20:320 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:03:20:320 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:03:20:320 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:04:20:420 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:04:20:420 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:04:20:420 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:04:20:420 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:04:41:441 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 16:04:41:441 info: Остановка прослушивания событий блокчейна...
+2026-05-03 16:04:41:441 info: [Listener] Остановка сервиса...
+2026-05-03 16:04:41:441 info: Закрытие соединения с Redis...
+2026-05-03 16:04:41:441 info: Закрытие соединения с dbserver...
+2026-05-03 16:04:41:441 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 16:04:41:441 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 16:04:41:441 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 16:04:41:441 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:07:02:72 info: Web3Server: Connected to dbServer
+2026-05-03 16:07:02:72 info: Web3Server: Successfully identified with dbServer
+2026-05-03 16:07:02:72 info: Web3Server: Successfully connected to Redis.
+2026-05-03 16:07:02:72 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 16:07:02:72 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 16:07:03:73 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 16:07:03:73 info: Web3Server: Blockchain provider connected.
+2026-05-03 16:07:03:73 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 16:07:03:73 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 16:07:03:73 info: Web3Server запущен на порту 3000
+2026-05-03 16:07:05:75 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:07:05:75 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:07:05:75 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:07:05:75 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:07:05:75 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 16:07:06:76 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 16:07:06:76 info: Остановка прослушивания событий блокчейна...
+2026-05-03 16:07:06:76 info: [Listener] Остановка сервиса...
+2026-05-03 16:07:06:76 info: Закрытие соединения с Redis...
+2026-05-03 16:07:06:76 info: Закрытие соединения с dbserver...
+2026-05-03 16:07:06:76 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 16:07:06:76 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 16:07:06:76 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 16:07:06:76 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:07:37:737 info: Web3Server: Connected to dbServer
+2026-05-03 16:07:38:738 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:07:38:738 info: Web3Server: Successfully connected to Redis.
+2026-05-03 16:07:39:739 info: Web3Server: Connected to dbServer
+2026-05-03 16:07:39:739 info: Web3Server: Successfully identified with dbServer
+2026-05-03 16:07:40:740 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 16:07:40:740 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 16:07:41:741 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 16:07:41:741 info: Web3Server: Blockchain provider connected.
+2026-05-03 16:07:41:741 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 16:07:41:741 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 16:07:41:741 info: Web3Server запущен на порту 3000
+2026-05-03 16:07:42:742 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:07:42:742 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:07:42:742 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:07:42:742 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:07:42:742 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 16:07:53:753 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:07:55:755 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:07:55:755 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:07:55:755 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:07:55:755 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/2/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:07:55:755 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:07:55:755 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:08:43:843 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:08:43:843 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:08:43:843 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:08:43:843 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:09:42:942 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:09:42:942 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:09:42:942 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:09:42:942 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:10:19:1019 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:10:43:1043 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:10:43:1043 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:10:43:1043 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:10:43:1043 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:11:43:1143 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:11:43:1143 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:11:43:1143 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:11:43:1143 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:12:43:1243 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:12:43:1243 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:12:43:1243 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:12:43:1243 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:13:43:1343 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:13:43:1343 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:13:43:1343 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:13:43:1343 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:14:43:1443 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:14:43:1443 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:14:43:1443 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:14:43:1443 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:15:43:1543 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:15:43:1543 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:15:43:1543 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:15:43:1543 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:16:43:1643 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:16:43:1643 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:16:43:1643 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:16:43:1643 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:17:43:1743 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:17:43:1743 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:17:43:1743 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:17:43:1743 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:18:24:1824 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 16:18:24:1824 info: Остановка прослушивания событий блокчейна...
+2026-05-03 16:18:24:1824 info: [Listener] Остановка сервиса...
+2026-05-03 16:18:24:1824 info: Закрытие соединения с Redis...
+2026-05-03 16:18:24:1824 info: Закрытие соединения с dbserver...
+2026-05-03 16:18:24:1824 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 16:18:24:1824 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 16:20:29:2029 info: Web3Server: Connected to dbServer
+2026-05-03 16:20:29:2029 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:20:29:2029 info: Web3Server: Successfully connected to Redis.
+2026-05-03 16:20:30:2030 info: Web3Server: Connected to dbServer
+2026-05-03 16:20:30:2030 info: Web3Server: Successfully identified with dbServer
+2026-05-03 16:20:31:2031 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 16:20:31:2031 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 16:20:32:2032 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 16:20:32:2032 info: Web3Server: Blockchain provider connected.
+2026-05-03 16:20:32:2032 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 16:20:32:2032 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 16:20:32:2032 info: Web3Server запущен на порту 3000
+2026-05-03 16:20:34:2034 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:20:34:2034 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:20:34:2034 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:20:34:2034 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:20:34:2034 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 16:20:56:2056 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:21:35:2135 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:21:35:2135 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:21:35:2135 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:21:35:2135 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:22:35:2235 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:22:35:2235 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:22:35:2235 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:22:35:2235 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:23:04:234 info: Web3Server: Time synced. Server: 1777818184, Chain: 1777818184, Offset: 0s
+2026-05-03 16:23:04:234 info: Web3Server: Signed craft for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b, craftId: 0x9f3a60aa7974830c844ab5b38598d5c7243c76afeccf656c7561bab27230a126
+2026-05-03 16:23:35:2335 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:23:35:2335 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:23:35:2335 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:23:35:2335 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:24:35:2435 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:24:35:2435 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:24:35:2435 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:24:35:2435 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:24:49:2449 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 16:24:49:2449 info: Остановка прослушивания событий блокчейна...
+2026-05-03 16:24:49:2449 info: [Listener] Остановка сервиса...
+2026-05-03 16:24:49:2449 info: Закрытие соединения с Redis...
+2026-05-03 16:24:49:2449 info: Закрытие соединения с dbserver...
+2026-05-03 16:24:49:2449 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 16:24:49:2449 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 16:24:49:2449 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 16:24:49:2449 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:25:48:2548 info: Web3Server: Connected to dbServer
+2026-05-03 16:25:49:2549 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:25:49:2549 info: Web3Server: Successfully connected to Redis.
+2026-05-03 16:25:50:2550 info: Web3Server: Connected to dbServer
+2026-05-03 16:25:50:2550 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:25:51:2551 info: Web3Server: Connected to dbServer
+2026-05-03 16:25:51:2551 info: Web3Server: Successfully identified with dbServer
+2026-05-03 16:25:52:2552 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 16:25:52:2552 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 16:25:53:2553 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 16:25:53:2553 info: Web3Server: Blockchain provider connected.
+2026-05-03 16:25:53:2553 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 16:25:53:2553 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 16:25:53:2553 info: Web3Server запущен на порту 3000
+2026-05-03 16:25:54:2554 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:25:54:2554 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:25:54:2554 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:25:54:2554 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:25:54:2554 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 16:26:05:265 info: [TOKEN-FETCHER]: Found a total of 1 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:26:12:2612 info: Web3Server: Time synced. Server: 1777818372, Chain: 1777818372, Offset: 0s
+2026-05-03 16:26:12:2612 info: Web3Server: Signed token claim for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b: 2 Coins, deadline: 1777818612
+2026-05-03 16:26:39:2639 info: Web3Server: Signed token claim for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b: 2 Coins, deadline: 1777818639
+2026-05-03 16:26:56:2656 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:26:56:2656 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:26:56:2656 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:26:56:2656 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:27:14:2714 info: Web3Server: Signed token claim for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b: 2 Coins, deadline: 1777818674
+2026-05-03 16:27:56:2756 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:27:56:2756 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:27:56:2756 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:27:56:2756 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:28:56:2856 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:28:56:2856 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:28:56:2856 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:28:56:2856 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:29:49:2949 info: Web3Server: Signed craft for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b, craftId: 0x95fd4e6cda2c2dcddc2534c5823556cada2652fa869cf1cd049bed6ac242ae8a
+2026-05-03 16:29:56:2956 info: [Listener] DETECTED: ShipCrafted. CraftId: 0x95fd4e6cda2c2dcddc2534c5823556cada2652fa869cf1cd049bed6ac242ae8a. Waiting confirmations...
+2026-05-03 16:29:56:2956 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:29:56:2956 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:29:56:2956 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:29:56:2956 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:29:57:2957 info: [TOKEN-FETCHER]: Found a total of 2 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:30:04:304 info: [Listener] CONFIRMED: ShipCrafted 0x95fd4e6cda2c2dcddc2534c5823556cada2652fa869cf1cd049bed6ac242ae8a. Sending to DB...
+2026-05-03 16:30:41:3041 info: [TOKEN-FETCHER]: Found a total of 2 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:30:56:3056 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:30:56:3056 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:30:56:3056 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:30:56:3056 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:31:26:3126 info: Web3Server: Signed token claim for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b: 2 Coins, deadline: 1777818926
+2026-05-03 16:31:34:3134 info: [Listener] DETECTED: TokensClaimed. ClaimId: 0x804130d8416f1f8d857e5b7f9cd5fd9b9d8ae489869cb1efef9807f0342b8c98. Waiting confirmations...
+2026-05-03 16:31:42:3142 info: [Listener] CONFIRMED: TokensClaimed 0x804130d8416f1f8d857e5b7f9cd5fd9b9d8ae489869cb1efef9807f0342b8c98. Sending to DB...
+2026-05-03 16:31:56:3156 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:31:56:3156 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:31:56:3156 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:31:56:3156 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:32:05:325 info: Web3Server: Signed token claim for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b: 3 Coins, deadline: 1777818965
+2026-05-03 16:32:12:3212 info: [Listener] DETECTED: TokensClaimed. ClaimId: 0x3ffaca34442912c1a96b0a56db9206556228e37a0f1e3d9216b3e5efb9cc3404. Waiting confirmations...
+2026-05-03 16:32:20:3220 info: [Listener] CONFIRMED: TokensClaimed 0x3ffaca34442912c1a96b0a56db9206556228e37a0f1e3d9216b3e5efb9cc3404. Sending to DB...
+2026-05-03 16:32:44:3244 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 16:32:45:3245 info: Остановка прослушивания событий блокчейна...
+2026-05-03 16:32:45:3245 info: [Listener] Остановка сервиса...
+2026-05-03 16:32:45:3245 info: Закрытие соединения с Redis...
+2026-05-03 16:32:45:3245 info: Закрытие соединения с dbserver...
+2026-05-03 16:32:45:3245 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 16:32:45:3245 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 16:32:45:3245 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 16:32:45:3245 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:34:06:346 info: Web3Server: Connected to dbServer
+2026-05-03 16:34:06:346 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:34:06:346 info: Web3Server: Successfully connected to Redis.
+2026-05-03 16:34:07:347 info: Web3Server: Connected to dbServer
+2026-05-03 16:34:07:347 error: Web3Server: Disconnected from dbServer
+2026-05-03 16:34:08:348 info: Web3Server: Connected to dbServer
+2026-05-03 16:34:08:348 info: Web3Server: Successfully identified with dbServer
+2026-05-03 16:34:09:349 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 16:34:09:349 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 16:34:11:3411 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 16:34:11:3411 info: Web3Server: Blockchain provider connected.
+2026-05-03 16:34:11:3411 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 16:34:11:3411 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 16:34:11:3411 info: Web3Server запущен на порту 3000
+2026-05-03 16:34:12:3412 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:34:12:3412 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:34:12:3412 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:34:12:3412 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:34:12:3412 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 16:34:27:3427 info: [TOKEN-FETCHER]: Found a total of 2 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:34:45:3445 info: Web3Server: Time synced. Server: 1777818885, Chain: 1777818884, Offset: -1s
+2026-05-03 16:34:45:3445 info: Web3Server: Signed mint for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b (Nonce: 1)
+2026-05-03 16:35:06:356 info: [Security DEBUG] Request to /internal/api/v1/get-craft-status/0x9f3a60aa7974830c844ab5b38598d5c7243c76afeccf656c7561bab27230a126
+2026-05-03 16:35:06:356 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:35:06:356 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:35:13:3513 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:35:13:3513 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:35:13:3513 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:35:13:3513 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:36:13:3613 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:36:13:3613 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:36:13:3613 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:36:13:3613 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:36:17:3617 info: [TOKEN-FETCHER]: Found a total of 2 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:36:24:3624 info: Web3Server: Signed mint for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b (Nonce: 1)
+2026-05-03 16:36:43:3643 info: [TOKEN-FETCHER]: Found a total of 3 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:37:13:3713 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:37:13:3713 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:37:13:3713 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:37:13:3713 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:38:13:3813 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:38:13:3813 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:38:13:3813 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:38:13:3813 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:39:07:397 info: [Security DEBUG] Request to /internal/api/v1/get-claim-status/0x7b861cf7c7d8b52f84cc6bbb7f9ebcbe1a4e4a435f7928f2269594092a0368b8
+2026-05-03 16:39:07:397 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:39:07:397 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:39:08:398 info: [Security DEBUG] Request to /internal/api/v1/get-claim-status/0x7dc010ca6243a6a17bf0a4d04e46bcd19fae33016108fb74ca220395bff0fa8d
+2026-05-03 16:39:08:398 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:39:08:398 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:39:13:3913 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:39:13:3913 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:39:13:3913 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:39:13:3913 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:40:08:408 info: [Security DEBUG] Request to /internal/api/v1/get-claim-status/0x02b9b784f9f109f80527913dd45b038251f5bddeb7c350a473ff3efd1ad7892c
+2026-05-03 16:40:08:408 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:40:08:408 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:40:13:4013 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:40:13:4013 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:40:13:4013 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:40:13:4013 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:41:13:4113 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:41:13:4113 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:41:13:4113 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:41:13:4113 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:42:13:4213 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:42:13:4213 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:42:13:4213 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:42:13:4213 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:42:39:4239 info: Web3Server: Signed craft for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b, craftId: 0x72b4e84f28b9fc232ca14a9473162e3cfb52e8c62b59c71bba85e084e8606c77
+2026-05-03 16:42:48:4248 info: [Listener] DETECTED: ShipCrafted. CraftId: 0x72b4e84f28b9fc232ca14a9473162e3cfb52e8c62b59c71bba85e084e8606c77. Waiting confirmations...
+2026-05-03 16:42:48:4248 info: [TOKEN-FETCHER]: Found a total of 4 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:42:56:4256 info: [Listener] CONFIRMED: ShipCrafted 0x72b4e84f28b9fc232ca14a9473162e3cfb52e8c62b59c71bba85e084e8606c77. Sending to DB...
+2026-05-03 16:43:13:4313 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:43:13:4313 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:43:13:4313 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:43:13:4313 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:44:13:4413 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:44:13:4413 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:44:13:4413 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:44:13:4413 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:45:13:4513 info: Web3Server: Signed token claim for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b: 10 Coins, deadline: 1777819752
+2026-05-03 16:45:13:4513 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:45:13:4513 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:45:13:4513 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:45:13:4513 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:45:20:4520 info: [Listener] DETECTED: TokensClaimed. ClaimId: 0xe51996ba8e6729db34f42ee7e297fbb7c79f265299a6a47b5805df7006cf42bf. Waiting confirmations...
+2026-05-03 16:45:28:4528 info: [Listener] CONFIRMED: TokensClaimed 0xe51996ba8e6729db34f42ee7e297fbb7c79f265299a6a47b5805df7006cf42bf. Sending to DB...
+2026-05-03 16:45:51:4551 info: Web3Server: Signed mint for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b (Nonce: 2)
+2026-05-03 16:45:57:4557 info: Web3Server: Signed mint for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b (Nonce: 2)
+2026-05-03 16:46:13:4613 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:46:13:4613 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:46:13:4613 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:46:13:4613 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:46:15:4615 info: [TOKEN-FETCHER]: Found a total of 5 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:46:36:4636 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/6/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:46:36:4636 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:46:36:4636 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:46:46:4646 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/6/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:46:46:4646 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:46:46:4646 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:46:52:4652 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:46:52:4652 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:46:52:4652 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:46:52:4652 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/6/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:46:52:4652 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 16:46:52:4652 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 16:47:13:4713 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:47:13:4713 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:47:13:4713 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:47:13:4713 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:47:44:4744 info: [TOKEN-FETCHER]: Found a total of 5 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 16:48:13:4813 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:48:13:4813 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:48:13:4813 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:48:13:4813 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:49:13:4913 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 16:49:13:4913 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 16:49:13:4913 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 16:49:13:4913 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 16:49:26:4926 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 16:49:26:4926 info: Остановка прослушивания событий блокчейна...
+2026-05-03 16:49:26:4926 info: [Listener] Остановка сервиса...
+2026-05-03 16:49:26:4926 info: Закрытие соединения с Redis...
+2026-05-03 16:49:26:4926 info: Закрытие соединения с dbserver...
+2026-05-03 16:49:26:4926 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 16:49:26:4926 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 16:49:26:4926 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 16:49:26:4926 error: Web3Server: Disconnected from dbServer
+2026-05-03 17:56:34:5634 error: Web3Server: Error connecting to dbServer:
+2026-05-03 17:57:38:5738 info: Web3Server: Connected to dbServer
+2026-05-03 17:57:38:5738 error: Web3Server: Disconnected from dbServer
+2026-05-03 17:57:38:5738 info: Web3Server: Successfully connected to Redis.
+2026-05-03 17:57:39:5739 info: Web3Server: Connected to dbServer
+2026-05-03 17:57:39:5739 info: Web3Server: Successfully identified with dbServer
+2026-05-03 17:57:39:5739 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 17:57:39:5739 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 17:57:41:5741 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 17:57:41:5741 info: Web3Server: Blockchain provider connected.
+2026-05-03 17:57:41:5741 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 17:57:41:5741 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 17:57:41:5741 info: Web3Server запущен на порту 3000
+2026-05-03 17:57:42:5742 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 17:57:42:5742 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 17:57:42:5742 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 17:57:42:5742 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 17:57:42:5742 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 17:58:02:582 info: [TOKEN-FETCHER]: Found a total of 5 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 17:58:18:5818 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 17:58:18:5818 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 17:58:18:5818 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 17:58:18:5818 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/6/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 17:58:18:5818 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 17:58:18:5818 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 17:58:44:5844 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 17:58:44:5844 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 17:58:44:5844 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 17:58:44:5844 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 17:58:49:5849 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 17:58:49:5849 info: Остановка прослушивания событий блокчейна...
+2026-05-03 17:58:50:5850 info: [Listener] Остановка сервиса...
+2026-05-03 17:58:50:5850 info: Закрытие соединения с Redis...
+2026-05-03 17:58:50:5850 info: Закрытие соединения с dbserver...
+2026-05-03 17:58:50:5850 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 17:58:50:5850 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 17:58:50:5850 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-03 17:58:50:5850 error: Web3Server: Disconnected from dbServer
+2026-05-03 17:59:34:5934 info: Web3Server: Connected to dbServer
+2026-05-03 17:59:34:5934 error: Web3Server: Disconnected from dbServer
+2026-05-03 17:59:34:5934 info: Web3Server: Successfully connected to Redis.
+2026-05-03 17:59:36:5936 info: Web3Server: Connected to dbServer
+2026-05-03 17:59:36:5936 info: Web3Server: Successfully identified with dbServer
+2026-05-03 17:59:36:5936 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-03 17:59:36:5936 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-03 17:59:38:5938 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-03 17:59:38:5938 info: Web3Server: Blockchain provider connected.
+2026-05-03 17:59:38:5938 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-03 17:59:38:5938 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-03 17:59:38:5938 info: Web3Server запущен на порту 3000
+2026-05-03 17:59:39:5939 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 17:59:39:5939 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 17:59:39:5939 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 17:59:39:5939 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 17:59:39:5939 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-03 17:59:51:5951 info: [TOKEN-FETCHER]: Found a total of 5 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 17:59:56:5956 info: [Security DEBUG] Request to /internal/api/v1/verify-pilot/0/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 17:59:56:5956 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 17:59:56:5956 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 17:59:56:5956 info: [Security DEBUG] Request to /internal/api/v1/verify-ship/6/0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 17:59:56:5956 info: [Security DEBUG] req.ip detected as: ::1
+2026-05-03 17:59:56:5956 info: [Security DEBUG] Whitelist contains: ["127.0.0.1","::1","::ffff:127.0.0.1","100.106.100.125","::ffff:100.106.100.125","100.123.73.85","::ffff:100.123.73.85"]
+2026-05-03 18:00:40:040 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:00:40:040 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:00:40:040 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:00:40:040 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:00:50:050 info: [TOKEN-FETCHER]: Found a total of 5 ships for wallet 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b
+2026-05-03 18:01:40:140 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:01:40:140 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:01:40:140 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:01:40:140 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:02:40:240 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:02:40:240 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:02:40:240 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:02:40:240 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:03:40:340 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:03:40:340 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:03:40:340 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:03:40:340 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:04:40:440 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:04:40:440 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:04:40:440 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:04:40:440 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:05:40:540 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:05:40:540 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:05:40:540 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:05:40:540 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:06:40:640 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:06:40:640 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:06:40:640 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:06:40:640 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:07:40:740 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:07:40:740 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:07:40:740 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:07:40:740 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:08:40:840 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:08:40:840 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:08:40:840 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:08:40:840 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:09:40:940 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:09:40:940 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:09:40:940 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:09:40:940 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:10:41:1041 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:10:41:1041 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:10:41:1041 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:10:41:1041 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:11:40:1140 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:11:40:1140 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:11:40:1140 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:11:40:1140 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:12:41:1241 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:12:41:1241 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:12:41:1241 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:12:41:1241 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:13:40:1340 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:13:40:1340 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:13:40:1340 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:13:40:1340 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:14:40:1440 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:14:40:1440 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:14:40:1440 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:14:40:1440 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:15:41:1541 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:15:41:1541 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:15:41:1541 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:15:41:1541 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:16:40:1640 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:16:40:1640 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:16:40:1640 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:16:40:1640 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:17:40:1740 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:17:40:1740 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:17:40:1740 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:17:40:1740 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:18:41:1841 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:18:41:1841 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:18:41:1841 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:18:41:1841 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:19:41:1941 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:19:41:1941 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:19:41:1941 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:19:41:1941 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:20:40:2040 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:20:40:2040 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:20:40:2040 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:20:40:2040 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:21:41:2141 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:21:41:2141 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:21:41:2141 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:21:41:2141 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:22:41:2241 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:22:41:2241 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:22:41:2241 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:22:41:2241 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:23:41:2341 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:23:41:2341 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:23:41:2341 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:23:41:2341 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:24:41:2441 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:24:41:2441 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:24:41:2441 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:24:41:2441 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:25:41:2541 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:25:41:2541 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:25:41:2541 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:25:41:2541 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:26:41:2641 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:26:41:2641 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:26:41:2641 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:26:41:2641 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:27:41:2741 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:27:41:2741 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:27:41:2741 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:27:41:2741 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:28:41:2841 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:28:41:2841 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:28:41:2841 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:28:41:2841 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:29:41:2941 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:29:41:2941 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:29:41:2941 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:29:41:2941 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:30:41:3041 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:30:41:3041 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:30:41:3041 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:30:41:3041 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:31:41:3141 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:31:41:3141 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:31:41:3141 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:31:41:3141 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:32:41:3241 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:32:41:3241 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:32:41:3241 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:32:41:3241 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:33:41:3341 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:33:41:3341 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:33:41:3341 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:33:41:3341 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:34:41:3441 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:34:41:3441 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:34:41:3441 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:34:41:3441 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:35:41:3541 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:35:41:3541 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:35:41:3541 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:35:41:3541 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:36:41:3641 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:36:41:3641 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:36:41:3641 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:36:41:3641 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:37:41:3741 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:37:41:3741 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:37:41:3741 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:37:41:3741 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:38:41:3841 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:38:41:3841 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:38:41:3841 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:38:41:3841 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:39:41:3941 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:39:41:3941 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:39:41:3941 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:39:41:3941 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:40:41:4041 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:40:41:4041 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:40:41:4041 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:40:41:4041 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:41:41:4141 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:41:41:4141 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:41:41:4141 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:41:41:4141 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:42:41:4241 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:42:41:4241 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:42:41:4241 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:42:41:4241 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:43:41:4341 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:43:41:4341 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:43:41:4341 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:43:41:4341 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:44:41:4441 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:44:41:4441 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:44:41:4441 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:44:41:4441 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:45:41:4541 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:45:41:4541 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:45:41:4541 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:45:41:4541 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:46:40:4640 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:46:40:4640 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:46:40:4640 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:46:40:4640 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:47:41:4741 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:47:41:4741 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:47:41:4741 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:47:41:4741 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:48:41:4841 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:48:41:4841 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:48:41:4841 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:48:41:4841 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:49:41:4941 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:49:41:4941 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:49:41:4941 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:49:41:4941 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:50:41:5041 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:50:41:5041 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:50:41:5041 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:50:41:5041 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:51:41:5141 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:51:41:5141 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:51:41:5141 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:51:41:5141 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:52:41:5241 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:52:41:5241 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:52:41:5241 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:52:41:5241 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:53:41:5341 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:53:41:5341 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:53:41:5341 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:53:41:5341 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:54:41:5441 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:54:41:5441 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:54:41:5441 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:54:41:5441 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:55:41:5541 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:55:41:5541 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:55:41:5541 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:55:41:5541 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:56:41:5641 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:56:41:5641 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:56:41:5641 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:56:41:5641 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:57:43:5743 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:57:43:5743 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:57:43:5743 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:57:43:5743 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:58:41:5841 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:58:41:5841 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:58:41:5841 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:58:41:5841 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 18:59:41:5941 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 18:59:41:5941 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 18:59:41:5941 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 18:59:41:5941 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:00:41:041 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:00:41:041 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:00:41:041 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:00:41:041 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:01:40:140 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:01:40:140 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:01:40:140 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:01:40:140 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:02:41:241 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:02:41:241 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:02:41:241 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:02:41:241 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:03:41:341 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:03:41:341 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:03:41:341 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:03:41:341 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:04:41:441 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:04:41:441 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:04:41:441 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:04:41:441 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:05:41:541 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:05:41:541 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:05:41:541 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:05:41:541 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:06:41:641 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:06:41:641 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:06:41:641 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:06:41:641 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:07:41:741 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:07:41:741 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:07:41:741 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:07:41:741 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:08:41:841 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:08:41:841 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:08:41:841 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:08:41:841 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:09:41:941 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:09:41:941 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:09:41:941 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:09:41:941 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:10:41:1041 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:10:41:1041 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:10:41:1041 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:10:41:1041 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:11:41:1141 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:11:41:1141 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:11:41:1141 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:11:41:1141 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:12:41:1241 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:12:41:1241 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:12:41:1241 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:12:41:1241 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:13:41:1341 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:13:41:1341 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:13:41:1341 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:13:41:1341 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:14:41:1441 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:14:41:1441 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:14:41:1441 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:14:41:1441 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:15:41:1541 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:15:41:1541 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:15:41:1541 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:15:41:1541 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:16:41:1641 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:16:41:1641 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:16:41:1641 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:16:41:1641 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:17:41:1741 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:17:41:1741 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:17:41:1741 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:17:41:1741 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:18:41:1841 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:18:41:1841 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:18:41:1841 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:18:41:1841 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:19:41:1941 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:19:41:1941 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:19:41:1941 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:19:41:1941 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:20:41:2041 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:20:41:2041 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:20:41:2041 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:20:41:2041 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:21:41:2141 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:21:41:2141 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:21:41:2141 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:21:41:2141 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:22:41:2241 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:22:41:2241 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:22:41:2241 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:22:41:2241 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:23:41:2341 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:23:41:2341 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:23:41:2341 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:23:41:2341 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:24:41:2441 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:24:41:2441 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:24:41:2441 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:24:41:2441 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:25:41:2541 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:25:41:2541 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:25:41:2541 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:25:41:2541 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:26:41:2641 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:26:41:2641 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:26:41:2641 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:26:41:2641 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:27:41:2741 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:27:41:2741 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:27:41:2741 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:27:41:2741 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:28:41:2841 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:28:41:2841 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:28:41:2841 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:28:41:2841 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:29:41:2941 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:29:41:2941 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:29:41:2941 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:29:41:2941 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:30:41:3041 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:30:41:3041 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:30:41:3041 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:30:41:3041 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:31:41:3141 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:31:41:3141 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:31:41:3141 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:31:41:3141 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:32:41:3241 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:32:41:3241 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:32:41:3241 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:32:41:3241 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:33:41:3341 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:33:41:3341 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:33:41:3341 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:33:41:3341 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:34:41:3441 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:34:41:3441 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:34:41:3441 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:34:41:3441 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:35:41:3541 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:35:41:3541 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:35:41:3541 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:35:41:3541 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:36:41:3641 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:36:41:3641 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:36:41:3641 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:36:41:3641 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:37:41:3741 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:37:41:3741 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:37:41:3741 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:37:41:3741 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:38:41:3841 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:38:41:3841 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:38:41:3841 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:38:41:3841 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:39:41:3941 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:39:41:3941 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:39:41:3941 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:39:41:3941 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:40:41:4041 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:40:41:4041 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:40:41:4041 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:40:41:4041 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:41:41:4141 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:41:41:4141 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:41:41:4141 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:41:41:4141 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:42:41:4241 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:42:41:4241 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:42:41:4241 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:42:41:4241 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:43:41:4341 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-03 19:43:41:4341 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-03 19:43:41:4341 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-03 19:43:41:4341 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-03 19:43:50:4350 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-03 19:43:50:4350 info: Остановка прослушивания событий блокчейна...
+2026-05-03 19:43:50:4350 info: [Listener] Остановка сервиса...
+2026-05-03 19:43:50:4350 info: Закрытие соединения с Redis...
+2026-05-03 19:43:50:4350 info: Закрытие соединения с dbserver...
+2026-05-03 19:43:50:4350 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-03 19:43:50:4350 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-03 19:43:50:4350 warn: Web3Server: WebSocket connection closed with code 1006, reason: 

@@ -1,0 +1,25 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 7
+  },
+  "auditLog": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\gameserver\\logs\\combined\\.c6efca6f4a4abe24ce734e77b3f67351b9beb21e-audit.json",
+  "files": [
+    {
+      "date": 1778431607049,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\gameserver\\logs\\combined\\combined-2026-05-10.log",
+      "hash": "5e201c4d078c04a45a02e163751f17ca14351a5e294661abd0f387085f1eb352"
+    },
+    {
+      "date": 1778488325758,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\gameserver\\logs\\combined\\combined-2026-05-11.log",
+      "hash": "94a4af7ebd256c3274f4d7f449e565f04b1865fb6af2bb9a8a6b4cc73816dc6a"
+    },
+    {
+      "date": 1778580823722,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\gameserver\\logs\\combined\\combined-2026-05-12.log",
+      "hash": "00b019c338a198740f144c62782798a668f5d85e684faa13818641b99953ea0d"
+    }
+  ],
+  "hashType": "sha256"
+}
