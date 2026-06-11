@@ -1,4 +1,4 @@
-
+// SPDX-License-Identifier: MIT
 pragma solidity ^0.8.30;
 
 import "@openzeppelin/contracts/token/ERC1155/extensions/ERC1155Pausable.sol";
@@ -92,7 +92,7 @@ contract OSMSEchoNFT is ERC1155Pausable, ERC2981, Ownable, ReentrancyGuard {
         whitelistOnlyById[id] = _isWhitelistOnly;
     }
 
-    function setServerURI(string memory newServerURI) external onlyOwner {
+    function setServerURI(string calldata newServerURI) external onlyOwner {
         serverURI = newServerURI;
         emit ServerURIUpdated(newServerURI);
     }
@@ -113,7 +113,7 @@ contract OSMSEchoNFT is ERC1155Pausable, ERC2981, Ownable, ReentrancyGuard {
         emit TreasuryUpdated(newTreasury);
     }
 
-    function mintEcho(uint256 id) public payable nonReentrant {
+    function mintEcho(uint256 id) external payable nonReentrant {
         if (id >= echoCount) revert InvalidEchoId(id);
         if (mintedSupply[id] + 1 > maxMints[id]) revert MintLimitExceeded(id);
         bool isWhitelisted = false;
