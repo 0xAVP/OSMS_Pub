@@ -1,0 +1,2 @@
+2026-05-12 12:33:18:3318 [Worker 20440] error: [DBMANAGER] FATAL: Identified successfully, but NO weapon mechanics received. Worker 20440 cannot function properly.
+2026-05-12 12:33:18:3318 [Worker 6004] error: Worker 20440 died. Code: 1, Signal: null

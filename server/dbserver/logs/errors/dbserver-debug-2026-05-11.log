@@ -1,0 +1,484 @@
+2026-05-11 10:32:25:3225 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-11 10:32:26:3226 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-11 10:32:29:3229 info: [API Server] Запуск процесса...
+2026-05-11 10:32:33:3233 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 10:32:33:3233 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-11 10:32:33:3233 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-11 10:32:33:3233 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-11 10:32:34:3234 info: New client connected from IP: ::1
+2026-05-11 10:32:34:3234 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-11 10:32:34:3234 debug: Unidentified client disconnected
+2026-05-11 10:32:35:3235 info: [API Server] Успешное подключение к MongoDB.
+2026-05-11 10:32:35:3235 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 10:32:35:3235 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-11 10:32:42:3242 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-11 10:32:42:3242 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-11 10:32:43:3243 info: [API Server] Запуск процесса...
+2026-05-11 10:32:44:3244 info: New client connected from IP: ::1
+2026-05-11 10:32:44:3244 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-11 10:32:44:3244 debug: Unidentified client disconnected
+2026-05-11 10:32:45:3245 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 10:32:45:3245 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-11 10:32:45:3245 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-11 10:32:45:3245 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 10:32:45:3245 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-11 10:32:45:3245 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-11 10:32:45:3245 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 10:32:45:3245 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-11 10:32:45:3245 info: [API Server] Успешное подключение к MongoDB.
+2026-05-11 10:32:45:3245 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 10:32:45:3245 info: New client connected from IP: ::1
+2026-05-11 10:32:45:3245 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-11 10:32:45:3245 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 10:32:45:3245 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-11 10:32:46:3246 info: [HealthMonitor] Monitoring started for api:main
+2026-05-11 10:32:46:3246 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-11 10:32:46:3246 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 19868.
+2026-05-11 10:32:46:3246 info: Обработчики грациозного завершения инициализированы.
+2026-05-11 10:32:46:3246 info: New client connected from IP: ::1
+2026-05-11 10:32:46:3246 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_2724
+2026-05-11 10:32:49:3249 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 10:32:49:3249 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-11 10:33:00:330 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 10:33:00:330 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 10:33:00:330 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 10:33:00:330 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 10:33:00:330 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 10:33:13:3313 debug: Creating session for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b from web3server (web3server_kkwvq34lvcw2cf) [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-11 10:33:13:3313 debug: Session created in Redis for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-11 10:33:17:3317 info: New client connected from IP: 26.248.184.178
+2026-05-11 10:33:17:3317 info: Client identified and connection stored: client, ID: cl-fbdf5f35-7c8c-460a-b0d5-27558cbcc694
+2026-05-11 10:33:18:3318 debug: dbServer: Fetched 6 ships for tokens: 2, 3, 4, 5, 6, 7
+2026-05-11 10:33:18:3318 debug: Sent get-ships-response to client for walletAddress: 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b, tokens: 2,3,4,5,6,7
+2026-05-11 10:33:30:3330 debug: ExpNotifier: Sent actual-exp to 1 client(s) using a single DB query.
+2026-05-11 10:33:32:3332 info: Client disconnected: client, ID: cl-fbdf5f35-7c8c-460a-b0d5-27558cbcc694
+2026-05-11 13:53:56:5356 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-11 13:53:57:5357 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-11 13:53:59:5359 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 13:53:59:5359 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-11 13:53:59:5359 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-11 13:53:59:5359 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 13:53:59:5359 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 13:53:59:5359 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 13:53:59:5359 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-11 13:53:59:5359 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-11 13:53:59:5359 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-11 13:54:00:540 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 13:54:00:540 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 13:54:00:540 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 13:54:00:540 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 13:54:00:540 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 13:54:00:540 info: [API Server] Запуск процесса...
+2026-05-11 13:54:01:541 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 13:54:01:541 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-11 13:54:02:542 info: New client connected from IP: ::1
+2026-05-11 13:54:02:542 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-11 13:54:02:542 debug: Unidentified client disconnected
+2026-05-11 13:54:04:544 info: New client connected from IP: ::1
+2026-05-11 13:54:04:544 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-11 13:54:04:544 debug: Unidentified client disconnected
+2026-05-11 13:54:05:545 info: [API Server] Успешное подключение к MongoDB.
+2026-05-11 13:54:05:545 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 13:54:05:545 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-11 13:54:07:547 info: [HealthMonitor] Monitoring started for api:main
+2026-05-11 13:54:07:547 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-11 13:54:07:547 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 488.
+2026-05-11 13:54:07:547 info: Обработчики грациозного завершения инициализированы.
+2026-05-11 13:54:07:547 info: New client connected from IP: ::1
+2026-05-11 13:54:07:547 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_16512
+2026-05-11 13:54:30:5430 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 13:54:56:5456 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-11 13:54:56:5456 info: Закрытие серверов (WebSocket и HTTP)...
+2026-05-11 13:55:42:5542 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-11 13:55:42:5542 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-11 13:55:42:5542 info: [API Server] Запуск процесса...
+2026-05-11 13:55:42:5542 info: New client connected from IP: ::1
+2026-05-11 13:55:42:5542 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-11 13:55:42:5542 debug: Unidentified client disconnected
+2026-05-11 13:55:43:5543 info: New client connected from IP: ::1
+2026-05-11 13:55:43:5543 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-11 13:55:44:5544 debug: Unidentified client disconnected
+2026-05-11 13:55:44:5544 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 13:55:44:5544 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-11 13:55:44:5544 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-11 13:55:44:5544 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 13:55:44:5544 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 13:55:44:5544 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 13:55:44:5544 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-11 13:55:44:5544 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-11 13:55:44:5544 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-11 13:55:45:5545 info: New client connected from IP: ::1
+2026-05-11 13:55:45:5545 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-11 13:55:45:5545 debug: Unidentified client disconnected
+2026-05-11 13:55:45:5545 info: [API Server] Успешное подключение к MongoDB.
+2026-05-11 13:55:45:5545 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 13:55:45:5545 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-11 13:55:45:5545 info: [HealthMonitor] Monitoring started for api:main
+2026-05-11 13:55:45:5545 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-11 13:55:45:5545 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 10484.
+2026-05-11 13:55:45:5545 info: Обработчики грациозного завершения инициализированы.
+2026-05-11 13:55:46:5546 info: New client connected from IP: ::1
+2026-05-11 13:55:46:5546 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-11 13:55:46:5546 info: New client connected from IP: ::1
+2026-05-11 13:55:46:5546 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_22452
+2026-05-11 13:55:47:5547 info: dbServer: Successfully connected to Redis (main client).
+2026-05-11 13:55:47:5547 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-11 13:56:00:560 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 13:56:00:560 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 13:56:00:560 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 13:56:00:560 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 13:56:00:560 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 13:56:30:5630 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 13:56:44:5644 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 13:56:44:5644 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 13:57:00:570 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 13:57:00:570 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 13:57:00:570 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 13:57:00:570 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 13:57:00:570 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 13:57:30:5730 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 13:57:44:5744 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 13:57:44:5744 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 13:58:00:580 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 13:58:00:580 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 13:58:00:580 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 13:58:00:580 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 13:58:00:580 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 13:58:30:5830 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 13:58:44:5844 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 13:58:44:5844 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 13:59:00:590 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 13:59:00:590 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 13:59:00:590 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 13:59:00:590 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 13:59:00:590 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 13:59:30:5930 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 13:59:44:5944 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 13:59:44:5944 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:00:00:00 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:00:00:00 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:00:00:00 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:00:00:00 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:00:00:00 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:00:30:030 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:00:44:044 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:00:44:044 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:01:00:10 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:01:00:10 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:01:00:10 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:01:00:10 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:01:00:10 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:01:30:130 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:01:44:144 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:01:44:144 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:02:00:20 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:02:00:20 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:02:00:20 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:02:00:20 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:02:00:20 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:02:30:230 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:02:44:244 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:02:44:244 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:03:00:30 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:03:00:30 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:03:00:30 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:03:00:30 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:03:00:30 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:03:30:330 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:03:44:344 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:03:44:344 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:04:00:40 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:04:00:40 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:04:00:40 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:04:00:40 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:04:00:40 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:04:30:430 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:04:44:444 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:04:44:444 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:05:00:50 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:05:00:50 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:05:00:50 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:05:00:50 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:05:00:50 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:05:30:530 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:05:44:544 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:05:44:544 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:06:00:60 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:06:00:60 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:06:00:60 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:06:00:60 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:06:00:60 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:06:30:630 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:06:44:644 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:06:44:644 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:07:00:70 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:07:00:70 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:07:00:70 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:07:00:70 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:07:00:70 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:07:30:730 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:07:44:744 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:07:44:744 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:08:00:80 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:08:00:80 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:08:00:80 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:08:00:80 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:08:00:80 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:08:30:830 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:08:44:844 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:08:44:844 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:09:00:90 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:09:00:90 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:09:00:90 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:09:00:90 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:09:00:90 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:09:30:930 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:09:44:944 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:09:44:944 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:10:00:100 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:10:00:100 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:10:00:100 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:10:00:100 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:10:00:100 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:10:30:1030 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:10:44:1044 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:10:44:1044 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:11:00:110 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:11:00:110 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:11:00:110 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:11:00:110 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:11:00:110 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:11:30:1130 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:11:44:1144 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:11:44:1144 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:12:00:120 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:12:00:120 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:12:00:120 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:12:00:120 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:12:00:120 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:12:30:1230 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:12:44:1244 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:12:44:1244 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:13:00:130 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:13:00:130 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:13:00:130 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:13:00:130 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:13:00:130 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:13:30:1330 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:13:44:1344 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:13:44:1344 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:14:00:140 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:14:00:140 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:14:00:140 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:14:00:140 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:14:00:140 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:14:30:1430 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:14:44:1444 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:14:44:1444 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:15:00:150 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:15:00:150 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:15:00:150 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:15:00:150 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:15:00:150 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:15:30:1530 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:15:44:1544 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:15:44:1544 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:16:00:160 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:16:00:160 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:16:00:160 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:16:00:160 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:16:00:160 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:16:30:1630 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:16:44:1644 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:16:44:1644 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:17:00:170 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:17:00:170 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:17:00:170 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:17:00:170 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:17:00:170 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:17:30:1730 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:17:44:1744 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:17:44:1744 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:18:00:180 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:18:00:180 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:18:00:180 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:18:00:180 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:18:00:180 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:18:30:1830 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:18:44:1844 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:18:44:1844 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:19:00:190 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:19:00:190 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:19:00:190 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:19:00:190 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:19:00:190 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:19:30:1930 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:19:44:1944 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:19:44:1944 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:20:00:200 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:20:00:200 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:20:00:200 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:20:00:200 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:20:00:200 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:20:30:2030 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:20:44:2044 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:20:44:2044 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:21:00:210 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:21:00:210 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:21:00:210 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:21:00:210 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:21:00:210 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:21:30:2130 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:21:44:2144 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:21:44:2144 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:22:00:220 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:22:00:220 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:22:00:220 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:22:00:220 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:22:00:220 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:22:30:2230 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:22:44:2244 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:22:44:2244 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:23:00:230 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:23:00:230 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:23:00:230 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:23:00:230 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:23:00:230 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:23:30:2330 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:23:44:2344 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:23:44:2344 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:24:00:240 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:24:00:240 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:24:00:240 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:24:00:240 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:24:00:240 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:24:30:2430 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:24:44:2444 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:24:44:2444 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:25:00:250 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:25:00:250 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:25:00:250 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:25:00:250 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:25:00:250 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:25:30:2530 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:25:44:2544 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:25:44:2544 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:26:00:260 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:26:00:260 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:26:00:260 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:26:00:260 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:26:00:260 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:26:30:2630 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:26:44:2644 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:26:44:2644 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:27:00:270 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:27:00:270 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:27:00:270 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:27:00:270 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:27:00:270 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:27:30:2730 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:27:44:2744 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:27:44:2744 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:28:00:280 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:28:00:280 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:28:00:280 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:28:00:280 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:28:00:280 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:28:30:2830 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:28:44:2844 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:28:44:2844 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:29:00:290 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:29:00:290 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:29:00:290 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:29:00:290 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:29:00:290 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:29:30:2930 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:29:44:2944 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:29:44:2944 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:30:00:300 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:30:00:300 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:30:00:300 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:30:00:300 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:30:00:300 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:30:30:3030 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:30:44:3044 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:30:44:3044 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:31:00:310 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:31:00:310 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:31:00:310 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:31:00:310 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:31:00:310 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:31:30:3130 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:31:44:3144 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:31:44:3144 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:32:00:320 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:32:00:320 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:32:00:320 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:32:00:320 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:32:00:320 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:32:30:3230 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:32:44:3244 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:32:44:3244 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:33:00:330 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:33:00:330 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:33:00:330 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:33:00:330 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:33:00:330 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:33:30:3330 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:33:44:3344 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:33:44:3344 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:34:00:340 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:34:00:340 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:34:00:340 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:34:00:340 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:34:00:340 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:34:30:3430 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:34:44:3444 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:34:44:3444 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:35:00:350 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:35:00:350 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:35:00:350 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:35:00:350 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:35:00:350 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:35:30:3530 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:35:44:3544 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:35:44:3544 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:36:00:360 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:36:00:360 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:36:00:360 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:36:00:360 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:36:00:360 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:36:30:3630 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:36:44:3644 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:36:44:3644 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:37:00:370 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:37:00:370 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:37:00:370 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:37:00:370 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:37:00:370 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:37:30:3730 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:37:44:3744 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:37:44:3744 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:38:00:380 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:38:00:380 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:38:00:380 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:38:00:380 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:38:00:380 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:38:30:3830 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:38:44:3844 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:38:44:3844 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:39:00:390 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:39:00:390 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:39:00:390 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:39:00:390 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:39:00:390 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:39:30:3930 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-11 14:39:44:3944 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-11 14:39:44:3944 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-11 14:40:00:400 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-11 14:40:00:400 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-11 14:40:00:400 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-11 14:40:00:400 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-11 14:40:00:400 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-11 14:40:28:4028 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-11 14:40:28:4028 info: Закрытие серверов (WebSocket и HTTP)...

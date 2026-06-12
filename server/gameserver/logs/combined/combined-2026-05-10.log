@@ -1,0 +1,602 @@
+2026-05-10 18:47:04:474 [Worker 18680] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:47:04:474 [Worker 18680] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:47:04:474 [Worker 18680] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:47:04:474 [Worker 18680] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:47:04:474 [Worker 18680] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:47:04:474 [Worker 18680] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:47:05:475 [Worker 18680] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:47:06:476 [Worker 18680] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:47:06:476 [Worker 18680] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:47:06:476 [Worker 18680] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:47:06:476 [Worker 18680] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:47:06:476 [Worker 18680] info: Master process 18680 is running
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:47:08:478 [Worker 19728] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:47:12:4712 [Worker 19728] info: [DBMANAGER] Worker 19728: Connected to dbServer
+2026-05-10 18:47:12:4712 [Worker 19728] info: [DBMANAGER] Worker 19728: Identifying with unique ID: gameserver-Hddkwe35fsvk_worker_19728
+2026-05-10 18:47:12:4712 [Worker 19728] info: [REDISCLIENT] Worker 19728: Successfully connected to Redis.
+2026-05-10 18:47:12:4712 [Worker 19728] info: [GracefulShutdown] Обработчики для воркера 19728 инициализированы и ожидают команды от мастера.
+2026-05-10 18:47:12:4712 [Worker 19728] info: Worker 19728 started. WebSocket server running on port 3002
+2026-05-10 18:47:12:4712 [Worker 19728] info: [REDISSUBSCRIBER] Worker 19728: Subscribed to 'session-events' and 'session_control_events' channels.
+2026-05-10 18:47:12:4712 [Worker 19728] warn: [DBMANAGER] Worker 19728: Disconnected from dbServer
+2026-05-10 18:47:15:4715 [Worker 18680] warn: Master process received SIGINT. Instructing all workers to shut down gracefully.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:47:19:4719 [Worker 14072] info: Master process 14072 is running
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:47:21:4721 [Worker 17740] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:47:31:4731 [Worker 17740] info: [DBMANAGER] Worker 17740: Connected to dbServer
+2026-05-10 18:47:31:4731 [Worker 17740] info: [DBMANAGER] Worker 17740: Identifying with unique ID: gameserver-Hddkwe35fsvk_worker_17740
+2026-05-10 18:47:31:4731 [Worker 17740] info: [REDISCLIENT] Worker 17740: Successfully connected to Redis.
+2026-05-10 18:47:31:4731 [Worker 17740] info: [GracefulShutdown] Обработчики для воркера 17740 инициализированы и ожидают команды от мастера.
+2026-05-10 18:47:31:4731 [Worker 17740] info: Worker 17740 started. WebSocket server running on port 3002
+2026-05-10 18:47:31:4731 [Worker 17740] info: [DBMANAGER] Worker 17740: Successfully identified with dbServer as gameserver-Hddkwe35fsvk_worker_17740
+2026-05-10 18:47:31:4731 [Worker 17740] info: [WeaponMechanicsStore] Weapon mechanics catalog received and cache has been built.
+2026-05-10 18:47:31:4731 [Worker 17740] info: [REDISSUBSCRIBER] Worker 17740: Subscribed to 'session-events' and 'session_control_events' channels.
+2026-05-10 18:49:43:4943 [Worker 14072] warn: Master process received SIGINT. Instructing all workers to shut down gracefully.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:49:49:4949 [Worker 19336] info: Master process 19336 is running
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:49:51:4951 [Worker 19992] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:49:55:4955 [Worker 19992] info: [DBMANAGER] Worker 19992: Connected to dbServer
+2026-05-10 18:49:55:4955 [Worker 19992] info: [DBMANAGER] Worker 19992: Identifying with unique ID: gameserver-Hddkwe35fsvk_worker_19992
+2026-05-10 18:49:55:4955 [Worker 19992] info: [REDISCLIENT] Worker 19992: Successfully connected to Redis.
+2026-05-10 18:49:55:4955 [Worker 19992] info: [GracefulShutdown] Обработчики для воркера 19992 инициализированы и ожидают команды от мастера.
+2026-05-10 18:49:55:4955 [Worker 19992] info: Worker 19992 started. WebSocket server running on port 3002
+2026-05-10 18:49:55:4955 [Worker 19992] warn: [DBMANAGER] Worker 19992: Disconnected from dbServer
+2026-05-10 18:49:55:4955 [Worker 19992] info: [REDISSUBSCRIBER] Worker 19992: Subscribed to 'session-events' and 'session_control_events' channels.
+2026-05-10 18:49:57:4957 [Worker 19992] info: [DBMANAGER] Worker 19992: Connected to dbServer
+2026-05-10 18:49:57:4957 [Worker 19992] info: [DBMANAGER] Worker 19992: Identifying with unique ID: gameserver-Hddkwe35fsvk_worker_19992
+2026-05-10 18:49:57:4957 [Worker 19992] info: [DBMANAGER] Worker 19992: Successfully identified with dbServer as gameserver-Hddkwe35fsvk_worker_19992
+2026-05-10 18:49:57:4957 [Worker 19992] info: [WeaponMechanicsStore] Weapon mechanics catalog received and cache has been built.
+2026-05-10 18:53:10:5310 [Worker 19336] warn: Master process received SIGINT. Instructing all workers to shut down gracefully.
+2026-05-10 18:53:10:5310 [Worker 19336] warn: Worker 19992 exited during shutdown process.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:53:15:5315 [Worker 18820] info: Master process 18820 is running
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:53:18:5318 [Worker 9472] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:53:20:5320 [Worker 9472] info: [DBMANAGER] Worker 9472: Connected to dbServer
+2026-05-10 18:53:20:5320 [Worker 9472] info: [DBMANAGER] Worker 9472: Identifying with unique ID: gameserver-Hddkwe35fsvk_worker_9472
+2026-05-10 18:53:20:5320 [Worker 9472] info: [REDISCLIENT] Worker 9472: Successfully connected to Redis.
+2026-05-10 18:53:20:5320 [Worker 9472] info: [GracefulShutdown] Обработчики для воркера 9472 инициализированы и ожидают команды от мастера.
+2026-05-10 18:53:20:5320 [Worker 9472] info: Worker 9472 started. WebSocket server running on port 3002
+2026-05-10 18:53:20:5320 [Worker 9472] info: [REDISSUBSCRIBER] Worker 9472: Subscribed to 'session-events' and 'session_control_events' channels.
+2026-05-10 18:53:20:5320 [Worker 9472] warn: [DBMANAGER] Worker 9472: Disconnected from dbServer
+2026-05-10 18:53:22:5322 [Worker 9472] info: [DBMANAGER] Worker 9472: Connected to dbServer
+2026-05-10 18:53:22:5322 [Worker 9472] info: [DBMANAGER] Worker 9472: Identifying with unique ID: gameserver-Hddkwe35fsvk_worker_9472
+2026-05-10 18:53:22:5322 [Worker 9472] info: [DBMANAGER] Worker 9472: Successfully identified with dbServer as gameserver-Hddkwe35fsvk_worker_9472
+2026-05-10 18:53:22:5322 [Worker 9472] info: [WeaponMechanicsStore] Weapon mechanics catalog received and cache has been built.
+2026-05-10 18:54:12:5412 [Worker 18820] warn: Master process received SIGINT. Instructing all workers to shut down gracefully.
+2026-05-10 18:54:12:5412 [Worker 18820] warn: Worker 9472 exited during shutdown process.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:54:18:5418 [Worker 18416] info: Master process 18416 is running
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:54:20:5420 [Worker 6500] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:54:23:5423 [Worker 6500] info: [REDISCLIENT] Worker 6500: Successfully connected to Redis.
+2026-05-10 18:54:23:5423 [Worker 6500] info: [GracefulShutdown] Обработчики для воркера 6500 инициализированы и ожидают команды от мастера.
+2026-05-10 18:54:23:5423 [Worker 6500] info: Worker 6500 started. WebSocket server running on port 3002
+2026-05-10 18:54:23:5423 [Worker 6500] info: [REDISSUBSCRIBER] Worker 6500: Subscribed to 'session-events' and 'session_control_events' channels.
+2026-05-10 18:54:23:5423 [Worker 6500] info: [DBMANAGER] Worker 6500: Connected to dbServer
+2026-05-10 18:54:23:5423 [Worker 6500] info: [DBMANAGER] Worker 6500: Identifying with unique ID: gameserver-Hddkwe35fsvk_worker_6500
+2026-05-10 18:54:23:5423 [Worker 6500] info: [DBMANAGER] Worker 6500: Successfully identified with dbServer as gameserver-Hddkwe35fsvk_worker_6500
+2026-05-10 18:54:23:5423 [Worker 6500] info: [WeaponMechanicsStore] Weapon mechanics catalog received and cache has been built.
+2026-05-10 18:56:20:5620 [Worker 18416] warn: Master process received SIGINT. Instructing all workers to shut down gracefully.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:56:52:5652 [Worker 11684] info: Master process 11684 is running
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:56:54:5654 [Worker 18720] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:56:56:5656 [Worker 18720] info: [DBMANAGER] Worker 18720: Connected to dbServer
+2026-05-10 18:56:56:5656 [Worker 18720] info: [DBMANAGER] Worker 18720: Identifying with unique ID: gameserver-Hddkwe35fsvk_worker_18720
+2026-05-10 18:56:56:5656 [Worker 18720] info: [REDISCLIENT] Worker 18720: Successfully connected to Redis.
+2026-05-10 18:56:56:5656 [Worker 18720] info: [GracefulShutdown] Обработчики для воркера 18720 инициализированы и ожидают команды от мастера.
+2026-05-10 18:56:56:5656 [Worker 18720] info: Worker 18720 started. WebSocket server running on port 3002
+2026-05-10 18:56:56:5656 [Worker 18720] info: [DBMANAGER] Worker 18720: Successfully identified with dbServer as gameserver-Hddkwe35fsvk_worker_18720
+2026-05-10 18:56:56:5656 [Worker 18720] info: [WeaponMechanicsStore] Weapon mechanics catalog received and cache has been built.
+2026-05-10 18:56:56:5656 [Worker 18720] info: [REDISSUBSCRIBER] Worker 18720: Subscribed to 'session-events' and 'session_control_events' channels.
+2026-05-10 18:57:56:5756 [Worker 11684] warn: Master process received SIGINT. Instructing all workers to shut down gracefully.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:58:45:5845 [Worker 7604] info: Master process 7604 is running
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:MovementSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:HistorySystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 18:58:47:5847 [Worker 6440] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 18:58:49:5849 [Worker 6440] info: [DBMANAGER] Worker 6440: Connected to dbServer
+2026-05-10 18:58:49:5849 [Worker 6440] info: [DBMANAGER] Worker 6440: Identifying with unique ID: gameserver-Hddkwe35fsvk_worker_6440
+2026-05-10 18:58:49:5849 [Worker 6440] info: [DBMANAGER] Worker 6440: Successfully identified with dbServer as gameserver-Hddkwe35fsvk_worker_6440
+2026-05-10 18:58:49:5849 [Worker 6440] info: [WeaponMechanicsStore] Weapon mechanics catalog received and cache has been built.
+2026-05-10 18:58:49:5849 [Worker 6440] info: [REDISCLIENT] Worker 6440: Successfully connected to Redis.
+2026-05-10 18:58:49:5849 [Worker 6440] info: [GracefulShutdown] Обработчики для воркера 6440 инициализированы и ожидают команды от мастера.
+2026-05-10 18:58:49:5849 [Worker 6440] info: Worker 6440 started. WebSocket server running on port 3002
+2026-05-10 18:58:49:5849 [Worker 6440] info: [REDISSUBSCRIBER] Worker 6440: Subscribed to 'session-events' and 'session_control_events' channels.
+2026-05-10 19:06:31:631 [Worker 7604] warn: Master process received SIGINT. Instructing all workers to shut down gracefully.
+2026-05-10 19:06:31:631 [Worker 7604] warn: Worker 6440 exited during shutdown process.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:MovementSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:HistorySystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 19:25:30:2530 [Worker 15800] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 19:25:31:2531 [Worker 15800] info: Master process 15800 is running
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:MovementSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:HistorySystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 19:25:32:2532 [Worker 14416] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 19:25:40:2540 [Worker 14416] info: [DBMANAGER] Worker 14416: Connected to dbServer
+2026-05-10 19:25:40:2540 [Worker 14416] info: [DBMANAGER] Worker 14416: Identifying with unique ID: gameserver-Hddkwe35fsvk_worker_14416
+2026-05-10 19:25:40:2540 [Worker 14416] info: [REDISCLIENT] Worker 14416: Successfully connected to Redis.
+2026-05-10 19:25:40:2540 [Worker 14416] info: [GracefulShutdown] Обработчики для воркера 14416 инициализированы и ожидают команды от мастера.
+2026-05-10 19:25:40:2540 [Worker 14416] info: Worker 14416 started. WebSocket server running on port 3002
+2026-05-10 19:25:40:2540 [Worker 14416] info: [DBMANAGER] Worker 14416: Successfully identified with dbServer as gameserver-Hddkwe35fsvk_worker_14416
+2026-05-10 19:25:40:2540 [Worker 14416] info: [WeaponMechanicsStore] Weapon mechanics catalog received and cache has been built.
+2026-05-10 19:25:41:2541 [Worker 14416] info: [REDISSUBSCRIBER] Worker 14416: Subscribed to 'session-events' and 'session_control_events' channels.
+2026-05-10 19:26:28:2628 [Worker 15800] warn: Master process received SIGINT. Instructing all workers to shut down gracefully.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:MovementSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:HistorySystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 20:01:26:126 [Worker 16684] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 20:01:27:127 [Worker 16684] info: Master process 16684 is running
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:EnergyRegenSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:ShieldRegenSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [LootIdManager] Initialized with 40 static items and pre-built dictionary.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:GeometryUpdateSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:CleanupSystem] Initialized. (Now simplified)
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:PlayerWeaponSwitchSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:EnemySpawnRequestSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:BehaviorSystemV2] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:CombatAISystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:WeaponSwitchSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:StatusEffectSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:WeaponSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:MovementSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:EntitySimulationSystem] Initialized as the main simulation orchestrator.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:PlayerBoundarySystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:BoundarySystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:DestructionEventSystem] Initialized as the main destruction controller.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:CollisionDetectionSystem] Initialized. (Now unified)
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:CollisionResolutionSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:HitValidationSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:HistorySystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:BuffLifecycleSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:StatRecalculationSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:OnKillEffectSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:LootDropSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:SpawnSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:LifetimeSystem] Initialized.
+2026-05-10 20:01:29:129 [Worker 5912] info: [ECS:OffscreenCleanupSystem] Initialized.
+2026-05-10 20:01:33:133 [Worker 5912] info: [DBMANAGER] Worker 5912: Connected to dbServer
+2026-05-10 20:01:33:133 [Worker 5912] info: [DBMANAGER] Worker 5912: Identifying with unique ID: gameserver-Hddkwe35fsvk_worker_5912
+2026-05-10 20:01:33:133 [Worker 5912] info: [REDISCLIENT] Worker 5912: Successfully connected to Redis.
+2026-05-10 20:01:33:133 [Worker 5912] info: [GracefulShutdown] Обработчики для воркера 5912 инициализированы и ожидают команды от мастера.
+2026-05-10 20:01:33:133 [Worker 5912] info: Worker 5912 started. WebSocket server running on port 3002
+2026-05-10 20:01:33:133 [Worker 5912] info: [DBMANAGER] Worker 5912: Successfully identified with dbServer as gameserver-Hddkwe35fsvk_worker_5912
+2026-05-10 20:01:33:133 [Worker 5912] info: [WeaponMechanicsStore] Weapon mechanics catalog received and cache has been built.
+2026-05-10 20:01:33:133 [Worker 5912] info: [REDISSUBSCRIBER] Worker 5912: Subscribed to 'session-events' and 'session_control_events' channels.
+2026-05-10 20:02:18:218 [Worker 16684] warn: Master process received SIGINT. Instructing all workers to shut down gracefully.

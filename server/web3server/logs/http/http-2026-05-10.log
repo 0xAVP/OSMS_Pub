@@ -1,0 +1,438 @@
+2026-05-10 18:47:07:477 error: Web3Server: Error connecting to dbServer:
+2026-05-10 18:47:29:4729 info: Web3Server: Connected to dbServer
+2026-05-10 18:47:29:4729 info: Web3Server: Successfully identified with dbServer
+2026-05-10 18:47:29:4729 info: Web3Server: Successfully connected to Redis.
+2026-05-10 18:47:29:4729 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-10 18:47:29:4729 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-10 18:47:33:4733 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-10 18:47:33:4733 info: Web3Server: Blockchain provider connected.
+2026-05-10 18:47:33:4733 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-10 18:47:33:4733 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-10 18:47:33:4733 info: Web3Server запущен на порту 3000
+2026-05-10 18:47:36:4736 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:47:36:4736 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:47:36:4736 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:47:36:4736 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 18:47:36:4736 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-10 18:48:10:4810 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.119 ms
+2026-05-10 18:48:10:4810 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 400 36 - 180.004 ms
+2026-05-10 18:48:35:4835 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 0.281 ms
+2026-05-10 18:48:35:4835 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 400 36 - 1.189 ms
+2026-05-10 18:48:39:4839 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:48:39:4839 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:48:39:4839 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:48:39:4839 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 18:49:37:4937 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:49:37:4937 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:49:37:4937 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:49:37:4937 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 18:49:43:4943 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-10 18:49:43:4943 info: Остановка прослушивания событий блокчейна...
+2026-05-10 18:49:43:4943 info: [Listener] Остановка сервиса...
+2026-05-10 18:49:43:4943 info: Закрытие соединения с Redis...
+2026-05-10 18:49:43:4943 info: Закрытие соединения с dbserver...
+2026-05-10 18:49:43:4943 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-10 18:49:43:4943 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-10 18:49:43:4943 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-10 18:49:43:4943 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:49:53:4953 info: Web3Server: Connected to dbServer
+2026-05-10 18:49:53:4953 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:49:53:4953 info: Web3Server: Successfully connected to Redis.
+2026-05-10 18:49:54:4954 info: Web3Server: Connected to dbServer
+2026-05-10 18:49:54:4954 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:49:55:4955 info: Web3Server: Connected to dbServer
+2026-05-10 18:49:55:4955 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:49:56:4956 info: Web3Server: Connected to dbServer
+2026-05-10 18:49:56:4956 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:49:57:4957 info: Web3Server: Connected to dbServer
+2026-05-10 18:49:57:4957 info: Web3Server: Successfully identified with dbServer
+2026-05-10 18:49:58:4958 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-10 18:49:58:4958 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-10 18:50:00:500 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-10 18:50:00:500 info: Web3Server: Blockchain provider connected.
+2026-05-10 18:50:00:500 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-10 18:50:00:500 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-10 18:50:00:500 info: Web3Server запущен на порту 3000
+2026-05-10 18:50:01:501 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:50:01:501 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:50:01:501 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:50:01:501 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 18:50:01:501 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-10 18:50:10:5010 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.030 ms
+2026-05-10 18:50:10:5010 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 400 36 - 13.629 ms
+2026-05-10 18:51:04:514 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:51:04:514 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:51:04:514 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:51:04:514 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 18:52:02:522 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:52:02:522 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:52:02:522 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:52:02:522 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 18:53:04:534 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:53:04:534 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:53:04:534 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:53:04:534 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 18:53:10:5310 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-10 18:53:10:5310 info: Остановка прослушивания событий блокчейна...
+2026-05-10 18:53:10:5310 info: [Listener] Остановка сервиса...
+2026-05-10 18:53:10:5310 info: Закрытие соединения с Redis...
+2026-05-10 18:53:10:5310 info: Закрытие соединения с dbserver...
+2026-05-10 18:53:10:5310 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-10 18:53:10:5310 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-10 18:53:10:5310 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-10 18:53:10:5310 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:53:20:5320 info: Web3Server: Connected to dbServer
+2026-05-10 18:53:20:5320 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:53:20:5320 info: Web3Server: Successfully connected to Redis.
+2026-05-10 18:53:21:5321 info: Web3Server: Connected to dbServer
+2026-05-10 18:53:21:5321 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:53:22:5322 info: Web3Server: Connected to dbServer
+2026-05-10 18:53:22:5322 info: Web3Server: Successfully identified with dbServer
+2026-05-10 18:53:22:5322 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-10 18:53:22:5322 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-10 18:53:26:5326 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-10 18:53:26:5326 info: Web3Server: Blockchain provider connected.
+2026-05-10 18:53:26:5326 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-10 18:53:26:5326 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-10 18:53:26:5326 info: Web3Server запущен на порту 3000
+2026-05-10 18:53:28:5328 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:53:28:5328 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:53:28:5328 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:53:28:5328 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 18:53:28:5328 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-10 18:53:36:5336 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.275 ms
+2026-05-10 18:54:21:5421 info: Web3Server: Connected to dbServer
+2026-05-10 18:54:22:5422 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:54:22:5422 info: Web3Server: Successfully connected to Redis.
+2026-05-10 18:54:23:5423 info: Web3Server: Connected to dbServer
+2026-05-10 18:54:23:5423 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:54:24:5424 info: Web3Server: Connected to dbServer
+2026-05-10 18:54:24:5424 info: Web3Server: Successfully identified with dbServer
+2026-05-10 18:54:25:5425 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-10 18:54:25:5425 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-10 18:54:28:5428 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-10 18:54:28:5428 info: Web3Server: Blockchain provider connected.
+2026-05-10 18:54:28:5428 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-10 18:54:28:5428 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-10 18:54:28:5428 info: Web3Server запущен на порту 3000
+2026-05-10 18:54:30:5430 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:54:30:5430 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:54:30:5430 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:54:30:5430 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 18:54:30:5430 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-10 18:54:30:5430 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.112 ms
+2026-05-10 18:56:55:5655 info: Web3Server: Connected to dbServer
+2026-05-10 18:56:55:5655 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:56:55:5655 info: Web3Server: Successfully connected to Redis.
+2026-05-10 18:56:56:5656 info: Web3Server: Connected to dbServer
+2026-05-10 18:56:56:5656 info: Web3Server: Successfully identified with dbServer
+2026-05-10 18:56:56:5656 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-10 18:56:56:5656 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-10 18:56:58:5658 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-10 18:56:58:5658 info: Web3Server: Blockchain provider connected.
+2026-05-10 18:56:58:5658 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-10 18:56:58:5658 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-10 18:56:58:5658 info: Web3Server запущен на порту 3000
+2026-05-10 18:57:00:570 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:57:00:570 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:57:00:570 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:57:00:570 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 18:57:00:570 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-10 18:57:27:5727 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.321 ms
+2026-05-10 18:57:27:5727 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 86 - 16.301 ms
+2026-05-10 18:57:34:5734 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 0.226 ms
+2026-05-10 18:57:34:5734 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 121 - 169.519 ms
+2026-05-10 18:57:56:5756 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-10 18:57:56:5756 info: Остановка прослушивания событий блокчейна...
+2026-05-10 18:57:56:5756 info: [Listener] Остановка сервиса...
+2026-05-10 18:57:56:5756 info: Закрытие соединения с Redis...
+2026-05-10 18:57:56:5756 info: Закрытие соединения с dbserver...
+2026-05-10 18:57:56:5756 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-10 18:57:56:5756 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-10 18:57:56:5756 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:57:56:5756 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-10 18:58:47:5847 info: Web3Server: Connected to dbServer
+2026-05-10 18:58:47:5847 info: Web3Server: Successfully connected to Redis.
+2026-05-10 18:58:47:5847 error: Web3Server: Disconnected from dbServer
+2026-05-10 18:58:48:5848 info: Web3Server: Connected to dbServer
+2026-05-10 18:58:48:5848 info: Web3Server: Successfully identified with dbServer
+2026-05-10 18:58:49:5849 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-10 18:58:49:5849 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-10 18:58:50:5850 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-10 18:58:50:5850 info: Web3Server: Blockchain provider connected.
+2026-05-10 18:58:50:5850 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-10 18:58:50:5850 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-10 18:58:50:5850 info: Web3Server запущен на порту 3000
+2026-05-10 18:58:51:5851 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:58:51:5851 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:58:51:5851 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:58:51:5851 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 18:58:51:5851 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-10 18:59:36:5936 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.088 ms
+2026-05-10 18:59:36:5936 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 86 - 14.919 ms
+2026-05-10 18:59:38:5938 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 121 - 172.584 ms
+2026-05-10 18:59:52:5952 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 18:59:52:5952 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 18:59:52:5952 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 18:59:52:5952 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 19:00:52:052 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 19:00:52:052 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 19:00:52:052 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 19:00:52:052 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 19:00:59:059 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 0.189 ms
+2026-05-10 19:00:59:059 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 86 - 0.912 ms
+2026-05-10 19:01:02:12 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 121 - 47.583 ms
+2026-05-10 19:01:52:152 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 19:01:52:152 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 19:01:52:152 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 19:01:52:152 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 19:02:52:252 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 19:02:52:252 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 19:02:52:252 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 19:02:52:252 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 19:03:36:336 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 0.348 ms
+2026-05-10 19:03:36:336 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 86 - 0.589 ms
+2026-05-10 19:03:39:339 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 121 - 9.820 ms
+2026-05-10 19:03:52:352 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 19:03:52:352 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 19:03:52:352 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 19:03:52:352 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 19:04:52:452 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 19:04:52:452 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 19:04:52:452 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 19:04:52:452 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 19:05:52:552 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 19:05:52:552 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 19:05:52:552 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 19:05:52:552 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 19:06:31:631 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-10 19:06:31:631 info: Остановка прослушивания событий блокчейна...
+2026-05-10 19:06:31:631 info: [Listener] Остановка сервиса...
+2026-05-10 19:06:31:631 info: Закрытие соединения с Redis...
+2026-05-10 19:06:31:631 info: Закрытие соединения с dbserver...
+2026-05-10 19:06:31:631 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-10 19:06:31:631 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-10 19:06:31:631 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-10 19:06:31:631 error: Web3Server: Disconnected from dbServer
+2026-05-10 19:25:36:2536 info: Web3Server: Connected to dbServer
+2026-05-10 19:25:36:2536 error: Web3Server: Disconnected from dbServer
+2026-05-10 19:25:36:2536 info: Web3Server: Successfully connected to Redis.
+2026-05-10 19:25:37:2537 info: Web3Server: Connected to dbServer
+2026-05-10 19:25:37:2537 error: Web3Server: Disconnected from dbServer
+2026-05-10 19:25:38:2538 info: Web3Server: Connected to dbServer
+2026-05-10 19:25:38:2538 error: Web3Server: Disconnected from dbServer
+2026-05-10 19:25:39:2539 info: Web3Server: Connected to dbServer
+2026-05-10 19:25:39:2539 error: Web3Server: Disconnected from dbServer
+2026-05-10 19:25:40:2540 info: Web3Server: Connected to dbServer
+2026-05-10 19:25:41:2541 info: Web3Server: Successfully identified with dbServer
+2026-05-10 19:25:41:2541 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-10 19:25:41:2541 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-10 19:25:46:2546 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-10 19:25:46:2546 info: Web3Server: Blockchain provider connected.
+2026-05-10 19:25:46:2546 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-10 19:25:46:2546 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-10 19:25:46:2546 info: Web3Server запущен на порту 3000
+2026-05-10 19:25:49:2549 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 19:25:49:2549 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 19:25:49:2549 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 19:25:49:2549 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 19:25:49:2549 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-10 19:26:07:267 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 2.463 ms
+2026-05-10 19:26:07:267 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 86 - 23.067 ms
+2026-05-10 19:26:09:269 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 121 - 90.001 ms
+2026-05-10 19:26:28:2628 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-10 19:26:28:2628 info: Остановка прослушивания событий блокчейна...
+2026-05-10 19:26:28:2628 info: [Listener] Остановка сервиса...
+2026-05-10 19:26:28:2628 info: Закрытие соединения с Redis...
+2026-05-10 19:26:28:2628 info: Закрытие соединения с dbserver...
+2026-05-10 19:26:28:2628 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-10 19:26:28:2628 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-10 19:26:28:2628 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-10 19:26:28:2628 error: Web3Server: Disconnected from dbServer
+2026-05-10 20:01:31:131 info: Web3Server: Connected to dbServer
+2026-05-10 20:01:31:131 info: Web3Server: Successfully identified with dbServer
+2026-05-10 20:01:31:131 info: Web3Server: Successfully connected to Redis.
+2026-05-10 20:01:32:132 info: Web3Server: Blockchain provider successfully initialized.
+2026-05-10 20:01:32:132 info: Web3Server: Read-only contracts successfully initialized.
+2026-05-10 20:01:35:135 info: Web3Server: WebSocket connection to RPC provider is open.
+2026-05-10 20:01:35:135 info: Web3Server: Blockchain provider connected.
+2026-05-10 20:01:35:135 info: [Listener] Включение Real-time (WebSocket)...
+2026-05-10 20:01:35:135 info: Обработчики грациозного завершения для web3server инициализированы.
+2026-05-10 20:01:35:135 info: Web3Server запущен на порту 3000
+2026-05-10 20:01:38:138 info: [PILOTS-OWNERS-TRACKER] 🔍 STRUCTURE DEBUG (First Item):
+2026-05-10 20:01:38:138 info: {
+  "ownerAddress": "0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43",
+  "tokenBalances": [
+    {
+      "tokenId": "1",
+      "balance": "1"
+    }
+  ]
+}
+2026-05-10 20:01:38:138 info: [PILOTS-OWNERS-TRACKER]: Успешно получено 2 владельцев PilotNFT.
+2026-05-10 20:01:38:138 info: [PILOTS-OWNERS-TRACKER]: Список владельцев в Redis обновлен. Владельцев: 2.
+2026-05-10 20:01:38:138 info: [PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT (интервал: 60 сек)
+2026-05-10 20:01:48:148 http: ::ffff:26.248.184.178 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.384 ms
+2026-05-10 20:01:48:148 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 86 - 14.458 ms
+2026-05-10 20:01:50:150 http: ::ffff:26.248.184.178 - - "POST /verify-wallet HTTP/1.1" 200 121 - 103.023 ms
+2026-05-10 20:02:18:218 warn: Получен сигнал SIGINT. Начинаю грациозное завершение web3server...
+2026-05-10 20:02:18:218 info: Остановка прослушивания событий блокчейна...
+2026-05-10 20:02:18:218 info: [Listener] Остановка сервиса...
+2026-05-10 20:02:18:218 info: Закрытие соединения с Redis...
+2026-05-10 20:02:18:218 info: Закрытие соединения с dbserver...
+2026-05-10 20:02:18:218 info: Закрытие WebSocket-соединения с блокчейн-провайдером...
+2026-05-10 20:02:18:218 info: HTTP-сервер больше не принимает новые соединения.
+2026-05-10 20:02:18:218 warn: Web3Server: WebSocket connection closed with code 1006, reason: 
+2026-05-10 20:02:18:218 error: Web3Server: Disconnected from dbServer

@@ -1,0 +1,722 @@
+2025-11-27 07:10:18:1018 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 07:10:18:1018 info: EXP Worker: Connected to Redis.
+2025-11-27 07:10:18:1018 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 07:11:00:110 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 26
+}
+2025-11-27 07:12:00:120 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 07:13:00:130 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 07:14:00:140 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 8
+}
+2025-11-27 07:15:00:150 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 9
+}
+2025-11-27 07:16:00:160 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 07:17:00:170 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 07:17:30:1730 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 07:17:30:1730 info: Отмена всех запланированных задач...
+2025-11-27 07:17:30:1730 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 07:17:30:1730 info: Планировщик успешно остановлен.
+2025-11-27 07:17:30:1730 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 07:17:30:1730 info: Закрытие соединения с Redis...
+2025-11-27 07:17:30:1730 info: Соединение с Redis успешно закрыто.
+2025-11-27 07:17:38:1738 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 07:17:38:1738 info: EXP Worker: Connected to Redis.
+2025-11-27 07:17:38:1738 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 07:18:00:180 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 19
+}
+2025-11-27 07:19:00:190 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 07:20:00:200 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 07:21:00:210 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 07:22:00:220 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 10
+}
+2025-11-27 07:23:00:230 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 07:23:37:2337 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 07:23:37:2337 info: Отмена всех запланированных задач...
+2025-11-27 07:23:37:2337 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 07:23:37:2337 info: Планировщик успешно остановлен.
+2025-11-27 07:23:37:2337 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 07:23:37:2337 info: Закрытие соединения с Redis...
+2025-11-27 07:23:37:2337 info: Соединение с Redis успешно закрыто.
+2025-11-27 07:23:43:2343 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 07:23:43:2343 info: EXP Worker: Connected to Redis.
+2025-11-27 07:23:43:2343 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 07:24:00:240 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 14
+}
+2025-11-27 07:25:00:250 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 07:26:00:260 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 5
+}
+2025-11-27 07:27:00:270 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 07:27:02:272 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 07:27:02:272 info: Отмена всех запланированных задач...
+2025-11-27 07:27:02:272 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 07:27:02:272 info: Планировщик успешно остановлен.
+2025-11-27 07:27:02:272 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 07:27:02:272 info: Закрытие соединения с Redis...
+2025-11-27 07:27:02:272 info: Соединение с Redis успешно закрыто.
+2025-11-27 07:27:02:272 info: Закрытие соединения с MongoDB...
+2025-11-27 08:02:08:28 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 08:02:08:28 info: EXP Worker: Connected to Redis.
+2025-11-27 08:02:08:28 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 08:03:00:30 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 08:04:00:40 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 6
+}
+2025-11-27 08:05:00:50 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 9
+}
+2025-11-27 08:06:00:60 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 6
+}
+2025-11-27 08:07:00:70 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 7
+}
+2025-11-27 08:08:00:80 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 08:09:00:90 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 08:10:00:100 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 08:11:00:110 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 13
+}
+2025-11-27 08:12:00:120 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 08:12:03:123 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 08:12:03:123 info: Отмена всех запланированных задач...
+2025-11-27 08:12:03:123 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 08:12:03:123 info: Планировщик успешно остановлен.
+2025-11-27 08:12:03:123 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 08:12:03:123 info: Закрытие соединения с Redis...
+2025-11-27 08:12:03:123 info: Соединение с Redis успешно закрыто.
+2025-11-27 08:12:46:1246 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 08:12:46:1246 info: EXP Worker: Connected to Redis.
+2025-11-27 08:12:46:1246 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 08:13:00:130 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 19
+}
+2025-11-27 08:13:17:1317 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 08:13:17:1317 info: Отмена всех запланированных задач...
+2025-11-27 08:13:17:1317 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 08:13:17:1317 info: Планировщик успешно остановлен.
+2025-11-27 08:13:17:1317 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 08:13:17:1317 info: Закрытие соединения с Redis...
+2025-11-27 08:13:17:1317 info: Соединение с Redis успешно закрыто.
+2025-11-27 08:14:17:1417 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 08:14:17:1417 info: EXP Worker: Connected to Redis.
+2025-11-27 08:14:17:1417 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 08:15:00:150 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 19
+}
+2025-11-27 08:16:00:160 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 6
+}
+2025-11-27 08:16:16:1616 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 08:16:16:1616 info: Отмена всех запланированных задач...
+2025-11-27 08:16:16:1616 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 08:16:16:1616 info: Планировщик успешно остановлен.
+2025-11-27 08:16:16:1616 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 08:16:16:1616 info: Закрытие соединения с Redis...
+2025-11-27 08:16:16:1616 info: Соединение с Redis успешно закрыто.
+2025-11-27 08:16:21:1621 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 08:16:21:1621 info: EXP Worker: Connected to Redis.
+2025-11-27 08:16:21:1621 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 08:17:00:170 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 18
+}
+2025-11-27 08:18:00:180 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 08:19:00:190 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 08:19:48:1948 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 08:19:48:1948 info: Отмена всех запланированных задач...
+2025-11-27 08:19:48:1948 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 08:19:48:1948 info: Планировщик успешно остановлен.
+2025-11-27 08:19:48:1948 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 08:19:48:1948 info: Закрытие соединения с Redis...
+2025-11-27 08:19:48:1948 info: Соединение с Redis успешно закрыто.
+2025-11-27 08:19:58:1958 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 08:19:58:1958 info: EXP Worker: Connected to Redis.
+2025-11-27 08:19:58:1958 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 08:20:00:200 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 14
+}
+2025-11-27 08:21:00:210 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 13
+}
+2025-11-27 08:21:31:2131 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 08:21:31:2131 info: Отмена всех запланированных задач...
+2025-11-27 08:21:31:2131 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 08:21:31:2131 info: Планировщик успешно остановлен.
+2025-11-27 08:21:31:2131 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 08:21:31:2131 info: Закрытие соединения с Redis...
+2025-11-27 08:21:31:2131 info: Соединение с Redis успешно закрыто.
+2025-11-27 08:49:22:4922 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 08:49:22:4922 info: EXP Worker: Connected to Redis.
+2025-11-27 08:49:22:4922 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 08:49:59:4959 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 08:49:59:4959 info: Отмена всех запланированных задач...
+2025-11-27 08:49:59:4959 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 08:49:59:4959 info: Планировщик успешно остановлен.
+2025-11-27 08:49:59:4959 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 08:49:59:4959 info: Закрытие соединения с Redis...
+2025-11-27 08:50:03:503 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 08:50:03:503 info: EXP Worker: Connected to Redis.
+2025-11-27 08:50:03:503 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 08:51:00:510 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 18
+}
+2025-11-27 08:52:00:520 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 08:53:00:530 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 08:54:00:540 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 08:55:00:550 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 6
+}
+2025-11-27 08:56:00:560 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 14
+}
+2025-11-27 08:57:00:570 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 08:58:00:580 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 08:59:00:590 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 09:00:00:00 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 17
+}
+2025-11-27 09:01:00:10 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 09:02:00:20 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 5
+}
+2025-11-27 09:03:00:30 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 09:04:00:40 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 09:05:00:50 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 5
+}
+2025-11-27 09:06:00:60 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 6
+}
+2025-11-27 09:07:00:70 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 09:08:00:80 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 10
+}
+2025-11-27 09:09:00:90 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 5
+}
+2025-11-27 09:10:00:100 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 6
+}
+2025-11-27 09:11:00:110 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 10
+}
+2025-11-27 09:12:00:120 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 5
+}
+2025-11-27 09:13:00:130 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 6
+}
+2025-11-27 09:14:00:140 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 09:15:00:150 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 7
+}
+2025-11-27 09:16:00:160 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 5
+}
+2025-11-27 09:17:00:170 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 6
+}
+2025-11-27 09:18:00:180 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 10
+}
+2025-11-27 09:19:00:190 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 5
+}
+2025-11-27 09:20:00:200 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 5
+}
+2025-11-27 09:21:00:210 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 09:22:00:220 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 09:23:00:230 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 09:24:00:240 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 09:25:00:250 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 10
+}
+2025-11-27 09:26:00:260 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 09:27:00:270 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 09:28:00:280 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 10
+}
+2025-11-27 09:29:00:290 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 09:30:00:300 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 13
+}
+2025-11-27 09:31:00:310 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 10
+}
+2025-11-27 09:32:00:320 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 09:33:00:330 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 5
+}
+2025-11-27 09:33:49:3349 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 09:33:49:3349 info: Отмена всех запланированных задач...
+2025-11-27 09:33:49:3349 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 09:33:49:3349 info: Планировщик успешно остановлен.
+2025-11-27 09:33:49:3349 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 09:33:49:3349 info: Закрытие соединения с Redis...
+2025-11-27 09:33:49:3349 info: Соединение с Redis успешно закрыто.
+2025-11-27 12:41:22:4122 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 12:41:22:4122 info: EXP Worker: Connected to Redis.
+2025-11-27 12:41:22:4122 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 12:41:29:4129 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 12:41:29:4129 info: Отмена всех запланированных задач...
+2025-11-27 12:41:29:4129 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 12:41:29:4129 info: Планировщик успешно остановлен.
+2025-11-27 12:41:29:4129 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 12:41:29:4129 info: Закрытие соединения с Redis...
+2025-11-27 12:41:29:4129 info: Соединение с Redis успешно закрыто.
+2025-11-27 12:41:35:4135 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 12:41:35:4135 info: EXP Worker: Connected to Redis.
+2025-11-27 12:41:35:4135 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 12:41:51:4151 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 12:41:51:4151 info: Отмена всех запланированных задач...
+2025-11-27 12:41:51:4151 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 12:41:51:4151 info: Планировщик успешно остановлен.
+2025-11-27 12:41:51:4151 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 12:41:51:4151 info: Закрытие соединения с Redis...
+2025-11-27 12:41:51:4151 info: Соединение с Redis успешно закрыто.
+2025-11-27 12:41:51:4151 info: Закрытие соединения с MongoDB...
+2025-11-27 15:05:31:531 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 15:05:31:531 info: EXP Worker: Connected to Redis.
+2025-11-27 15:05:31:531 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 15:06:00:60 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 15:07:00:70 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 6
+}
+2025-11-27 15:07:25:725 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 15:07:25:725 info: Отмена всех запланированных задач...
+2025-11-27 15:07:25:725 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 15:07:25:725 info: Планировщик успешно остановлен.
+2025-11-27 15:07:25:725 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 15:07:25:725 info: Закрытие соединения с Redis...
+2025-11-27 15:07:25:725 info: Соединение с Redis успешно закрыто.
+2025-11-27 18:20:24:2024 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 18:20:24:2024 info: EXP Worker: Connected to Redis.
+2025-11-27 18:20:24:2024 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 18:20:44:2044 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 18:20:44:2044 info: Отмена всех запланированных задач...
+2025-11-27 18:20:44:2044 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 18:20:44:2044 info: Планировщик успешно остановлен.
+2025-11-27 18:20:44:2044 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 18:20:44:2044 info: Закрытие соединения с Redis...
+2025-11-27 18:20:44:2044 info: Соединение с Redis успешно закрыто.
+2025-11-27 18:20:53:2053 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 18:20:54:2054 info: EXP Worker: Connected to Redis.
+2025-11-27 18:20:54:2054 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 18:21:00:210 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 21
+}
+2025-11-27 18:21:02:212 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 18:21:02:212 info: Отмена всех запланированных задач...
+2025-11-27 18:21:02:212 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 18:21:02:212 info: Планировщик успешно остановлен.
+2025-11-27 18:21:02:212 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 18:21:02:212 info: Закрытие соединения с Redis...
+2025-11-27 18:21:02:212 info: Соединение с Redis успешно закрыто.
+2025-11-27 18:30:45:3045 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 18:30:45:3045 info: EXP Worker: Connected to Redis.
+2025-11-27 18:30:45:3045 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 18:30:57:3057 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 18:30:57:3057 info: Отмена всех запланированных задач...
+2025-11-27 18:30:57:3057 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 18:30:57:3057 info: Планировщик успешно остановлен.
+2025-11-27 18:30:57:3057 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 18:30:57:3057 info: Закрытие соединения с Redis...
+2025-11-27 18:30:57:3057 info: Соединение с Redis успешно закрыто.
+2025-11-27 18:31:07:317 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 18:31:07:317 info: EXP Worker: Connected to Redis.
+2025-11-27 18:31:07:317 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 18:31:09:319 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 18:31:09:319 info: Отмена всех запланированных задач...
+2025-11-27 18:31:09:319 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 18:31:09:319 info: Планировщик успешно остановлен.
+2025-11-27 18:31:09:319 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 18:31:09:319 info: Закрытие соединения с Redis...
+2025-11-27 18:31:09:319 info: Соединение с Redis успешно закрыто.
+2025-11-27 18:31:22:3122 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 18:31:23:3123 info: EXP Worker: Connected to Redis.
+2025-11-27 18:31:23:3123 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 18:31:27:3127 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 18:31:27:3127 info: Отмена всех запланированных задач...
+2025-11-27 18:31:27:3127 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 18:31:27:3127 info: Планировщик успешно остановлен.
+2025-11-27 18:31:27:3127 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 18:31:27:3127 info: Закрытие соединения с Redis...
+2025-11-27 18:31:34:3134 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 18:31:34:3134 info: EXP Worker: Connected to Redis.
+2025-11-27 18:31:34:3134 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 18:32:00:320 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 19
+}
+2025-11-27 18:33:00:330 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 18:34:00:340 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 12
+}
+2025-11-27 18:35:00:350 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 11
+}
+2025-11-27 18:36:00:360 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 13
+}
+2025-11-27 18:36:55:3655 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 18:36:55:3655 info: Отмена всех запланированных задач...
+2025-11-27 18:36:55:3655 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 18:36:55:3655 info: Планировщик успешно остановлен.
+2025-11-27 18:36:55:3655 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 18:36:55:3655 info: Закрытие соединения с Redis...
+2025-11-27 18:36:55:3655 info: Соединение с Redis успешно закрыто.
+2025-11-27 18:37:02:372 info: EXP Worker: Успешное подключение к MongoDB.
+2025-11-27 18:37:02:372 info: EXP Worker: Connected to Redis.
+2025-11-27 18:37:02:372 info: Обработчики грациозного завершения для воркера инициализированы.
+2025-11-27 18:38:00:380 info: EXP Worker: Job finished. {
+  "modifiedCount": 1,
+  "matchedCount": 1,
+  "totalOwnersInList": 1,
+  "durationMs": 21
+}
+2025-11-27 18:38:05:385 warn: Получен сигнал SIGINT. Начинаю грациозное завершение воркера...
+2025-11-27 18:38:05:385 info: Отмена всех запланированных задач...
+2025-11-27 18:38:05:385 info: Ожидание завершения текущей активной задачи (если она запущена)...
+2025-11-27 18:38:05:385 info: Планировщик успешно остановлен.
+2025-11-27 18:38:05:385 info: Активных задач для ожидания не было или они успешно завершились.
+2025-11-27 18:38:05:385 info: Закрытие соединения с Redis...
+2025-11-27 18:38:05:385 info: Соединение с Redis успешно закрыто.

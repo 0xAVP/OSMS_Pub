@@ -1,0 +1,48 @@
+=================================================
+  Список Неиспользованных Компонентов
+=================================================
+Дата: 17.11.2025
+
+Этот файл содержит перечень всех компонентов, которые не были использованы при перерасчете рецептов для модулей редкости 'Common' (Mk I).
+Эти компоненты зарезервированы для крафта модулей более высокой редкости (Uncommon, Rare, Epic, Legendary).
+
+---
+### Uncommon (Необычные)
+---
+* sensor_array
+
+---
+### Rare (Редкие)
+---
+* overcharge_coil
+* graviton_emitter
+* warp_coil
+* stabilizer_node
+
+---
+### Epic (Эпические)
+---
+* stellar_core
+* plasma_deflector
+* nano_repair_matrix
+* plasma_thruster
+* plasma_amplifier
+
+---
+### Legendary (Легендарные)
+---
+* quantum_capacitor
+* bio_shield_core
+* quantum_armor_core
+* quantum_drive_core
+* void_core
+
+---
+### Специальные Компоненты (Получаемые при разборке)
+---
+* weapon_memory_bank
+* shield_memory_bank
+* armor_memory_bank
+* engine_memory_bank
+
+=================================================

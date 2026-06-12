@@ -1,0 +1,1463 @@
+2025-09-20 12:15:53:1553 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 12:15:53:1553 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 12:15:53:1553 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 12:15:53:1553 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 12:15:53:1553 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 12:15:54:1554 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 12:15:54:1554 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 12:15:54:1554 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 12:15:55:1555 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 12:15:55:1555 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 12:15:55:1555 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 12:15:56:1556 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 12:16:54:1654 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:17:53:1753 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:18:52:1852 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:19:51:1951 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:20:50:2050 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:21:49:2149 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:22:48:2248 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:23:47:2347 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:24:46:2446 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:25:45:2545 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:26:44:2644 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:34:27:3427 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 12:34:28:3428 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 12:34:28:3428 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 12:34:28:3428 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 12:34:28:3428 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 12:34:29:3429 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 12:34:29:3429 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 12:34:29:3429 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 12:34:30:3430 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 12:34:30:3430 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 12:34:30:3430 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 12:34:31:3431 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 12:34:58:3458 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 12:34:58:3458 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 12:35:06:356 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 12:35:06:356 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 12:35:11:3511 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 12:35:14:3514 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 12:35:15:3515 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 12:35:16:3516 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 12:35:21:3521 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 12:35:24:3524 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 12:35:28:3528 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:36:27:3627 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:37:26:3726 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:38:25:3825 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:39:24:3924 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:40:23:4023 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:41:22:4122 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:42:21:4221 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:43:20:4320 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:44:19:4419 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:45:18:4518 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:46:17:4617 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:46:46:4646 [33mwarn[39m: [33m[PILOTS-OWNERS-TRACKER]: Ошибка при получении владельцев PilotNFT:[39m
+2025-09-20 12:47:16:4716 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:48:15:4815 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:49:15:4915 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:49:35:4935 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 12:49:36:4936 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 12:49:36:4936 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 12:49:36:4936 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 12:49:36:4936 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 12:49:37:4937 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 12:49:37:4937 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 12:49:37:4937 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 12:49:38:4938 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 12:49:38:4938 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 12:49:38:4938 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 12:49:38:4938 [33mwarn[39m: [33m[PILOTS-OWNERS-TRACKER]: Ошибка при получении владельцев PilotNFT:[39m
+2025-09-20 12:49:38:4938 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 12:51:03:513 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 12:51:03:513 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 12:51:03:513 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 12:51:03:513 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 12:51:03:513 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 12:51:04:514 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 12:51:04:514 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 12:51:04:514 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 12:51:05:515 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 12:51:05:515 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 12:51:05:515 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 12:51:07:517 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 12:52:04:524 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:53:03:533 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:53:57:5357 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 12:53:57:5357 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 12:53:57:5357 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 12:53:57:5357 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 12:53:57:5357 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 12:53:58:5358 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 12:53:58:5358 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 12:53:59:5359 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 12:53:59:5359 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 12:53:59:5359 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 12:53:59:5359 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 12:54:00:540 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 12:54:58:5458 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:55:58:5558 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:56:15:5615 [33mwarn[39m: [33m[PILOTS-OWNERS-TRACKER]: Ошибка при получении владельцев PilotNFT:[39m
+2025-09-20 12:56:57:5657 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 12:57:39:5739 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 12:57:39:5739 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 12:57:45:5745 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 12:57:48:5748 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 12:57:55:5755 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:00:03:03 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 13:00:03:03 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 13:00:03:03 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:00:03:03 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:00:03:03 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 13:00:04:04 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:00:04:04 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:00:05:05 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 13:00:05:05 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:00:05:05 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:00:06:06 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:00:06:06 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:00:08:08 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:00:08:08 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:00:09:09 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:00:09:09 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:00:10:010 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:00:10:010 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:00:11:011 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:00:11:011 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:00:12:012 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:00:12:012 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:00:13:013 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:00:13:013 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:00:19:019 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 13:00:19:019 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 13:00:19:019 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:00:19:019 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:00:19:019 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 13:00:20:020 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 13:00:20:020 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 13:00:21:021 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 13:00:21:021 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 13:00:21:021 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 13:00:21:021 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 13:00:22:022 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 13:02:25:225 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 13:02:26:226 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 13:02:26:226 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:02:26:226 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:02:26:226 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 13:02:27:227 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 13:02:27:227 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 13:02:27:227 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 13:02:28:228 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 13:02:28:228 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 13:02:28:228 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 13:02:29:229 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 13:02:42:242 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 0.998 ms[39m
+2025-09-20 13:02:42:242 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 13:02:42:242 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 13:02:42:242 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 31.310 ms[39m
+2025-09-20 13:02:46:246 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 13:02:51:251 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 13:02:52:252 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 13:02:52:252 [35mhttp[39m: [35m::1 - - "GET /internal/api/v1/verify-pilot/0/0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43 HTTP/1.1" 200 51 - 253.281 ms[39m
+2025-09-20 13:02:52:252 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 13:02:53:253 [35mhttp[39m: [35m::1 - - "GET /internal/api/v1/verify-ship/2/0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43 HTTP/1.1" 200 16 - 271.579 ms[39m
+2025-09-20 13:03:26:326 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:03:49:349 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 13:03:49:349 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 13:03:49:349 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:03:49:349 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:03:49:349 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 13:03:50:350 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 13:03:50:350 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 13:03:50:350 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 13:03:51:351 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 13:03:51:351 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 13:03:51:351 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 13:03:52:352 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 13:03:56:356 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.010 ms[39m
+2025-09-20 13:03:56:356 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 13:03:56:356 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 13:03:56:356 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 27.146 ms[39m
+2025-09-20 13:04:02:42 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 13:04:07:47 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 13:04:09:49 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 13:04:09:49 [35mhttp[39m: [35m::1 - - "GET /internal/api/v1/verify-pilot/0/0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43 HTTP/1.1" 200 51 - 296.499 ms[39m
+2025-09-20 13:04:09:49 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 13:04:09:49 [35mhttp[39m: [35m::1 - - "GET /internal/api/v1/verify-ship/2/0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43 HTTP/1.1" 200 16 - 241.589 ms[39m
+2025-09-20 13:04:50:450 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:05:49:549 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:05:51:551 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 13:05:51:551 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 13:05:51:551 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 13:05:51:551 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:05:51:551 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:05:52:552 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 13:05:52:552 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 13:05:53:553 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 13:05:53:553 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 13:05:53:553 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 13:05:53:553 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 13:05:55:555 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 13:16:04:164 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 13:16:05:165 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 13:16:05:165 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 13:16:05:165 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:16:05:165 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:16:06:166 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 13:16:06:166 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 13:16:06:166 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 13:16:07:167 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 13:16:07:167 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 13:16:07:167 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 13:16:08:168 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 13:16:10:1610 [31merror[39m: [31m[HealthCheck] Ошибка проверки состояния process2[39m
+2025-09-20 13:16:10:1610 [35mhttp[39m: [35m::1 - - "GET /health HTTP/1.1" 503 247 - 2.936 ms[39m
+2025-09-20 13:16:55:1655 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 13:16:56:1656 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 13:16:56:1656 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 13:16:56:1656 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:16:56:1656 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:16:57:1657 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 13:16:57:1657 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 13:16:57:1657 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 13:16:58:1658 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 13:16:58:1658 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 13:16:58:1658 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 13:16:59:1659 [35mhttp[39m: [35m::1 - - "GET /health HTTP/1.1" 503 239 - 10.162 ms[39m
+2025-09-20 13:16:59:1659 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 13:17:05:175 [35mhttp[39m: [35m::1 - - "GET /health HTTP/1.1" 200 203 - 2.282 ms[39m
+2025-09-20 13:17:22:1722 [35mhttp[39m: [35m::1 - - "GET /health HTTP/1.1" 200 204 - 1.746 ms[39m
+2025-09-20 13:17:56:1756 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:18:55:1855 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:19:54:1954 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:20:05:205 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 13:20:06:206 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 13:20:06:206 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:20:06:206 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:20:06:206 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 13:20:07:207 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 13:20:07:207 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 13:20:07:207 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 13:20:08:208 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 13:20:08:208 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 13:20:08:208 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 13:20:08:208 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 13:20:08:208 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 13:20:09:209 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 13:20:12:2012 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 13:20:12:2012 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 13:20:12:2012 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 13:20:12:2012 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 13:20:12:2012 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 13:20:12:2012 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 13:20:12:2012 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 13:20:28:2028 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 13:20:29:2029 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 13:20:29:2029 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:20:29:2029 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:20:29:2029 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 13:20:30:2030 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 13:20:30:2030 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 13:20:31:2031 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 13:20:32:2032 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 13:20:32:2032 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 13:20:32:2032 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 13:20:32:2032 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 13:20:32:2032 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 13:20:33:2033 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 13:21:31:2131 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:22:30:2230 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:23:29:2329 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:24:28:2428 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:25:27:2527 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:26:26:2626 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:27:00:270 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 13:27:00:270 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 13:27:00:270 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 13:27:00:270 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 13:27:00:270 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 13:27:00:270 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:27:00:270 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 13:27:00:270 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 13:29:15:2915 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 13:29:16:2916 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 13:29:16:2916 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 13:29:16:2916 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 13:29:16:2916 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 13:29:17:2917 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 13:29:17:2917 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 13:29:17:2917 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 13:29:18:2918 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 13:29:18:2918 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 13:29:18:2918 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 13:29:18:2918 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 13:29:18:2918 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 13:29:19:2919 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 13:30:16:3016 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:31:15:3115 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:32:15:3215 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:33:13:3313 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:34:12:3412 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:34:34:3434 [33mwarn[39m: [33m[PILOTS-OWNERS-TRACKER]: Ошибка при получении владельцев PilotNFT:[39m
+2025-09-20 13:35:11:3511 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:36:10:3610 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:37:09:379 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:38:08:388 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:39:07:397 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:40:06:406 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:40:34:4034 [33mwarn[39m: [33m[PILOTS-OWNERS-TRACKER]: Ошибка при получении владельцев PilotNFT:[39m
+2025-09-20 13:41:05:415 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:42:04:424 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:43:03:433 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:44:02:442 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:45:02:452 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:46:07:467 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:46:59:4659 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:47:58:4758 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:48:58:4858 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:49:56:4956 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:50:34:5034 [33mwarn[39m: [33m[PILOTS-OWNERS-TRACKER]: Ошибка при получении владельцев PilotNFT:[39m
+2025-09-20 13:50:55:5055 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:51:55:5155 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:52:54:5254 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:53:53:5353 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:54:52:5452 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:55:51:5551 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:56:49:5649 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:57:49:5749 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:58:48:5848 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 13:59:47:5947 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:00:46:046 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:01:45:145 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:02:44:244 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:03:43:343 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:04:42:442 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:05:41:541 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:06:40:640 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:07:39:739 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:08:38:838 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:09:37:937 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:10:36:1036 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:11:35:1135 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:12:34:1234 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:13:33:1333 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:14:32:1432 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:15:31:1531 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:15:53:1553 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:15:53:1553 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:15:53:1553 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:15:53:1553 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:15:53:1553 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:15:53:1553 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:15:53:1553 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 14:15:53:1553 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 14:15:54:1554 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:15:55:1555 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:15:55:1555 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:15:55:1555 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:15:55:1555 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:15:56:1556 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:15:56:1556 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:15:56:1556 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:15:57:1557 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:15:57:1557 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:15:57:1557 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:15:57:1557 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:15:57:1557 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:15:57:1557 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:16:55:1655 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:17:54:1754 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:18:12:1812 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:18:12:1812 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:18:12:1812 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:18:12:1812 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:18:12:1812 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:18:12:1812 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 14:18:12:1812 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 14:18:13:1813 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:18:13:1813 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:18:13:1813 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:18:13:1813 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:18:13:1813 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:18:14:1814 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:18:14:1814 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:18:15:1815 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:18:15:1815 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:18:15:1815 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:18:15:1815 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:18:15:1815 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:18:15:1815 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:18:16:1816 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:19:14:1914 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:20:13:2013 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:21:12:2112 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:22:11:2211 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:23:10:2310 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:24:09:249 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:24:13:2413 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:24:13:2413 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:24:13:2413 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:24:13:2413 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:24:13:2413 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:24:13:2413 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 14:24:13:2413 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 14:24:14:2414 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:24:15:2415 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:24:15:2415 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:24:15:2415 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:24:15:2415 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:24:16:2416 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:24:16:2416 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:24:17:2417 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:24:17:2417 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:24:17:2417 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:24:17:2417 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:24:17:2417 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:24:17:2417 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:24:18:2418 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:24:31:2431 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:24:31:2431 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:24:31:2431 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:24:31:2431 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:24:31:2431 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:24:31:2431 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 14:24:31:2431 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 14:24:31:2431 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:24:32:2432 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:24:33:2433 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:24:33:2433 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:24:33:2433 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:24:33:2433 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:24:34:2434 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:24:34:2434 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:24:34:2434 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:24:35:2435 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:24:35:2435 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:24:35:2435 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:24:35:2435 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:24:35:2435 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:24:36:2436 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:25:33:2533 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:26:32:2632 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:27:31:2731 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:28:30:2830 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:29:29:2929 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:30:28:3028 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:30:29:3029 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:30:29:3029 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:30:29:3029 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:30:29:3029 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:30:29:3029 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:30:29:3029 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 14:30:29:3029 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 14:30:30:3030 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:30:31:3031 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:30:31:3031 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:30:31:3031 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:30:31:3031 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:30:32:3032 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:30:32:3032 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:30:32:3032 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:30:33:3033 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:30:33:3033 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:30:33:3033 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:30:33:3033 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:30:33:3033 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:30:34:3034 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:30:56:3056 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:30:56:3056 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:30:56:3056 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:30:56:3056 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:30:56:3056 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:30:56:3056 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 14:30:56:3056 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 14:30:56:3056 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:30:57:3057 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:30:58:3058 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:30:58:3058 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:30:58:3058 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:30:58:3058 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:30:59:3059 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:30:59:3059 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:30:59:3059 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:31:00:310 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:31:00:310 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:31:00:310 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:31:00:310 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:31:00:310 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:31:01:311 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:31:58:3158 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:32:37:3237 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:32:37:3237 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:32:37:3237 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:32:37:3237 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:32:37:3237 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:32:37:3237 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:32:37:3237 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 14:32:37:3237 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 14:32:42:3242 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:32:42:3242 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:32:43:3243 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:32:43:3243 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:32:43:3243 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:32:44:3244 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:32:44:3244 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:32:45:3245 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:32:45:3245 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:32:45:3245 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:32:45:3245 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:32:45:3245 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:32:45:3245 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:32:46:3246 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:33:33:3333 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:33:33:3333 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:33:33:3333 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:33:33:3333 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:33:33:3333 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:33:45:3345 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:33:46:3346 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:33:46:3346 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:33:46:3346 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:33:46:3346 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:33:47:3347 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:33:47:3347 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:33:47:3347 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:33:47:3347 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:33:47:3347 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:33:47:3347 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:33:47:3347 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:33:47:3347 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:33:47:3347 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:34:46:3446 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:35:01:351 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:35:01:351 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:35:01:351 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:35:01:351 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:35:01:351 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:35:02:352 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:35:03:353 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:35:03:353 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:35:03:353 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:35:03:353 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:35:04:354 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:35:04:354 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:35:04:354 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:35:05:355 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:35:05:355 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:35:05:355 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:35:05:355 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:35:05:355 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:35:06:356 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:36:03:363 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:37:02:372 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:38:01:381 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:39:00:390 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:39:32:3932 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:39:32:3932 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:39:32:3932 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:39:32:3932 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:39:32:3932 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:39:32:3932 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 14:39:32:3932 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 14:39:32:3932 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:39:33:3933 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:39:34:3934 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:39:34:3934 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:39:34:3934 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:39:34:3934 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:39:35:3935 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:39:35:3935 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:39:35:3935 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:39:36:3936 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:39:36:3936 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:39:36:3936 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:39:36:3936 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:39:36:3936 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:39:37:3937 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:40:34:4034 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:41:34:4134 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:42:32:4232 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 14:42:39:4239 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:42:39:4239 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:42:39:4239 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:42:39:4239 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:42:39:4239 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:54:28:5428 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:54:29:5429 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:54:29:5429 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:54:29:5429 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:54:29:5429 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:54:30:5430 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:54:30:5430 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:54:30:5430 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:54:31:5431 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:54:31:5431 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:54:31:5431 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:54:31:5431 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:54:31:5431 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:54:32:5432 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:55:21:5521 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:55:21:5521 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:55:21:5521 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:55:21:5521 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:55:21:5521 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:55:21:5521 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 14:55:21:5521 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 14:55:21:5521 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:58:58:5858 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 14:58:58:5858 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 14:58:58:5858 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 14:58:58:5858 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:58:58:5858 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 14:58:59:5859 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 14:58:59:5859 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 14:59:00:590 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 14:59:00:590 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 14:59:00:590 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 14:59:00:590 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 14:59:00:590 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 14:59:00:590 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 14:59:01:591 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 14:59:06:596 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 14:59:06:596 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 14:59:06:596 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 14:59:06:596 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 14:59:06:596 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 14:59:06:596 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 14:59:06:596 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 14:59:06:596 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 15:00:24:024 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:00:25:025 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:00:25:025 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:00:25:025 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:00:25:025 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:00:26:026 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:00:26:026 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:00:27:027 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:00:27:027 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:00:27:027 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:00:27:027 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:00:27:027 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:00:27:027 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:00:28:028 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:00:33:033 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.053 ms[39m
+2025-09-20 15:00:33:033 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:00:33:033 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:00:33:033 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 28.966 ms[39m
+2025-09-20 15:01:26:126 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:02:25:225 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:03:24:324 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:03:36:336 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:03:36:336 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:03:36:336 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:03:36:336 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:03:36:336 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:03:36:336 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 15:03:36:336 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 15:03:38:338 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:03:38:338 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:03:38:338 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:03:38:338 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:03:38:338 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:03:39:339 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:03:39:339 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:03:39:339 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:03:40:340 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:03:40:340 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:03:40:340 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:03:40:340 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:03:40:340 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:03:41:341 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:03:52:352 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.026 ms[39m
+2025-09-20 15:03:52:352 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:03:52:352 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:03:52:352 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 24.974 ms[39m
+2025-09-20 15:03:57:357 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:04:00:40 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:04:03:43 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 0.162 ms[39m
+2025-09-20 15:04:03:43 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:04:03:43 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:04:03:43 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 9.304 ms[39m
+2025-09-20 15:04:08:48 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:04:17:417 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:04:38:438 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:05:38:538 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:06:36:636 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:07:35:735 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:08:34:834 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:09:33:933 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:10:32:1032 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:11:14:1114 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:11:14:1114 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:11:14:1114 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:11:14:1114 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:11:14:1114 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:11:14:1114 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:11:14:1114 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 15:11:14:1114 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 15:15:59:1559 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:16:00:160 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:16:00:160 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:16:00:160 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:16:00:160 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:16:01:161 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:16:01:161 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:16:01:161 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:16:02:162 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:16:02:162 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:16:02:162 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:16:02:162 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:16:02:162 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:16:03:163 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:16:15:1615 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.027 ms[39m
+2025-09-20 15:16:15:1615 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:16:15:1615 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:16:15:1615 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 26.652 ms[39m
+2025-09-20 15:16:22:1622 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 0.138 ms[39m
+2025-09-20 15:16:22:1622 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:16:22:1622 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:16:22:1622 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 11.093 ms[39m
+2025-09-20 15:16:26:1626 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:16:30:1630 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:17:00:170 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:17:59:1759 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:18:59:1859 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:19:57:1957 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:20:56:2056 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:21:55:2155 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:22:18:2218 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:22:18:2218 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:22:18:2218 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:22:18:2218 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:22:18:2218 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:22:18:2218 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 15:22:18:2218 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 15:22:18:2218 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:22:19:2219 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:22:20:2220 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:22:20:2220 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:22:20:2220 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:22:20:2220 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:22:21:2221 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:22:21:2221 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:22:21:2221 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:22:22:2222 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:22:22:2222 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:22:22:2222 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:22:22:2222 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:22:22:2222 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:22:23:2223 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:22:27:2227 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.062 ms[39m
+2025-09-20 15:22:27:2227 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:22:27:2227 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:22:27:2227 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 25.832 ms[39m
+2025-09-20 15:22:35:2235 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:22:37:2237 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:22:42:2242 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:22:42:2242 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:22:42:2242 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:22:42:2242 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:22:42:2242 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:22:45:2245 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:22:45:2245 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:22:45:2245 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:22:45:2245 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:22:45:2245 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:22:46:2246 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:22:46:2246 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:22:47:2247 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:22:47:2247 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:22:47:2247 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:22:47:2247 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:22:47:2247 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:22:47:2247 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:22:48:2248 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:22:52:2252 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.277 ms[39m
+2025-09-20 15:22:52:2252 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:22:52:2252 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:22:52:2252 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 25.092 ms[39m
+2025-09-20 15:22:57:2257 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:22:59:2259 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:23:29:2329 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:23:29:2329 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:23:29:2329 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:23:29:2329 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:23:29:2329 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:23:29:2329 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 15:23:29:2329 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 15:23:29:2329 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:23:30:2330 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:23:31:2331 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:23:31:2331 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:23:31:2331 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:23:31:2331 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:23:32:2332 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:23:32:2332 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:23:32:2332 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:23:33:2333 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:23:33:2333 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:23:33:2333 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:23:33:2333 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:23:33:2333 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:23:34:2334 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:23:38:2338 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.598 ms[39m
+2025-09-20 15:23:38:2338 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:23:38:2338 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:23:38:2338 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 34.759 ms[39m
+2025-09-20 15:23:43:2343 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:23:47:2347 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:23:56:2356 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:23:56:2356 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:23:56:2356 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:23:56:2356 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:23:56:2356 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:23:56:2356 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 15:23:56:2356 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 15:23:56:2356 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:23:56:2356 [32minfo[39m: [32mВсе соединения успешно закрыты.[39m
+2025-09-20 15:23:58:2358 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:23:58:2358 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:23:58:2358 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:23:58:2358 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:23:58:2358 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:23:59:2359 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:23:59:2359 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:23:59:2359 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:24:00:240 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:24:00:240 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:24:00:240 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:24:00:240 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:24:00:240 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:24:01:241 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:24:14:2414 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:24:14:2414 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:24:14:2414 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:24:14:2414 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:24:14:2414 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:24:14:2414 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:24:14:2414 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 15:24:14:2414 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 15:24:15:2415 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:24:16:2416 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:24:16:2416 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:24:16:2416 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:24:16:2416 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:24:17:2417 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:24:17:2417 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:24:17:2417 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:24:18:2418 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:24:18:2418 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:24:18:2418 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:24:18:2418 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:24:18:2418 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:24:19:2419 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:24:23:2423 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.020 ms[39m
+2025-09-20 15:24:23:2423 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:24:23:2423 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:24:23:2423 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 23.339 ms[39m
+2025-09-20 15:24:28:2428 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:24:32:2432 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:24:47:2447 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:24:47:2447 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:24:47:2447 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:24:47:2447 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:24:47:2447 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:24:47:2447 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 15:24:47:2447 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 15:24:47:2447 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:24:48:2448 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:24:48:2448 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:24:48:2448 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:24:48:2448 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:24:48:2448 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:24:49:2449 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:24:49:2449 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:24:50:2450 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:24:50:2450 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:24:50:2450 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:24:50:2450 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:24:50:2450 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:24:50:2450 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:24:51:2451 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:24:56:2456 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.095 ms[39m
+2025-09-20 15:24:56:2456 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:24:56:2456 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:24:56:2456 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 27.244 ms[39m
+2025-09-20 15:25:00:250 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:25:04:254 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:25:11:2511 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 0.168 ms[39m
+2025-09-20 15:25:11:2511 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:25:11:2511 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:25:11:2511 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 11.308 ms[39m
+2025-09-20 15:25:15:2515 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:25:19:2519 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:25:31:2531 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:25:34:2534 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:25:49:2549 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:25:57:2557 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:26:00:260 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:26:16:2616 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:26:16:2616 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:26:16:2616 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:26:16:2616 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:26:16:2616 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:26:16:2616 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 15:26:16:2616 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 15:26:17:2617 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:26:18:2618 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:26:18:2618 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:26:18:2618 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:26:18:2618 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:26:19:2619 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:26:19:2619 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:26:19:2619 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:26:20:2620 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:26:20:2620 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:26:20:2620 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:26:20:2620 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:26:20:2620 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:26:21:2621 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:26:25:2625 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.039 ms[39m
+2025-09-20 15:26:25:2625 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:26:25:2625 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:26:25:2625 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 23.349 ms[39m
+2025-09-20 15:26:25:2625 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:26:28:2628 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:26:29:2629 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:26:29:2629 [35mhttp[39m: [35m::1 - - "GET /internal/api/v1/verify-pilot/0/0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43 HTTP/1.1" 200 51 - 252.210 ms[39m
+2025-09-20 15:26:29:2629 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:26:30:2630 [35mhttp[39m: [35m::1 - - "GET /internal/api/v1/verify-ship/2/0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43 HTTP/1.1" 200 16 - 232.958 ms[39m
+2025-09-20 15:26:35:2635 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:26:38:2638 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:27:02:272 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:27:02:272 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:27:02:272 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:27:02:272 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:27:02:272 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:27:03:273 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:27:03:273 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:27:04:274 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:27:04:274 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:27:04:274 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:27:05:275 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:27:05:275 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:27:05:275 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:27:06:276 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:27:06:276 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:27:06:276 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:27:06:276 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:27:06:276 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:27:06:276 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:27:10:2710 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.293 ms[39m
+2025-09-20 15:27:10:2710 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:27:10:2710 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:27:10:2710 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 23.655 ms[39m
+2025-09-20 15:27:37:2737 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:27:40:2740 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:28:05:285 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:29:04:294 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:29:14:2914 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 0.327 ms[39m
+2025-09-20 15:29:14:2914 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:29:14:2914 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:29:14:2914 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 10.991 ms[39m
+2025-09-20 15:29:59:2959 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:29:59:2959 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:29:59:2959 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:29:59:2959 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:29:59:2959 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:29:59:2959 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 15:29:59:2959 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 15:30:00:300 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:30:01:301 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:30:01:301 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:30:01:301 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:30:01:301 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:30:02:302 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:30:02:302 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:30:02:302 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:30:03:303 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:30:03:303 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:30:03:303 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:30:03:303 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:30:03:303 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:30:04:304 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:30:07:307 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.141 ms[39m
+2025-09-20 15:30:07:307 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:30:07:307 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:30:07:307 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 23.895 ms[39m
+2025-09-20 15:30:12:3012 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:30:15:3015 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:30:52:3052 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:30:53:3053 [35mhttp[39m: [35m::1 - - "GET /internal/api/v1/verify-pilot/1/0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43 HTTP/1.1" 200 52 - 277.763 ms[39m
+2025-09-20 15:30:53:3053 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:30:53:3053 [35mhttp[39m: [35m::1 - - "GET /internal/api/v1/verify-ship/4/0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43 HTTP/1.1" 200 16 - 274.807 ms[39m
+2025-09-20 15:31:01:311 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:32:00:320 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:32:59:3259 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:33:58:3358 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:34:57:3457 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:35:56:3556 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:36:56:3656 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:37:55:3755 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:38:53:3853 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:39:53:3953 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:40:13:4013 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:40:13:4013 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:40:13:4013 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:40:13:4013 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:40:13:4013 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:40:13:4013 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 15:40:13:4013 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 15:40:13:4013 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:40:14:4014 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 15:40:15:4015 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 15:40:15:4015 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 15:40:15:4015 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:40:15:4015 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 15:40:16:4016 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 15:40:16:4016 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 15:40:16:4016 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 15:40:17:4017 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 15:40:17:4017 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 15:40:17:4017 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 15:40:17:4017 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 15:40:17:4017 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 15:40:18:4018 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 15:40:34:4034 [35mhttp[39m: [35m::1 - - "OPTIONS /verify-wallet HTTP/1.1" 204 0 - 1.367 ms[39m
+2025-09-20 15:40:34:4034 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:40:34:4034 [37mdebug[39m: [37mWeb3Server: Incoming request to /verify-wallet[39m
+2025-09-20 15:40:34:4034 [35mhttp[39m: [35m::1 - - "POST /verify-wallet HTTP/1.1" 200 121 - 33.501 ms[39m
+2025-09-20 15:40:39:4039 [37mdebug[39m: [37m[TOKEN-FETCHER]: Fetching ship tokens for wallet:[39m
+2025-09-20 15:40:43:4043 [37mdebug[39m: [37mWeb3Server: Sent fetch-ships-by-address-response for 0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43:[39m
+2025-09-20 15:41:06:416 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:41:06:416 [35mhttp[39m: [35m::1 - - "GET /internal/api/v1/verify-pilot/0/0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43 HTTP/1.1" 200 51 - 274.170 ms[39m
+2025-09-20 15:41:06:416 [37mdebug[39m: [37m[RateLimiter] Пропущен лимит для IP из белого списка: ::1[39m
+2025-09-20 15:41:06:416 [35mhttp[39m: [35m::1 - - "GET /internal/api/v1/verify-ship/2/0x1Bf89d442D9f30858dCCD6ffA6500E0Bfc78eb43 HTTP/1.1" 200 16 - 247.221 ms[39m
+2025-09-20 15:41:15:4115 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 15:42:05:425 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 15:42:05:425 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 15:42:05:425 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 15:42:05:425 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 15:42:05:425 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 15:42:05:425 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 15:42:05:425 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 15:42:05:425 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 16:14:11:1411 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 16:14:13:1413 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 16:14:13:1413 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:13:1413 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:13:1413 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 16:14:14:1414 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:14:1414 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:15:1415 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 16:14:15:1415 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:15:1415 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:16:1416 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:16:1416 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:17:1417 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:17:1417 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:18:1418 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:18:1418 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:19:1419 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:19:1419 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:20:1420 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:20:1420 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:21:1421 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:21:1421 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:22:1422 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:22:1422 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:23:1423 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 16:14:24:1424 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 16:14:24:1424 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 16:14:24:1424 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:24:1424 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:25:1425 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:25:1425 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:26:1426 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 16:14:26:1426 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:26:1426 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:27:1427 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:27:1427 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:28:1428 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:28:1428 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:29:1429 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:29:1429 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:30:1430 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:30:1430 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:31:1431 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:31:1431 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:32:1432 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:32:1432 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:33:1433 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:33:1433 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:34:1434 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:34:1434 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:35:1435 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:35:1435 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:36:1436 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:36:1436 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:37:1437 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:37:1437 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:38:1438 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:38:1438 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:39:1439 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:39:1439 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:40:1440 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:40:1440 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:41:1441 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:41:1441 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:42:1442 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:42:1442 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:43:1443 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:43:1443 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:44:1444 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:44:1444 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:45:1445 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:45:1445 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:46:1446 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:46:1446 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:47:1447 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:47:1447 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:48:1448 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:48:1448 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:49:1449 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:49:1449 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:50:1450 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:50:1450 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:51:1451 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:51:1451 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:52:1452 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:52:1452 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:53:1453 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:53:1453 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:54:1454 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:54:1454 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:55:1455 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:55:1455 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:56:1456 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:56:1456 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:57:1457 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:57:1457 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:58:1458 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:58:1458 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:14:59:1459 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:14:59:1459 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:00:150 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:00:150 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:01:151 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:01:151 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:02:152 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:02:152 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:03:153 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:03:153 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:04:154 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:04:154 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:05:155 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:05:155 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:06:156 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:06:156 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:07:157 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:07:157 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:08:158 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:08:158 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:09:159 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:09:159 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:10:1510 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:10:1510 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:11:1511 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:11:1511 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:12:1512 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:12:1512 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:13:1513 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:13:1513 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:14:1514 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:14:1514 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:15:1515 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:15:1515 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:17:1517 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:17:1517 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:18:1518 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:18:1518 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:19:1519 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:19:1519 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:20:1520 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:20:1520 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:21:1521 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:21:1521 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:22:1522 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:22:1522 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:23:1523 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:23:1523 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:24:1524 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:24:1524 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:25:1525 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:25:1525 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:25:1525 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 16:15:26:1526 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:26:1526 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:27:1527 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:27:1527 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:28:1528 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:28:1528 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:29:1529 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:29:1529 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:30:1530 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:30:1530 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:31:1531 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:31:1531 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:32:1532 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:32:1532 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:33:1533 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:33:1533 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:34:1534 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:34:1534 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:35:1535 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:35:1535 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:36:1536 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:36:1536 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:37:1537 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:37:1537 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:38:1538 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:38:1538 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:39:1539 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:39:1539 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:40:1540 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:40:1540 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:41:1541 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:41:1541 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:42:1542 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:42:1542 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:43:1543 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:43:1543 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:44:1544 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:44:1544 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:45:1545 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:45:1545 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:46:1546 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:46:1546 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:47:1547 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:47:1547 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:48:1548 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:48:1548 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:49:1549 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:49:1549 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:50:1550 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:50:1550 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:51:1551 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:51:1551 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:52:1552 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:52:1552 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:53:1553 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:53:1553 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:54:1554 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:54:1554 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:55:1555 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:55:1555 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:56:1556 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:56:1556 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:57:1557 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:57:1557 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:58:1558 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:58:1558 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:15:59:1559 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:15:59:1559 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:00:160 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:00:160 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:01:161 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:01:161 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:02:162 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:02:162 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:03:163 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:03:163 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:04:164 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:04:164 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:05:165 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:05:165 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:06:166 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:06:166 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:07:167 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:07:167 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:08:168 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:08:168 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:09:169 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:09:169 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:10:1610 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:10:1610 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:11:1611 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:11:1611 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:12:1612 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:12:1612 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:13:1613 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:13:1613 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:14:1614 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:14:1614 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:15:1615 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:15:1615 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:16:1616 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:16:1616 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:17:1617 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:17:1617 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:18:1618 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:18:1618 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:19:1619 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:19:1619 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:20:1620 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:20:1620 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:21:1621 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:21:1621 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:22:1622 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:22:1622 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:23:1623 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:23:1623 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:24:1624 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 16:16:24:1624 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:24:1624 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:25:1625 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:25:1625 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:26:1626 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:26:1626 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:27:1627 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:27:1627 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:28:1628 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:28:1628 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:29:1629 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:29:1629 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:31:1631 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 16:16:32:1632 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 16:16:32:1632 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:32:1632 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:32:1632 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 16:16:33:1633 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:16:33:1633 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:16:34:1634 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 16:16:34:1634 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 16:16:34:1634 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 16:16:35:1635 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 16:16:35:1635 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 16:16:35:1635 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 16:16:35:1635 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 16:16:35:1635 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 16:16:37:1637 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 16:17:33:1733 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 16:17:56:1756 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 16:17:56:1756 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 16:17:56:1756 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 16:17:56:1756 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 16:17:56:1756 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 16:17:57:1757 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 16:17:58:1758 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 16:17:58:1758 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:17:58:1758 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:17:58:1758 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 16:17:59:1759 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 16:17:59:1759 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 16:18:00:180 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 16:18:00:180 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 16:18:00:180 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 16:18:00:180 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 16:18:00:180 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 16:18:00:180 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 16:18:01:181 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 16:18:13:1813 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 16:18:13:1813 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 16:18:13:1813 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 16:18:13:1813 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 16:18:13:1813 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 16:18:13:1813 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 16:18:13:1813 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 16:18:14:1814 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 16:18:15:1815 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 16:18:15:1815 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:18:15:1815 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:18:15:1815 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 16:18:16:1816 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 16:18:16:1816 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 16:18:17:1817 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 16:18:17:1817 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 16:18:17:1817 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 16:18:17:1817 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 16:18:17:1817 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 16:18:17:1817 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 16:18:18:1818 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 16:18:21:1821 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 16:18:21:1821 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 16:18:21:1821 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 16:18:21:1821 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 16:18:21:1821 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 16:18:21:1821 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 16:18:21:1821 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 16:29:01:291 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 16:29:02:292 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 16:29:02:292 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:29:02:292 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:29:02:292 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 16:29:03:293 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 16:29:03:293 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 16:29:04:294 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 16:29:04:294 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 16:29:04:294 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 16:29:04:294 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 16:29:04:294 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 16:29:04:294 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 16:29:06:296 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 16:29:13:2913 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 16:29:13:2913 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 16:29:13:2913 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 16:29:13:2913 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 16:29:13:2913 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 16:29:13:2913 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 16:29:13:2913 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 16:29:13:2913 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:32:52:3252 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 16:32:53:3253 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 16:32:53:3253 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:32:53:3253 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:32:53:3253 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 16:32:54:3254 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 16:32:54:3254 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 16:32:54:3254 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 16:32:55:3255 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 16:32:55:3255 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 16:32:55:3255 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 16:32:55:3255 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 16:32:55:3255 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 16:32:56:3256 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 16:33:53:3353 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 16:34:52:3452 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 16:35:51:3551 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 16:36:00:360 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 16:36:00:360 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 16:36:00:360 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 16:36:00:360 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 16:36:00:360 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 16:36:00:360 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 16:36:00:360 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 16:36:02:362 [37mdebug[39m: [37mWeb3Server: Initializing wallet and contracts...[39m
+2025-09-20 16:36:03:363 [32minfo[39m: [32mWeb3Server: Contracts successfully initialized.[39m
+2025-09-20 16:36:03:363 [31merror[39m: [31mWeb3Server: Error connecting to dbServer:[39m
+2025-09-20 16:36:03:363 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m
+2025-09-20 16:36:03:363 [32minfo[39m: [32mWeb3Server: Successfully connected to Redis.[39m
+2025-09-20 16:36:04:364 [32minfo[39m: [32mWeb3Server: Connected to dbServer[39m
+2025-09-20 16:36:04:364 [32minfo[39m: [32mWeb3Server: Successfully identified with dbServer[39m
+2025-09-20 16:36:04:364 [32minfo[39m: [32mWeb3Server: WebSocket connection to RPC provider is open.[39m
+2025-09-20 16:36:05:365 [37mdebug[39m: [37mWeb3Server: Waiting for blockchain provider connection...[39m
+2025-09-20 16:36:05:365 [32minfo[39m: [32mWeb3Server: Blockchain provider connected.[39m
+2025-09-20 16:36:05:365 [37mdebug[39m: [37mWeb3Server: Setting up/refreshing blockchain listeners...[39m
+2025-09-20 16:36:05:365 [32minfo[39m: [32mОбработчики грациозного завершения для web3server инициализированы.[39m
+2025-09-20 16:36:05:365 [32minfo[39m: [32mWeb3Server запущен на порту 3000[39m
+2025-09-20 16:36:06:366 [32minfo[39m: [32m[PILOTS-OWNERS-TRACKER]: Запущено периодическое обновление списка владельцев PilotNFT каждую минуту[39m
+2025-09-20 16:37:03:373 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 16:38:02:382 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 16:39:01:391 [37mdebug[39m: [37mWeb3Server: Received pong from Infura.[39m
+2025-09-20 16:39:17:3917 [33mwarn[39m: [33mПолучен сигнал SIGINT. Начинаю грациозное завершение web3server...[39m
+2025-09-20 16:39:17:3917 [32minfo[39m: [32mЗакрытие соединения с Redis...[39m
+2025-09-20 16:39:17:3917 [32minfo[39m: [32mЗакрытие соединения с dbserver...[39m
+2025-09-20 16:39:17:3917 [32minfo[39m: [32mЗакрытие WebSocket-соединения с блокчейн-провайдером...[39m
+2025-09-20 16:39:17:3917 [32minfo[39m: [32mHTTP-сервер больше не принимает новые соединения.[39m
+2025-09-20 16:39:17:3917 [33mwarn[39m: [33mWeb3Server: WebSocket connection closed with code 1006, reason: [39m
+2025-09-20 16:39:17:3917 [37mdebug[39m: [37mWeb3Server: Clearing ping interval.[39m
+2025-09-20 16:39:17:3917 [31merror[39m: [31mWeb3Server: Disconnected from dbServer[39m

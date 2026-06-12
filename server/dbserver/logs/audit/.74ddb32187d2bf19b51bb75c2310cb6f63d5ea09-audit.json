@@ -1,0 +1,35 @@
+{
+  "keep": {
+    "days": true,
+    "amount": 30
+  },
+  "auditLog": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\audit\\.74ddb32187d2bf19b51bb75c2310cb6f63d5ea09-audit.json",
+  "files": [
+    {
+      "date": 1777814573404,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\audit\\craft_audit-2026-05-03.log",
+      "hash": "78343d8a7e9db4ae20f8f3f25a1cda4f45afaf6238453fdf9a5d8871eca81bf6"
+    },
+    {
+      "date": 1777889560046,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\audit\\craft_audit-2026-05-04.log",
+      "hash": "9345d6f63b29da683ba2a3606df60a1fed861dfcd24bc0b5f63505c7a2caa7c1"
+    },
+    {
+      "date": 1778431619577,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\audit\\craft_audit-2026-05-10.log",
+      "hash": "5ad0113a6e841a224a25e3d09fcf5d88ce76c9a6dcda9f37e84cf874816020dd"
+    },
+    {
+      "date": 1778488337117,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\audit\\craft_audit-2026-05-11.log",
+      "hash": "9d3f4745d37d24d8b782e0af01423edeb570df7573be13a0bda6cab42398a56c"
+    },
+    {
+      "date": 1778580830871,
+      "name": "D:\\MEGA\\MYAPPS\\OneSoulManyShips\\src\\server\\dbserver\\logs\\audit\\craft_audit-2026-05-12.log",
+      "hash": "0a1ef096a753d24ac3525693e34c2643e52ec6f918f491aba15cb03686d2b02e"
+    }
+  ],
+  "hashType": "sha256"
+}

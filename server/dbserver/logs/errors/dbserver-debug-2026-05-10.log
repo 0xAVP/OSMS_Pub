@@ -1,0 +1,439 @@
+2026-05-10 18:47:03:473 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-10 18:47:03:473 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-10 18:47:07:477 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:47:07:477 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-10 18:47:07:477 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:47:07:477 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-10 18:47:08:478 info: [API Server] Запуск процесса...
+2026-05-10 18:47:12:4712 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:47:12:4712 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-10 18:47:12:4712 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:47:12:4712 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:47:12:4712 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:47:12:4712 info: New client connected from IP: ::1
+2026-05-10 18:47:12:4712 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-10 18:47:12:4712 debug: Unidentified client disconnected
+2026-05-10 18:47:13:4713 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:47:13:4713 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-10 18:47:14:4714 info: [API Server] Успешное подключение к MongoDB.
+2026-05-10 18:47:14:4714 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:47:14:4714 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-10 18:47:20:4720 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-10 18:47:20:4720 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-10 18:47:21:4721 info: [API Server] Запуск процесса...
+2026-05-10 18:47:27:4727 info: [API Server] Успешное подключение к MongoDB.
+2026-05-10 18:47:27:4727 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:47:27:4727 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-10 18:47:27:4727 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:47:27:4727 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-10 18:47:27:4727 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:47:27:4727 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:47:27:4727 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:47:28:4728 info: [HealthMonitor] Monitoring started for api:main
+2026-05-10 18:47:28:4728 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-10 18:47:28:4728 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 20136.
+2026-05-10 18:47:28:4728 info: Обработчики грациозного завершения инициализированы.
+2026-05-10 18:47:29:4729 info: New client connected from IP: ::1
+2026-05-10 18:47:29:4729 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-10 18:47:30:4730 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 18:47:31:4731 info: New client connected from IP: ::1
+2026-05-10 18:47:31:4731 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_17740
+2026-05-10 18:47:32:4732 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:47:32:4732 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-10 18:47:32:4732 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:47:32:4732 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-10 18:47:32:4732 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:47:32:4732 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-10 18:48:00:480 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 18:48:00:480 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 18:48:00:480 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 18:48:00:480 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 18:48:00:480 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 18:48:27:4827 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:48:27:4827 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:48:30:4830 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 18:49:00:490 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 18:49:00:490 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 18:49:00:490 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 18:49:00:490 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 18:49:00:490 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 18:49:27:4927 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:49:27:4927 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:49:30:4930 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 18:49:43:4943 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-10 18:49:50:4950 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-10 18:49:50:4950 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-10 18:49:51:4951 info: [API Server] Запуск процесса...
+2026-05-10 18:49:53:4953 info: New client connected from IP: ::1
+2026-05-10 18:49:53:4953 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 18:49:53:4953 debug: Unidentified client disconnected
+2026-05-10 18:49:54:4954 info: New client connected from IP: ::1
+2026-05-10 18:49:54:4954 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 18:49:54:4954 debug: Unidentified client disconnected
+2026-05-10 18:49:55:4955 info: New client connected from IP: ::1
+2026-05-10 18:49:55:4955 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 18:49:55:4955 debug: Unidentified client disconnected
+2026-05-10 18:49:55:4955 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:49:55:4955 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-10 18:49:55:4955 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:49:55:4955 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:49:55:4955 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:49:55:4955 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:49:55:4955 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-10 18:49:55:4955 info: New client connected from IP: ::1
+2026-05-10 18:49:55:4955 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-10 18:49:55:4955 debug: Unidentified client disconnected
+2026-05-10 18:49:56:4956 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:49:56:4956 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-10 18:49:56:4956 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:49:56:4956 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-10 18:49:56:4956 info: New client connected from IP: ::1
+2026-05-10 18:49:56:4956 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 18:49:56:4956 debug: Unidentified client disconnected
+2026-05-10 18:49:56:4956 info: [API Server] Успешное подключение к MongoDB.
+2026-05-10 18:49:56:4956 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:49:56:4956 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-10 18:49:56:4956 info: [HealthMonitor] Monitoring started for api:main
+2026-05-10 18:49:57:4957 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-10 18:49:57:4957 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 10316.
+2026-05-10 18:49:57:4957 info: Обработчики грациозного завершения инициализированы.
+2026-05-10 18:49:57:4957 info: New client connected from IP: ::1
+2026-05-10 18:49:57:4957 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-10 18:49:57:4957 info: New client connected from IP: ::1
+2026-05-10 18:49:57:4957 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_19992
+2026-05-10 18:50:00:500 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 18:50:00:500 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 18:50:00:500 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 18:50:00:500 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 18:50:00:500 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 18:50:30:5030 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 18:50:55:5055 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:50:55:5055 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:51:00:510 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 18:51:00:510 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 18:51:00:510 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 18:51:00:510 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 18:51:00:510 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 18:51:30:5130 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 18:51:55:5155 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:51:55:5155 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:52:00:520 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 18:52:00:520 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 18:52:00:520 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 18:52:00:520 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 18:52:00:520 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 18:52:30:5230 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 18:52:55:5255 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:52:55:5255 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:53:00:530 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 18:53:00:530 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 18:53:00:530 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 18:53:00:530 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 18:53:00:530 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 18:53:10:5310 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-10 18:53:17:5317 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-10 18:53:17:5317 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-10 18:53:17:5317 info: [API Server] Запуск процесса...
+2026-05-10 18:53:20:5320 info: New client connected from IP: ::1
+2026-05-10 18:53:20:5320 warn: [Infisical] Secret "GS_CLIENT_ID" not found in cache.
+2026-05-10 18:53:20:5320 debug: Unidentified client disconnected
+2026-05-10 18:53:20:5320 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:53:20:5320 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-10 18:53:20:5320 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:53:20:5320 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:53:20:5320 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:53:20:5320 info: New client connected from IP: ::1
+2026-05-10 18:53:20:5320 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 18:53:20:5320 debug: Unidentified client disconnected
+2026-05-10 18:53:20:5320 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:53:20:5320 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-10 18:53:20:5320 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:53:20:5320 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-10 18:53:21:5321 info: New client connected from IP: ::1
+2026-05-10 18:53:21:5321 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 18:53:21:5321 debug: Unidentified client disconnected
+2026-05-10 18:53:22:5322 info: [API Server] Успешное подключение к MongoDB.
+2026-05-10 18:53:22:5322 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:53:22:5322 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-10 18:53:22:5322 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:53:22:5322 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-10 18:53:22:5322 info: [HealthMonitor] Monitoring started for api:main
+2026-05-10 18:53:22:5322 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-10 18:53:22:5322 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 15956.
+2026-05-10 18:53:22:5322 info: Обработчики грациозного завершения инициализированы.
+2026-05-10 18:53:22:5322 info: New client connected from IP: ::1
+2026-05-10 18:53:22:5322 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_9472
+2026-05-10 18:53:22:5322 info: New client connected from IP: ::1
+2026-05-10 18:53:22:5322 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-10 18:53:30:5330 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 18:53:36:5336 info: Client disconnected: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-10 18:54:00:540 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 18:54:00:540 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 18:54:00:540 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 18:54:00:540 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 18:54:00:540 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 18:54:12:5412 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-10 18:54:12:5412 info: Закрытие серверов (WebSocket и HTTP)...
+2026-05-10 18:54:19:5419 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-10 18:54:19:5419 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-10 18:54:20:5420 info: [API Server] Запуск процесса...
+2026-05-10 18:54:21:5421 info: New client connected from IP: ::1
+2026-05-10 18:54:21:5421 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 18:54:22:5422 debug: Unidentified client disconnected
+2026-05-10 18:54:22:5422 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:54:22:5422 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-10 18:54:22:5422 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:54:22:5422 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:54:22:5422 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:54:23:5423 info: New client connected from IP: ::1
+2026-05-10 18:54:23:5423 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 18:54:23:5423 debug: Unidentified client disconnected
+2026-05-10 18:54:23:5423 info: [API Server] Успешное подключение к MongoDB.
+2026-05-10 18:54:23:5423 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:54:23:5423 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-10 18:54:23:5423 info: [HealthMonitor] Monitoring started for api:main
+2026-05-10 18:54:23:5423 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-10 18:54:23:5423 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 17340.
+2026-05-10 18:54:23:5423 info: Обработчики грациозного завершения инициализированы.
+2026-05-10 18:54:23:5423 info: New client connected from IP: ::1
+2026-05-10 18:54:23:5423 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_6500
+2026-05-10 18:54:23:5423 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:54:23:5423 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-10 18:54:23:5423 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:54:23:5423 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-10 18:54:24:5424 info: New client connected from IP: ::1
+2026-05-10 18:54:24:5424 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-10 18:54:26:5426 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:54:26:5426 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-10 18:54:30:5430 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 18:54:30:5430 info: Client disconnected: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-10 18:55:00:550 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 18:55:00:550 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 18:55:00:550 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 18:55:00:550 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 18:55:00:550 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 18:55:22:5522 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:55:22:5522 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:55:30:5530 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 18:56:00:560 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 18:56:00:560 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 18:56:00:560 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 18:56:00:560 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 18:56:00:560 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 18:56:20:5620 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-10 18:56:53:5653 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-10 18:56:53:5653 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-10 18:56:53:5653 info: [API Server] Запуск процесса...
+2026-05-10 18:56:55:5655 info: New client connected from IP: ::1
+2026-05-10 18:56:55:5655 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 18:56:55:5655 debug: Unidentified client disconnected
+2026-05-10 18:56:55:5655 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:56:55:5655 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-10 18:56:55:5655 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:56:55:5655 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:56:55:5655 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-10 18:56:55:5655 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:56:55:5655 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:56:55:5655 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:56:55:5655 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-10 18:56:55:5655 info: [API Server] Успешное подключение к MongoDB.
+2026-05-10 18:56:55:5655 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:56:55:5655 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-10 18:56:56:5656 info: [HealthMonitor] Monitoring started for api:main
+2026-05-10 18:56:56:5656 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-10 18:56:56:5656 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 16920.
+2026-05-10 18:56:56:5656 info: Обработчики грациозного завершения инициализированы.
+2026-05-10 18:56:56:5656 info: New client connected from IP: ::1
+2026-05-10 18:56:56:5656 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_18720
+2026-05-10 18:56:56:5656 info: New client connected from IP: ::1
+2026-05-10 18:56:56:5656 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-10 18:56:57:5657 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:56:57:5657 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-10 18:57:00:570 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 18:57:00:570 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 18:57:00:570 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 18:57:00:570 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 18:57:00:570 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 18:57:30:5730 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 18:57:34:5734 debug: Creating session for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b from web3server (web3server_kkwvq34lvcw2cf) [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 18:57:34:5734 debug: Session created in Redis for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 18:57:55:5755 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:57:55:5755 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:57:56:5756 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-10 18:58:46:5846 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-10 18:58:46:5846 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-10 18:58:46:5846 info: [API Server] Запуск процесса...
+2026-05-10 18:58:47:5847 info: New client connected from IP: ::1
+2026-05-10 18:58:47:5847 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 18:58:47:5847 debug: Unidentified client disconnected
+2026-05-10 18:58:47:5847 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:58:47:5847 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-10 18:58:47:5847 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:58:47:5847 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-10 18:58:47:5847 info: [API Server] Успешное подключение к MongoDB.
+2026-05-10 18:58:47:5847 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:58:47:5847 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-10 18:58:48:5848 info: [HealthMonitor] Monitoring started for api:main
+2026-05-10 18:58:48:5848 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-10 18:58:48:5848 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 15256.
+2026-05-10 18:58:48:5848 info: Обработчики грациозного завершения инициализированы.
+2026-05-10 18:58:48:5848 info: New client connected from IP: ::1
+2026-05-10 18:58:48:5848 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-10 18:58:49:5849 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:58:49:5849 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-10 18:58:49:5849 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-10 18:58:49:5849 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:58:49:5849 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 18:58:49:5849 info: New client connected from IP: ::1
+2026-05-10 18:58:49:5849 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_6440
+2026-05-10 18:58:49:5849 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 18:58:49:5849 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-10 18:59:00:590 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 18:59:00:590 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 18:59:00:590 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 18:59:00:590 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 18:59:00:590 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 18:59:30:5930 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 18:59:38:5938 debug: Creating session for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b from web3server (web3server_kkwvq34lvcw2cf) [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 18:59:38:5938 debug: Session created in Redis for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 18:59:49:5949 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 18:59:49:5949 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 19:00:00:00 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 19:00:00:00 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 19:00:00:00 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 19:00:00:00 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 19:00:00:00 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 19:00:30:030 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 19:00:49:049 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 19:00:49:049 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 19:01:00:10 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 19:01:00:10 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 19:01:00:10 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 19:01:00:10 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 19:01:00:10 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 19:01:02:12 debug: Creating session for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b from web3server (web3server_kkwvq34lvcw2cf) [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 19:01:02:12 debug: Session created in Redis for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 19:01:30:130 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 19:01:49:149 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 19:01:49:149 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 19:02:00:20 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 19:02:00:20 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 19:02:00:20 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 19:02:00:20 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 19:02:00:20 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 19:02:30:230 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 19:02:49:249 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 19:02:49:249 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 19:03:00:30 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 19:03:00:30 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 19:03:00:30 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 19:03:00:30 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 19:03:00:30 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 19:03:30:330 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 19:03:39:339 debug: Creating session for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b from web3server (web3server_kkwvq34lvcw2cf) [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 19:03:39:339 debug: Session created in Redis for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 19:03:49:349 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 19:03:49:349 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 19:04:00:40 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 19:04:00:40 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 19:04:00:40 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 19:04:00:40 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 19:04:00:40 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 19:04:30:430 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 19:04:49:449 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 19:04:49:449 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 19:05:00:50 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 19:05:00:50 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 19:05:00:50 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 19:05:00:50 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 19:05:00:50 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 19:05:30:530 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 19:05:49:549 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 19:05:49:549 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 19:06:00:60 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 19:06:00:60 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 19:06:00:60 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 19:06:00:60 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 19:06:00:60 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 19:06:30:630 debug: ExpNotifier: No clients online, skipping EXP check.
+2026-05-10 19:06:31:631 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-10 19:25:31:2531 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-10 19:25:31:2531 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-10 19:25:32:2532 info: [API Server] Запуск процесса...
+2026-05-10 19:25:36:2536 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 19:25:36:2536 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-10 19:25:36:2536 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-10 19:25:36:2536 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-10 19:25:36:2536 info: New client connected from IP: ::1
+2026-05-10 19:25:36:2536 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 19:25:36:2536 debug: Unidentified client disconnected
+2026-05-10 19:25:37:2537 info: New client connected from IP: ::1
+2026-05-10 19:25:37:2537 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 19:25:37:2537 debug: Unidentified client disconnected
+2026-05-10 19:25:38:2538 info: New client connected from IP: ::1
+2026-05-10 19:25:38:2538 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 19:25:38:2538 debug: Unidentified client disconnected
+2026-05-10 19:25:39:2539 info: New client connected from IP: ::1
+2026-05-10 19:25:39:2539 warn: [Infisical] Secret "WEB3_CLIENT_ID" not found in cache.
+2026-05-10 19:25:39:2539 debug: Unidentified client disconnected
+2026-05-10 19:25:40:2540 info: [API Server] Успешное подключение к MongoDB.
+2026-05-10 19:25:40:2540 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 19:25:40:2540 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-10 19:25:40:2540 info: [HealthMonitor] Monitoring started for api:main
+2026-05-10 19:25:40:2540 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-10 19:25:40:2540 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 18240.
+2026-05-10 19:25:40:2540 info: Обработчики грациозного завершения инициализированы.
+2026-05-10 19:25:40:2540 info: New client connected from IP: ::1
+2026-05-10 19:25:40:2540 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_14416
+2026-05-10 19:25:40:2540 info: New client connected from IP: ::1
+2026-05-10 19:25:40:2540 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-10 19:25:41:2541 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 19:25:41:2541 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 19:25:41:2541 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-10 19:25:41:2541 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-10 19:25:41:2541 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-10 19:25:41:2541 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 19:25:41:2541 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 19:26:00:260 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 19:26:00:260 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 19:26:00:260 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 19:26:00:260 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 19:26:00:260 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 19:26:09:269 debug: Creating session for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b from web3server (web3server_kkwvq34lvcw2cf) [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 19:26:09:269 debug: Session created in Redis for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 19:26:28:2628 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
+2026-05-10 19:26:28:2628 info: Закрытие серверов (WebSocket и HTTP)...
+2026-05-10 19:26:28:2628 info: Client disconnected: gameserver, ID: gameserver-Hddkwe35fsvk_worker_14416
+2026-05-10 20:01:27:127 info: [Reconciler] Запуск воркера для сверки резерваций (Unified)...
+2026-05-10 20:01:27:127 info: [CraftGovernor] Запуск воркера "Craft Governor"...
+2026-05-10 20:01:28:128 info: [API Server] Запуск процесса...
+2026-05-10 20:01:31:131 info: New client connected from IP: ::1
+2026-05-10 20:01:31:131 info: Client identified and connection stored: web3server, ID: web3server_kkwvq34lvcw2cf
+2026-05-10 20:01:32:132 info: [API Server] Успешное подключение к MongoDB.
+2026-05-10 20:01:32:132 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 20:01:32:132 info: Прогрев не требуется: нет сезона. [context: hydrate_season_null]
+2026-05-10 20:01:32:132 info: [HealthMonitor] Monitoring started for api:main
+2026-05-10 20:01:32:132 info: Optimized Exp Notifier scheduler started [context: exp_notifier]
+2026-05-10 20:01:32:132 info: [API Server] Сервер запущен и готов к приему WebSocket соединений на PID: 14292.
+2026-05-10 20:01:32:132 info: Обработчики грациозного завершения инициализированы.
+2026-05-10 20:01:32:132 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 20:01:32:132 info: [HealthMonitor] Monitoring started for governor:main
+2026-05-10 20:01:32:132 info: [CraftGovernor] Успешное подключение к MongoDB и Redis.
+2026-05-10 20:01:32:132 info: [CraftGovernor] Воркер запланирован с cron-выражением: "* * * * *"
+2026-05-10 20:01:33:133 info: New client connected from IP: ::1
+2026-05-10 20:01:33:133 info: Client identified and connection stored: gameserver, ID: gameserver-Hddkwe35fsvk_worker_5912
+2026-05-10 20:01:33:133 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 20:01:34:134 info: [HealthMonitor] Monitoring started for reconciler:main
+2026-05-10 20:01:34:134 info: [Reconciler] Успешное подключение к MongoDB и Redis.
+2026-05-10 20:01:34:134 debug: [Reconciler] Запуск сверки истекших резерваций...
+2026-05-10 20:01:34:134 debug: [Reconciler] Не найдено истекших резерваций для сверки.
+2026-05-10 20:01:34:134 info: dbServer: Successfully connected to Redis (main client).
+2026-05-10 20:01:34:134 info: [HealthMonitor] Monitoring started for worker:1
+2026-05-10 20:01:50:150 debug: Creating session for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b from web3server (web3server_kkwvq34lvcw2cf) [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 20:01:50:150 debug: Session created in Redis for 0x2da351d8d5840415025c35a7c843a0dfa6e4b89b [context: session_0x2da351d8d5840415025c35a7c843a0dfa6e4b89b]
+2026-05-10 20:02:00:20 debug: [CraftGovernor] Запуск цикла проверки... [context: governor]
+2026-05-10 20:02:00:20 debug: [CraftGovernor] Предыдущее состояние: 2 владельцев. Текущее состояние: 2 владельцев. [context: governor]
+2026-05-10 20:02:00:20 info: [CraftGovernor] Найдено для паузы: 0. Найдено для возобновления: 0. [context: governor]
+2026-05-10 20:02:00:20 debug: [CraftGovernor] Изменений нет, состояние не обновлялось. [context: governor]
+2026-05-10 20:02:00:20 debug: [CraftGovernor] Цикл проверки завершен. [context: governor]
+2026-05-10 20:02:18:218 warn: Получен сигнал SIGINT. Начинаю грациозное завершение dbserver...
