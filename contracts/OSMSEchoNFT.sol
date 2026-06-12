@@ -203,14 +203,14 @@ contract OSMSEchoNFT is ERC1155Pausable, ERC2981, Ownable, ReentrancyGuard {
     ) internal virtual override {
         if (from != address(0)) {
             for (uint256 i = 0; i < ids.length; ++i) {
-                if (balanceOf(from, ids[i]) == amounts[i]) {
+                if (amounts[i] > 0 && balanceOf(from, ids[i]) == amounts[i]) {
                     uniqueTokensOwned[from]--;
                 }
             }
         }
         if (to != address(0)) {
             for (uint256 i = 0; i < ids.length; ++i) {
-                if (balanceOf(to, ids[i]) == 0) {
+                if (amounts[i] > 0 && balanceOf(to, ids[i]) == 0) {
                     uniqueTokensOwned[to]++;
                 }
             }
