@@ -1,6 +1,7 @@
 .idea/
 .vscode/
 node_modules/
+foundry/
 .env
 .env.production
 .repomixignore
