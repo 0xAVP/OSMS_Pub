@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "vite build",
+    "build": "node init && vite build",
     "dev-dbServer": "\"node src/server/dbserver/starter.js\"",
     "dev-web3Server": "\"node src/server/web3server/server.js\"",
     "dev-gameSrver": "\"node src/server/gameserver/server.js\"",
