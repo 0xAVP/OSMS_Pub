@@ -1,4 +1,4 @@
-Browser-based Web3 2D real-time shooter (MMO) with an open economy, crafting, seasonal rankings, NFTs, and tokenomics.
+Browser-based Web3 2D real-time space shooter (MMO) with an open economy, crafting, seasonal rankings, NFTs, and tokenomics.
 
 Cleaned-up version (landing page, client, servers, smart-contracts) without assets and comments. For code presentation purposes only.
 
